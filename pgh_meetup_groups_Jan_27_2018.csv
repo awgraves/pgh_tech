@@ -1,0 +1,944 @@
+name,urlname,city,lat,lon,category,created,status,members,join_mode,past_event_count,last_event,last_rsvp
+Free and Almost Free in Pittsburgh,pittsburgh-free,Pittsburgh,40.47,-79.95,Socializing,2010-12-30 23:15:54,active,17806,open,9885,2018-01-26 21:00:00,2
+The Pittsburgh Hiking Meetup Group,pittsburghhikers,Pittsburgh,40.45,-79.99,Outdoors & Adventure,2007-05-29 06:48:49,active,6880,approval,3929,2018-01-26 17:45:00,10
+The Pittsburgh Cultural Arts Meetup Group,Art-lovers,Pittsburgh,40.44,-79.95,Arts & Culture,2008-11-10 20:40:33,active,6253,open,1239,2018-01-26 19:00:00,9
+Pittsburgh Singles Over-50 Meetup,Pittsburgh-Singles-Meetup,Pittsburgh,40.45,-79.99,Socializing,2016-12-30 22:38:58,active,553,approval,74,2018-01-17 17:45:00,25
+The Pittsburgh Social Club!,Pittsburgh-Social-Club,Pittsburgh,40.47,-79.92,Socializing,2011-01-27 19:15:11,active,5319,open,3607,2018-01-26 21:00:00,2
+Saturday Singles - Pittsburgh,SaturdaySingles-Pittsburgh,Pittsburgh,40.52,-80.04,Dancing,2012-11-26 20:33:09,active,4752,open,114,2018-01-20 19:30:00,114
+Pittsburgh Adventure Lovers (PAL) club,Pittsburgh-Adventure-Lovers-club,Pittsburgh,40.47,-79.95,Outdoors & Adventure,2009-08-15 08:20:16,active,5004,approval,1956,2018-01-26 17:45:00,2
+Pittsburgh Startup Founder 101,Pittsburgh-Startup-Founder-101,Pittsburgh,40.47,-79.95,Career & Business,2015-11-10 07:17:56,active,1384,open,17,2018-01-23 18:00:00,27
+Western PA Gaming,Western-PA-Gaming,Bridgeville,40.36,-80.11,Games,2014-01-21 12:35:19,active,1789,open,325,2018-01-26 18:00:00,41
+Blockchain Developers and Enthusiasts United,blockchainpgh,Pittsburgh,40.47,-79.95,Tech,2017-10-28 19:35:41,active,215,open,6,2018-01-18 18:30:00,67
+Pittsburgh Inclusive Innovation Meetup,Pittsburgh-Innovation-Meetup,Pittsburgh,40.47,-79.95,Career & Business,2017-06-14 08:25:20,active,671,open,12,2018-01-24 17:00:00,53
+Progressive Singles of Pittsburgh,Progressive-Singles-of-Pittsburgh,Pittsburgh,40.47,-79.95,Singles,2017-04-20 10:39:06,active,1068,open,57,2018-01-26 18:00:00,41
+Steel City Ukuleles,Steel-City-Ukuleles,Pittsburgh,40.43,-79.95,Music,2012-11-30 13:28:37,active,457,open,520,2018-01-24 18:45:00,19
+WordPress Pittsburgh,Pittsburgh-WordPress-Developers-Designers,Pittsburgh,40.45,-79.98,Tech,2014-08-06 08:00:37,active,822,open,57,2018-01-09 07:30:00,17
+The Pittsburgh Spanish Language Meetup Group,Pittsburgh-Spanish,Pittsburgh,40.45,-79.98,Language & Ethnic Identity,2002-10-17 19:49:49,active,1862,open,392,2018-01-06 13:00:00,18
+Pittsburgh Craft Beer Meetup,Pittsburgh-Craft-Beer-Meetup,Glenshaw,40.52,-79.95,Food & Drink,2016-10-26 17:45:16,active,499,approval,87,2018-01-25 19:00:00,9
+Pittsburgh Ladies: A 20s & 30s Social Group,PittsburghLadies,Pittsburgh,40.47,-79.95,Socializing,2013-06-10 18:52:03,active,248,open,1410,2018-01-22 18:00:00,7
+Pittsburgh Code & Supply,Pittsburgh-Code-Supply,Pittsburgh,40.47,-79.92,Tech,2014-03-20 09:40:46,active,3562,open,314,2018-01-24 19:00:00,26
+Shut Up & Write! Pittsburgh,shutupandwritepittsburgh,Pittsburgh,40.47,-79.95,Writing,2015-08-04 12:23:05,active,756,open,503,2018-01-26 18:00:00,8
+Girl Develop It Pittsburgh,Girl-Develop-It-Pittsburgh,Pittsburgh,40.45,-79.99,Tech,2012-06-13 20:49:34,active,2058,open,96,2018-01-18 19:00:00,37
+Pittsburgh Freethought Community  (PFC),Pittsburgh-Freethought-Community,Pittsburgh,40.45,-79.99,Religion & Beliefs,2006-09-15 14:21:23,active,2013,open,403,2018-01-24 19:00:00,30
+Pittsburgh Bitcoin Users,Pittsburgh-Bitcoin-Users,Pittsburgh,40.45,-79.99,Movements & Politics,2012-05-14 09:46:45,active,735,open,66,2018-01-03 18:30:00,55
+PGH Data Science,PGH-Data-Science,Pittsburgh,40.47,-79.95,Tech,2017-02-02 15:37:53,active,758,open,9,2018-01-10 16:00:00,72
+Shadyside Young Professionals,Shadyside-Young-Professionals,Pittsburgh,40.47,-79.95,Socializing,2017-02-09 18:33:48,active,744,open,6,2017-12-05 18:00:00,31
+The Pittsburgh Chick Lit Book Club,Pgh-Chick-Lit-Book-Club,Pittsburgh,40.5,-80.07,Movies & Film,2007-05-21 13:35:22,active,595,approval,645,2018-01-19 19:00:00,9
+Pathways to Fun for the 40 +,Pathways-to-Fun-for-the-40,Coraopolis,40.51,-80.18,Food & Drink,2016-07-04 05:58:09,active,869,approval,336,2018-01-26 19:00:00,4
+Pittsburgh Catholic Moms,Pittsburgh-Catholic-Moms,Pittsburgh,40.4,-80.04,Parents & Family,2013-06-29 12:34:17,active,190,approval,1209,2018-01-26 10:30:00,1
+Carnegie Museum of Natural History Meetup,Carnegie-Museum-of-Natural-History-meetups,Pittsburgh,40.44,-79.95,Education & Learning,2016-04-11 08:51:33,active,1189,approval,76,2018-01-21 10:00:00,20
+Tech Happy Hour - Pittsburgh,Tech-Happy-Hour-Pittsburgh,Pittsburgh,40.47,-79.95,Career & Business,2017-01-02 14:19:47,active,1008,open,14,2018-01-03 19:00:00,35
+L.L.Bean Pittsburgh Outdoor Adventure Club,LLBeanPittsburgh,Pittsburgh,40.55,-80.04,Outdoors & Adventure,2012-02-23 08:22:28,active,4887,open,1581,2018-01-25 19:30:00,3
+Single Out dinner group for LGBTQ Singles,Single-Out-dinner-group-for-GLBT-Singles,Pittsburgh,40.43,-79.97,LGBT,2014-02-15 13:09:20,active,1217,open,53,2018-01-19 19:00:00,37
+Pittsburgh Kubernetes Meetup,Pittsburgh-Kubernetes-Meetup,Pittsburgh,40.47,-79.95,Tech,2017-06-07 15:39:03,active,87,open,0,,0
+Mt. Lebanon Moms Network,mtlebanonmomsnetwork,Pittsburgh,40.38,-80.07,Parents & Family,2010-06-26 21:48:13,active,161,approval,3232,2018-01-26 13:00:00,1
+The Pittsburgh Photo Safari Meetup Group,pittsburghphotomeetup,Pittsburgh,40.45,-79.98,Photography,2009-09-06 11:11:54,active,177,open,780,2018-01-20 10:00:00,15
+Pittsburgh Women's Mastermind for Entreprenuers: Cranberry,Pittsburghwomensmastermind-Cranberry,Pittsburgh,40.38,-80.04,Career & Business,2016-10-19 15:03:47,active,407,open,29,2018-01-19 18:30:00,10
+South Hills Socialites,South-Hills-Socialites,Pittsburgh,40.4,-80.02,Socializing,2010-10-08 13:17:36,active,151,approval,578,2018-01-24 18:30:00,5
+ProductTank Pittsburgh,ProductTank-Pittsburgh,Pittsburgh,40.45,-79.99,Tech,2016-09-09 01:55:24,active,439,open,7,2018-01-16 18:00:00,35
+#Resist: Pittsburgh,Resist-Pittsburgh,Pittsburgh,40.47,-79.95,Movements & Politics,2017-02-03 23:32:00,active,1285,open,146,2018-01-23 12:00:00,4
+Amazing Pittsburgh!,AmazingPittsburgh,Pittsburgh,40.47,-79.92,Socializing,2014-08-13 22:10:10,active,3421,open,1748,2018-01-26 21:00:00,2
+Social Butterflies - A Group for Women,Social-Butterflies-women,Irwin,40.33,-79.72,Career & Business,2010-02-17 10:49:35,active,75,approval,1211,2018-01-25 18:30:00,1
+Christian Business Partners - Faith Based Networking,CBPPittsburg,Wexford,40.62,-80.06,Career & Business,2016-01-04 14:21:32,active,584,open,379,2018-01-25 08:15:00,9
+Asian Professionals of Pittsburgh,Asian-Professionals-of-Pittsburgh,Pittsburgh,40.44,-79.95,Socializing,2014-06-30 12:34:33,active,265,approval,329,2018-01-26 18:00:00,4
+Ladies and Littles of Robinson,Ladies-and-Littles-of-Robinson,Pittsburgh,40.44,-80.07,Parents & Family,2012-09-01 21:25:34,active,88,approval,1718,2018-01-26 18:00:00,1
+The Pittsburgh Java Meetup Group,The-Pittsburgh-Java-Meetup-Group,Pittsburgh,40.47,-79.95,Tech,2017-05-26 11:55:20,active,325,open,5,2017-11-29 16:30:00,34
+Pittsburgh Geekdom,Geekdom1,Pittsburgh,40.44,-79.95,Sci-Fi & Fantasy,2011-07-07 01:43:08,active,1258,open,642,2018-01-26 18:00:00,4
+Pittsburgh Women's Mastermind for Entrepreneurs: South Hills,Pittsburghwomensmastermind-South,Pittsburgh,40.47,-79.95,Career & Business,2017-03-29 03:50:48,active,354,open,19,2018-01-19 18:30:00,3
+"Around the world: Foods, Cultures and Languages Potluck!",AroundTheWorldPgh,Pittsburgh,40.47,-80.02,Language & Ethnic Identity,2017-04-04 10:03:13,active,408,open,3,2018-01-20 18:00:00,48
+WOMEN'S SMALL BUSINESS ASSOCIATION TM. - Allegheny County,Womens-Small-Business-Association,Pittsburgh,40.55,-80.04,Career & Business,2007-08-20 18:28:29,active,1002,open,918,2018-01-25 17:30:00,12
+Catholic Singles of Greater Pittsburgh,Catholic-Singles-of-Greater-Pittsburgh,Pittsburgh,40.45,-79.98,Sports & Recreation,2017-01-15 18:52:56,active,275,open,134,2018-01-19 17:00:00,11
+(ISC)² Pittsburgh Chapter,ISC-Pittsburgh-Chapter,Pittsburgh,40.47,-79.95,Tech,2017-05-06 17:31:45,active,190,open,6,2018-01-09 17:30:00,41
+More4Moms-Canonsburg/Peters/McMurray,More4moms,Canonsburg,40.27,-80.15,Parents & Family,2012-03-07 22:31:13,active,63,approval,2166,2018-01-25 09:30:00,4
+The Pittsburgh Metaphysics Meetup Group,The-Pittsburgh-Metaphysics-Meetup-Group,Pittsburgh,40.43,-79.89,New Age & Spirituality,2009-01-04 00:33:24,active,1295,open,2022,2018-01-25 18:30:00,1
+Pittsburgh Agile (@PittAgile | #PittAgile),PittsburghAgile,Pittsburgh,40.46,-80.03,Tech,2011-03-02 11:31:00,active,1465,open,72,2018-01-24 18:00:00,27
+Country Barn Farm,Country-Barn-Farm-Meetup,Pittsburgh,40.53,-79.88,Community & Environment,2014-02-13 14:53:02,active,326,open,79,2018-01-04 18:00:00,26
+"MOMS Club® of Cranberry Twp. North, PA",MOMSClubCranberryNorth,Cranberry Twp,40.71,-80.11,Parents & Family,2015-07-28 13:24:42,active,48,approval,350,2018-01-26 10:00:00,13
+Steel City Information Security,Steel-City-InfoSec,Pittsburgh,40.45,-79.99,Tech,2012-10-30 12:59:15,active,788,open,57,2018-01-10 18:00:00,50
+Grants Professionals of Western PA,Grants-Professionals-of-Western-PA,Pittsburgh,40.45,-79.93,Community & Environment,2016-06-03 07:55:08,active,183,open,17,2017-11-29 12:00:00,8
+Pittsburgh East Networking Group,Monroeville-Plum-Business-Referral-Networking-Meetup,Monroeville,40.43,-79.76,Career & Business,2014-03-26 10:55:13,active,82,approval,95,2018-01-16 12:30:00,24
+Alex Deacon Real Estate Networking Workshops,Alex-Deacon-Team-Real-Estate-Networking-Meetup,Carnegie,40.41,-80.09,Career & Business,2015-08-09 17:43:12,active,343,open,28,2018-01-13 10:00:00,31
+PA\Pgh Medical Marijuana-Meetup,Pgh-World-Medical-Marijuana-Meetup,Pittsburgh,40.47,-79.95,Health & Wellbeing,2016-08-26 07:53:18,active,360,open,14,2018-01-13 11:00:00,68
+Pittsburgh Single Professionals,professional-singles-pittsburgh,Pittsburgh,40.47,-79.95,Singles,2015-11-10 23:05:36,active,3626,open,33,2017-12-16 07:30:00,10
+Pittsburgh Pick-Up Indoor Volleyball,Pittsburgh-Pick-Up-Indoor-Volleyball,Pittsburgh,40.47,-79.95,Sports & Recreation,2017-11-01 08:31:29,active,208,open,8,2018-01-22 18:30:00,17
+"Pgh Food, Beer, Wine & Fun",pgh-food-beer-wine-fun,Pittsburgh,40.42,-79.98,Socializing,2013-08-21 00:36:31,active,2475,open,951,2018-01-26 21:00:00,1
+Make New Friends in Pittsburgh,Make-New-Friends-in-Pittsburgh,Pittsburgh,40.47,-79.95,Socializing,2017-09-01 17:06:40,active,887,open,2,2018-01-11 05:00:00,28
+Pittsburgh Badminton,Pittsburgh-Badminton,Pittsburgh,40.47,-79.95,Sports & Recreation,2015-08-28 12:12:33,active,486,open,121,2018-01-21 18:30:00,11
+Pittsburgh SQL Server User Group,PittsburghSQL,Pittsburgh,40.43,-80.05,Tech,2014-08-04 17:14:17,active,385,open,39,2017-12-21 17:00:00,9
+HackPGH,HackPGH,Pittsburgh,40.45,-79.98,Tech,2015-05-27 07:38:41,active,1623,open,79,2018-01-17 19:00:00,17
+South Hills Business Network,South-Hills-Business-Network-Exchange,Pittsburgh,40.45,-79.99,Career & Business,2015-04-12 19:20:36,active,280,open,72,2018-01-16 09:00:00,16
+Hiking Club Of Raccoon Creek,Hiking-Club-Of-Raccoon-Creek,Pittsburgh,40.44,-80.07,Outdoors & Adventure,2012-12-18 11:25:51,active,1441,approval,267,2018-01-21 10:00:00,26
+Morgantown Codes,morgantown-codes,Morgantown,39.64,-79.95,Tech,2012-11-29 18:57:01,active,134,open,14,2018-01-11 18:30:00,33
+"Code for Pittsburgh, our Region's Code for America Brigade",codeforpgh,Pittsburgh,40.4,-79.93,Tech,2014-11-24 16:44:12,active,739,open,112,2018-01-18 17:00:00,18
+The Pittsburgh French Meetup Group,FrenchLessons,Pittsburgh,40.43,-79.92,Language & Ethnic Identity,2003-10-22 16:39:49,active,974,approval,770,2018-01-20 10:00:00,7
+Japanese Language Study Group,JSGPITT,Pittsburgh,40.44,-79.95,Sci-Fi & Fantasy,2011-02-13 00:21:06,active,682,open,910,2018-01-21 15:00:00,4
+Pittsburgh Power BI User Group,Pittsburgh-Power-BI-Meetup,Pittsburgh,40.47,-79.95,Tech,2016-07-14 21:08:11,active,218,open,21,2018-01-25 17:00:00,15
+MOMS Club of Ross/McCandless,MOMSClubofRossMcCandless,Pittsburgh,40.55,-80.04,Parents & Family,2013-08-14 20:52:37,active,31,approval,622,2018-01-26 11:00:00,4
+Pittsburgh Feminists' Magick Full Moon Circle,Pittsburgh-Feminists-Magick-Full-Moon-Circle,Pittsburgh,40.44,-79.95,New Age & Spirituality,2015-08-03 20:08:59,active,513,open,37,2018-01-02 19:00:00,14
+Women's Book Club,meetup-group-gBaDnEly,Bridgeville,40.36,-80.11,Book Clubs,2017-10-31 14:15:43,active,238,open,2,2018-01-09 19:00:00,8
+From Startup to Success,From-Startup-to-Success,Pittsburgh,40.47,-79.95,Career & Business,2017-10-03 09:39:51,active,193,open,3,2018-01-18 09:00:00,22
+"Pgh 20s/30s International Friends, Travel and Food",Pgh-20s-30s-International-Friends-Travel-and-Food,Pittsburgh,40.47,-79.95,Language & Ethnic Identity,2018-01-14 14:10:54,active,68,open,0,,0
+Pittsburgh Women's Mastermind for Entrepreneurs: Robinson,PittsburghWomensMastermind-Robinson,Pittsburgh,40.44,-80.1,Career & Business,2014-08-07 16:47:30,active,603,open,64,2018-01-23 09:30:00,21
+The Pittsburgh Lesbian Professionals Social Group,pghlesbianprofessionals,Pittsburgh,40.5,-80.07,LGBT,2008-06-03 09:29:04,active,792,approval,185,2018-01-26 19:00:00,26
+Pittsburgh Travelers Meetup,Pittsburgh-Travel-Meetup,Glenshaw,40.52,-79.95,Outdoors & Adventure,2016-11-03 11:35:37,active,331,approval,34,2018-01-24 19:00:00,16
+Service Design Pittsburgh,Service-Design-Pittsburgh,Pittsburgh,40.44,-79.95,Tech,2017-01-10 12:11:21,active,116,approval,8,2018-01-17 18:00:00,27
+South Hills of Pittsburgh Hiking/Walking Group,Newbie-Walking-Hiking-Group,Lawrence,40.3,-80.13,Support,2016-03-29 11:20:29,active,541,approval,264,2018-01-26 10:00:00,4
+Pittsburgh North Moms and Families,Pittsburgh-North-Moms-and-Families,Pittsburgh,40.55,-80.04,Parents & Family,2008-08-01 12:59:18,active,85,approval,1284,2018-01-25 10:45:00,1
+The Pittsburgh 30ish Social Group,pittsburgh30ish,Pittsburgh,40.42,-79.98,Socializing,2008-05-08 23:52:35,active,2746,open,822,2018-01-20 19:30:00,22
+Autism/Asperger's Support Group and Social Meetup Pgh,autismofpa,Pittsburgh,40.44,-79.95,Support,2010-10-05 11:17:26,active,263,approval,275,2018-01-16 18:00:00,4
+Non-Boring Books and Beyond in the Burgh,burghbooks,Pittsburgh,40.44,-79.95,Socializing,2011-01-21 04:41:56,active,477,open,404,2018-01-11 18:00:00,6
+Pittsburgh Unplugged Gaming,Pittsburgh-Unplugged-Gaming,Pittsburgh,40.47,-79.95,Games,2017-05-26 09:31:50,active,200,approval,35,2018-01-26 18:00:00,9
+Pittsburgh Think and Grow Rich Mastermind,Pittsburgh-Think-and-Grow-Rich-Mastermind,Pittsburgh,40.35,-79.98,Career & Business,2016-11-18 08:20:21,active,533,open,13,2018-01-26 11:00:00,16
+Pittsburgh Volleyball Club,pittsburghvolleyballclub,Pittsburgh,40.37,-80.02,Sports & Recreation,2012-02-15 13:30:02,active,2260,open,140,2018-01-24 19:30:00,21
+Southwest PA Wild Edible and Medicinal Plants Group,swpa-wild-edibles,Bridgeville,40.36,-80.11,Health & Wellbeing,2015-02-07 23:38:15,active,909,open,80,2017-11-11 14:00:00,11
+Pittsburgh OMA Mind-Body-Spirit Wellness Meetup,Pittsburgh-OMA-Mind-Body-Spirit-Wellness-Meetup,Pittsburgh,40.5,-79.91,Health & Wellbeing,2015-01-25 07:12:45,active,1654,open,41,2018-01-18 19:00:00,8
+Pittsburgh Kayakers,pgh-kayaking,Glenshaw,40.52,-79.95,Outdoors & Adventure,2006-06-21 08:44:58,active,1591,open,396,2018-01-26 18:00:00,8
+Pittsburgh Paperback Drinkers Book Club,Pittsburgh-Book-Club-Paperback-Drinkers,Pittsburgh,40.44,-79.95,Book Clubs,2014-03-13 11:07:56,active,649,open,45,2018-01-21 16:30:00,12
+Pittsburgh useR Group,Pittsburgh-useR-Group,Pittsburgh,40.45,-79.93,Tech,2013-03-25 20:31:35,active,396,open,21,2017-11-08 18:30:00,11
+"MEEPLE (MEEt, Play, LEarn)",MEEPLE-MEEt-Play-LEarn,Pittsburgh,40.47,-79.95,Games,2016-12-18 08:48:34,active,302,open,43,2018-01-13 11:00:00,9
+Pittsburgh Vegan Dining Meetup,Pittsburgh-Vegan-Dining-Meetup,Pittsburgh,40.47,-79.95,Food & Drink,2017-09-16 17:35:56,active,117,open,3,2018-01-26 19:00:00,12
+Introverts of Pittsburgh,All-Introverts-of-Pittsburgh,Pittsburgh,40.47,-79.95,Health & Wellbeing,2016-10-08 23:53:59,active,62,open,35,2018-01-25 19:00:00,7
+Zentanglers in Pittsburgh,Zentanglers-in-Pittsburgh,Pittsburgh,40.47,-79.95,Hobbies & Crafts,2013-09-12 22:17:09,active,741,open,434,2018-01-25 12:00:00,11
+Friday Faith & Fellowship!,Prime-Time-Joy,Pittsburgh,40.47,-80.02,Religion & Beliefs,2014-04-18 13:13:20,active,396,open,185,2018-01-26 19:30:00,8
+Healthcare Happenings,HealthcareHappenings,Pittsburgh,40.38,-80.07,Career & Business,2010-11-16 15:32:25,active,88,approval,3026,2018-01-25 16:30:00,1
+Pickin' at Pastoli's,Pickin-at-Pastolis,Pittsburgh,40.43,-79.92,Music,2015-07-04 15:17:03,active,309,open,168,2018-01-23 20:00:00,4
+The Pittsburgh German Language Meetup Group,german-61,Pittsburgh,40.45,-79.93,Language & Ethnic Identity,2002-12-04 22:22:51,active,904,open,382,2018-01-24 18:30:00,8
+"Salsa Dance Lessons, Pittsburgh! Meetup",Salsa-Dance-Lessons-Pittsburgh-Meetup,Pittsburgh,40.44,-79.96,Dancing,2014-02-24 13:16:49,active,2202,open,280,2018-01-25 20:00:00,1
+Sunday Assembly Pittsburgh,Sunday-Assembly-Pittsburgh,Pittsburgh,40.44,-79.95,Religion & Beliefs,2014-09-03 16:56:26,active,788,open,220,2018-01-22 18:45:00,2
+Pittsburgh Women's Network,DWC-Pittsburgh-Womens-Network,Pittsburgh,40.43,-80.05,Career & Business,2009-11-24 18:24:48,active,2562,open,90,2018-01-25 12:00:00,16
+Steel City Travel Group,Steel-City-Travel-Group,Bridgeville,40.36,-80.11,Outdoors & Adventure,2013-01-29 16:56:17,active,309,open,68,2018-01-20 13:00:00,16
+Pittsburgh Arthouse Films,pittsburgh-arthouse-films,Pittsburgh,40.45,-79.99,Movies & Film,2007-10-09 12:25:21,active,2008,open,842,2018-01-21 16:25:00,5
+"Pittsburgh area anxiety, shyness and depression meetup",Pittsburgh-anxiety-shyness-depression,Pittsburgh,40.45,-79.99,Support,2009-08-03 19:54:52,active,2551,approval,950,2018-01-25 18:30:00,10
+MONDO ITALIANO: Pittsburgh Italian Meetup,Pittsburgh-Italian-Speakers,Pittsburgh,40.43,-79.89,Language & Ethnic Identity,2003-03-08 04:03:21,active,982,open,1853,2018-01-23 18:45:00,1
+The Pittsburgh Sunday Brunch Meetup Group,The-Pittsburgh-Happy-Hour-and-Sunday-Brunch-Meetup-Group,Pittsburgh,40.45,-79.93,Food & Drink,2011-10-19 17:04:09,active,332,approval,126,2018-01-21 11:30:00,8
+Mellon Indoor-Tennis Group,Mellon-Tennis-Group,Pittsburgh,40.45,-79.93,Sports & Recreation,2015-07-28 13:17:18,active,17,approval,148,2018-01-21 18:00:00,4
+Pittsburgh Mah Jongg,Pittsburgh-Mah-Jong,Pittsburgh,40.45,-79.91,Games,2012-03-25 15:35:29,active,397,open,416,2018-01-16 17:00:00,4
+Pittsburgh LGBTQ+ Meetup,Pittsburgh-LGBT-Meetup,Pittsburgh,40.46,-80.03,LGBT,2017-06-01 12:23:27,active,302,open,24,2018-01-11 18:30:00,18
+Duolingo Pittsburgh Spanish Meetup,Duolingo-Pittsburgh-Spanish,Pittsburgh,40.47,-79.95,Language & Ethnic Identity,2017-06-10 17:10:45,active,302,open,5,2017-12-19 18:30:00,4
+Phenomenal Women of Pittsburgh,Phenomenal-Women-of-Pittsburgh,Pittsburgh,40.47,-80.02,Socializing,2016-05-02 09:42:56,active,226,approval,129,2018-01-18 18:00:00,1
+Westmoreland Singles,Westmoreland-County-Singles,Greensburg,40.3,-79.54,Singles,2013-08-03 20:44:27,active,48,approval,235,2018-01-24 19:00:00,2
+GTSBC North Country Trail Meetup,GTSBC-North-Country-Trail-Meetup,Lisbon,40.76,-80.76,Outdoors & Adventure,2017-12-30 17:16:46,active,74,open,2,2018-01-23 19:00:00,3
+Lovegroup Pittsburgh,Lovegroup-Pittsburgh,Pittsburgh,40.43,-79.92,New Age & Spirituality,2016-06-11 19:56:43,active,791,open,40,2018-01-26 21:00:00,10
+Pittsburgh Events!,Pittsburgh-Events-Social-Meetup,Pittsburgh,40.45,-79.93,Socializing,2014-06-01 19:45:01,active,2553,open,1179,2018-01-26 21:00:00,1
+Pittsburgh Functional Programming Meetup,Pittsburgh-Functional-Programming-Meetup,Pittsburgh,40.47,-79.95,Tech,2015-06-17 19:29:32,active,376,open,33,2018-01-08 19:00:00,23
+Pittsburgh Dancing Meetup,Pittsburgh-Dancing-Meetup,Pittsburgh,40.47,-79.95,Dancing,2014-12-02 22:38:22,active,2492,open,3054,2018-01-26 18:00:00,1
+"Steel City eBay, Amazon & eCommerce Sellers Group",Steel-City-eBay-Amazon-and-eCommerce-Sellers-Group,Pittsburgh,40.47,-80.02,Career & Business,2012-09-18 22:05:17,active,167,open,33,2017-11-03 17:30:00,13
+Open Pittsburgh Yoga,Open-Pittsburgh-Yoga,Pittsburgh,40.47,-79.92,Health & Wellbeing,2011-04-17 19:13:31,active,2242,open,4858,2018-01-26 18:00:00,1
+Mon Valley PA Bicycle & Outdoors Meetup,Mon-Valley-PA-BicycleOutdoors,Monongahela,40.2,-79.93,Outdoors & Adventure,2015-06-27 09:30:00,active,144,approval,104,2017-11-24 11:00:00,1
+Irwin Game Night Group,Irwin-Game-Night-Group,Irwin,40.33,-79.72,Games,2015-07-02 14:09:52,active,54,approval,30,2018-01-20 18:00:00,11
+Gatherings Singles Dances and Events,Gatherings-Singles-Dances-and-Events,Pittsburgh,40.55,-80.04,Socializing,2009-11-18 11:08:18,active,1699,open,282,2017-12-22 16:00:00,31
+Southwestern PA Investors Group - SWIG,Southwestern-PA-InvestorsGroup,Greensburg,40.3,-79.54,Career & Business,2010-04-29 22:50:09,active,634,open,94,2018-01-17 18:30:00,17
+"Western Pa., Rails to Trails Bicyclers",Western-Pa-Rails-to-Trails-Bicyclers,Latrobe,40.31,-79.38,Outdoors & Adventure,2012-06-08 14:38:52,active,142,open,290,2017-12-07 09:30:00,1
+I Meditate Pittsburgh,I-Meditate-Pittsburgh,Pittsburgh,40.44,-79.95,Health & Wellbeing,2011-05-28 13:47:12,active,1387,open,320,2018-01-22 19:00:00,2
+Pittsburgh 30s and 40s Ladies Social,Pittsburgh-30s-and-40s-Ladies-Social,Pittsburgh,40.47,-79.95,Food & Drink,2018-01-19 12:06:51,active,61,open,0,,0
+PGH Game Makers,PGH-Game-Makers,Pittsburgh,40.47,-79.95,Tech,2013-02-13 13:06:31,active,314,open,40,2018-01-20 14:00:00,10
+Pittsburgh Bible Study,pittsburghchristians,Pittsburgh,40.47,-79.92,Religion & Beliefs,2017-09-10 19:16:21,active,86,open,17,2018-01-25 18:30:00,3
+The Pittsburgh Russian Language Meetup,The-Pittsburgh-Russian-Language-Meetup-Group,Pittsburgh,40.47,-79.92,Language & Ethnic Identity,2013-08-02 21:11:06,active,273,open,116,2018-01-18 19:00:00,8
+Pittsburgh Sixth Sensory Meet UP,sixsensoryliving,Pittsburgh,40.4,-80.04,Health & Wellbeing,2015-05-23 12:25:50,active,769,open,62,2018-01-18 19:00:00,10
+The Pittsburgh Vegan Meetup,pittsburgh-vegans,Pittsburgh,40.43,-79.92,Food & Drink,2006-11-23 11:11:11,active,2516,open,600,2018-01-21 10:30:00,8
+Pittsburgh Sahaja Meditation Meetup,Pittsburgh-Sahaja-Meditation-Meetup,Pittsburgh,40.43,-79.92,Health & Wellbeing,2012-01-11 17:07:20,active,1172,open,1048,2018-01-26 11:00:00,8
+Francofous de Pittsburgh,pittsburgh-french-group,Pittsburgh,40.43,-79.92,Language & Ethnic Identity,2012-07-04 15:01:32,active,530,open,713,2018-01-20 11:00:00,5
+PITTSBURGH EUROGAMES,Pittsburgh-Gamers-Meetup,Pittsburgh,40.43,-79.92,Games,2010-01-12 13:29:59,active,1258,open,742,2018-01-24 18:00:00,3
+Pittsburgh Art Journals Meetup,Pittsburgh-Art-Journals-Meetup,Pittsburgh,40.43,-80.05,Arts & Culture,2015-11-04 09:34:12,active,180,open,17,2018-01-20 14:00:00,5
+Western PA. Stock Investing Education & Investment Clubs,Western-PA-Stock-Investing-Education-Investment-Clubs,Pittsburgh,40.45,-79.99,Career & Business,2013-03-27 13:34:17,active,597,open,129,2018-01-13 10:00:00,8
+Pgh Tech Meetup,Pgh-Tech,Pittsburgh,40.45,-79.93,Tech,2010-05-04 19:35:19,active,1916,open,139,2017-11-18 08:30:00,1
+Pittsburgh Business Analysts,Pittsburgh-Business-Analysts,Pittsburgh,40.47,-79.95,Tech,2015-12-20 03:19:56,active,420,open,23,2018-01-08 17:30:00,10
+Results Coaching with Think and Create Results,Results-Coaching-with-ThinkandCreateResults,Pittsburgh,40.47,-79.95,Career & Business,2017-07-24 19:44:54,active,148,open,15,2018-01-23 14:00:00,2
+Pigtails and Pantie Lines-not your averge moms' club,pigtails-and-panty-lines,Pittsburgh,40.47,-80.02,Parents & Family,2016-10-10 20:13:18,active,178,approval,16,2018-01-18 19:00:00,11
+"Pittsburgh Dining, Dancing & Movie Group  (Singles 45-60)",Pittsburgh-Dining-Dancing-and-Movie-Group,Pittsburgh,40.5,-79.91,Singles,2014-06-16 13:36:02,active,77,approval,168,2018-01-01 17:00:00,8
+Women in Community,Women-in-Community,Pittsburgh,40.38,-80.04,New Age & Spirituality,2017-03-12 14:46:35,active,340,open,4,2017-11-29 19:00:00,14
+Network After Work - Pittsburgh Networking Events,Network-After-Work-Pittsburgh-Networking-Events,Pittsburgh,40.42,-79.98,Career & Business,2013-01-05 15:38:05,active,2938,open,53,2018-01-23 18:00:00,112
+Pittsburgh Creative Nonfiction writing and reading,Pittsburgh-Creative-Nonfiction-writing-and-reading,Pittsburgh,40.47,-79.95,Writing,2017-12-30 11:38:30,active,21,open,0,,0
+Pittsburgh Art Meetup,meetup-group-LRXNQQsB,Pittsburgh,40.47,-79.95,Arts & Culture,2017-08-11 02:06:17,active,238,open,21,2018-01-21 15:00:00,4
+Pittsburgh Artificial Intelligence Meetup,Pittsburgh-Artificial-Intelligence-Meetup,Pittsburgh,40.47,-79.95,Tech,2017-12-17 01:16:21,active,86,open,1,2018-01-14 14:00:00,10
+North Hills Genealogists,North-Hills-Genealogists,Pittsburgh,40.55,-80.04,Parents & Family,2014-09-10 19:40:25,active,90,open,175,2018-01-24 18:00:00,1
+MOMS Club of Gibsonia/Mars,MOMS-Club-of-Gibsonia-Mars,Gibsonia,40.63,-79.95,Parents & Family,2012-01-01 11:56:13,active,42,approval,925,2018-01-22 14:00:00,5
+Westmoreland Ski Club,Westmoreland-Ski-Club,Greensburg,40.3,-79.54,Outdoors & Adventure,2016-11-23 19:09:37,active,123,open,19,2018-01-10 19:00:00,4
+Pittsburgh / Northern Frontier Gaming Meetup,Pittsburgh-Northern-Frontier-Gaming-Meetup,Cranberry Twp,40.71,-80.11,Games,2013-11-09 08:50:50,active,754,open,104,2018-01-20 15:00:00,8
+Pittsburgh ASL Meetup,Pittsburgh-ASL-Meetup,Pittsburgh,40.4,-79.97,Language & Ethnic Identity,2017-01-18 08:59:23,active,179,open,178,2018-01-21 13:00:00,3
+South Hills Area Gamers,South-Hills-Area-Gamers,Bethel Park,40.32,-80.04,Games,2017-12-27 14:52:48,active,34,open,2,2018-01-25 18:30:00,10
+Millionaire 101,meetup-group-ZahAYPpY,Pittsburgh,40.42,-79.98,Career & Business,2018-01-13 19:57:22,active,27,open,1,2018-01-22 18:30:00,9
+All The Nerdy Ladies Pittsburgh,All-The-Nerdy-Ladies-Pittsburgh,Pittsburgh,40.44,-79.96,Tech,2017-11-22 13:43:16,active,71,approval,2,2018-01-17 18:30:00,13
+Pittsburgh East End Knitting Meetup,Pittsburgh-East-End-Knitting-Meetup,Pittsburgh,40.43,-79.92,Hobbies & Crafts,2015-10-16 10:06:06,active,446,open,124,2018-01-25 19:30:00,3
+Biophilia: Pittsburgh,BiophiliaPittsburgh,Pittsburgh,40.44,-79.95,Community & Environment,2013-08-11 12:00:55,active,615,approval,66,2018-01-19 19:00:00,1
+Pittsburgh Table Tennis clubs,PittsburghTableTennis,Pittsburgh,40.44,-79.95,Sports & Recreation,2013-05-02 09:40:51,active,916,open,500,2018-01-24 18:00:00,2
+Western Pennsylvania Scrum User Group,scrumburgh,Pittsburgh,40.45,-79.99,Tech,2017-08-07 14:47:02,active,92,open,7,2018-01-17 19:00:00,8
+Pittsburgh Active Singles,Pittsburgh-Active-Singles,Pittsburgh,40.44,-80.07,Socializing,2016-05-28 11:39:17,active,1516,open,102,2018-01-22 18:30:00,6
+Build Guild Pittsburgh,BuildGuildPittsburgh,Pittsburgh,40.47,-79.95,Tech,2015-01-29 10:21:18,active,328,open,36,2018-01-10 18:30:00,9
+Beginner Belly Dance Lessons,Beginner-Belly-Dance-Lessons,Pittsburgh,40.47,-79.95,Dancing,2018-01-13 09:47:36,active,29,open,0,,0
+Pittsburgh Rust Coffee,Pittsburgh-Rust-Coffee,Pittsburgh,40.47,-79.95,Tech,2016-08-24 19:13:43,active,221,open,74,2018-01-24 18:30:00,3
+The Pittsburgh Writers Meetup Group,pittsburghwritersmeetupgroup,Pittsburgh,40.5,-80.07,Writing,2006-02-25 07:21:48,active,50,approval,465,2018-01-20 18:00:00,6
+Outdoor Fun & Christian Faith Group,OutdoorFunAndChristianFaithGroup,Cranberry Twp,40.71,-80.11,Outdoors & Adventure,2015-02-04 18:54:27,active,1248,open,142,2018-01-16 19:00:00,8
+Beaver County Moms of Young Kids,Beaver-County-Moms,Beaver,40.7,-80.36,Parents & Family,2014-06-03 11:46:47,active,188,approval,399,2018-01-24 16:00:00,5
+"Wampum Chapter, North Country Trail Association Meetup",Wampum-Chapter-North-Country-Trail-Association-Meetup,Wampum,40.9,-80.34,Outdoors & Adventure,2014-01-28 11:11:50,active,529,open,307,2018-01-23 19:00:00,1
+Morgantown Photography Club,Morgantown-Camera-Club,Morgantown,39.63,-79.96,Photography,2017-06-05 19:17:48,active,91,open,13,2018-01-14 08:00:00,5
+Pittsburgh Girl's Night Out,Pittsburgh-Girls-Night-Out,Pittsburgh,40.4,-80.04,Socializing,2015-12-27 17:26:59,active,177,approval,54,2018-01-26 17:45:00,8
+Strange Brew,Strange-Brew,Pittsburgh,40.43,-79.97,Food & Drink,2012-03-01 07:59:37,active,66,open,76,2018-01-16 18:30:00,8
+Pittsburgh-Wexford and Online Arabic Language Meetup,ArabicLessons,Pittsburgh,40.43,-79.92,Language & Ethnic Identity,2003-10-22 16:39:49,active,420,approval,536,2018-01-14 18:00:00,5
+Downtown Ladies' Book Club,Downtown-Ladies-Book-Club,Pittsburgh,40.45,-79.99,Socializing,2018-01-23 12:26:16,active,28,open,0,,0
+"Let's End Isolation Caused By Depression, Anxiety",Lets-End-Isolation-caused-by-depression-anxiety-etc,Pittsburgh,40.47,-79.95,Support,2014-09-19 19:28:53,active,688,approval,186,2018-01-26 14:00:00,1
+Polish Pittsburgh,Polish-Pittsburgh,Pittsburgh,40.47,-79.95,Movies & Film,2015-03-03 15:28:53,active,373,open,32,2017-11-10 19:30:00,9
+Come Write-In,Come-Write-In,Pittsburgh,40.47,-79.95,Writing,2017-12-28 15:59:30,active,52,open,1,2018-01-18 18:30:00,6
+District 13 Toastmasters,District-13-Toastmasters,Pittsburgh,40.46,-79.9,Career & Business,2015-09-04 10:31:23,active,270,open,1066,2018-01-25 19:00:00,3
+New Kensington Art Center Meetup,New-Kensington-Art-Center-Meetup,New Kensington,40.58,-79.72,Arts & Culture,2016-02-22 23:32:57,active,218,approval,378,2018-01-26 18:00:00,2
+Greensburg Writers Group,Greensburg-Writers-Group,Greensburg,40.3,-79.54,Writing,2015-11-26 14:03:20,active,179,open,39,2017-12-10 14:00:00,2
+Shamanic Healing Circle for Women,Shamanic-Healing-Circle-for-Women,Greensburg,40.3,-79.54,New Age & Spirituality,2016-06-21 21:17:17,active,39,approval,14,2017-11-07 18:30:00,6
+Pittsburgh Nintendo Switch Fans,pittsburghswitch,Pittsburgh,40.35,-79.98,Games,2017-07-14 05:59:50,active,40,approval,29,2018-01-26 17:30:00,4
+Pittsburgh Hip Single Parents,pittsburghhipsingleparents,Pittsburgh,40.38,-80.04,Parents & Family,2013-06-24 09:41:27,active,341,approval,383,2018-01-19 18:00:00,7
+Life Options Pittsburgh,Life-Options-Pittsburgh,Pittsburgh,40.43,-79.97,Health & Wellbeing,2017-01-19 16:17:25,active,111,open,15,2018-01-10 09:30:00,7
+Books That Matter,Books-That-Matter,Pittsburgh,40.43,-79.92,Book Clubs,2013-08-10 20:27:57,active,1570,open,43,2018-01-14 18:00:00,6
+Pittsburgh VR Meetup,Pittsburgh-VR-Meetup,Pittsburgh,40.44,-80.01,Tech,2016-03-24 16:06:59,active,153,open,5,2018-01-12 17:30:00,7
+Pittsburgh Cashflow Investing 101,Pgh-Cashflow-Investing-101,Pittsburgh,40.47,-79.95,Career & Business,2017-02-01 21:08:15,active,204,open,16,2018-01-21 16:00:00,7
+Pittsburgh Leadership Forum Meetup,Pittsburgh-Leadership-Forum-Meetup,Pittsburgh,40.47,-79.95,Education & Learning,2017-03-01 06:38:41,active,272,open,3,2018-01-24 18:00:00,7
+Young Professionals of Pittsburgh (YPP),Young-Professionals-of-Pittsburgh,Pittsburgh,40.47,-80.02,Career & Business,2016-12-10 09:20:00,active,252,approval,11,2017-12-27 18:30:00,16
+Pittsburgh Shambhala Meditation Center,Pittsburgh-Shambhala-Meditation-Center,Pittsburgh,40.47,-79.92,Health & Wellbeing,2015-12-10 09:50:10,active,318,open,216,2018-01-22 19:00:00,4
+South Hills Dinner & a Movie Women's Group,South-Hills-Dinner-a-Movie,Canonsburg,40.27,-80.15,Movies & Film,2012-01-16 11:47:40,active,878,open,210,2018-01-20 12:45:00,8
+Veterans and Patriots United,Veterans-and-Patriots-United,Coraopolis,40.51,-80.18,Movements & Politics,2009-03-05 11:36:46,active,527,approval,119,2017-11-29 19:00:00,4
+The Pittsburgh Widows and Widowers Meetup Group,Pittsburgh-YWW-Meetupgroup,Coraopolis,40.51,-80.18,Support,2009-03-29 13:00:33,active,465,approval,350,2017-12-22 17:00:00,4
+ORTC Outdoor Adventure Club,Ohio-River-Trail-Council-ORTC-Outdoor-Adventure-Club,Monaca,40.67,-80.29,Outdoors & Adventure,2014-03-20 08:57:20,active,1880,open,388,2018-01-21 13:00:00,3
+"Central PA Body, Mind & Spirit Group",Central-PA-Body-Mind-Spirit,Indiana,40.62,-79.16,New Age & Spirituality,2016-04-29 18:39:20,active,187,open,302,2018-01-21 13:00:00,6
+Greater Pittsburgh Science Fiction Book Discussion Group,GPSFBG,Pittsburgh,40.38,-80.04,Book Clubs,2010-12-23 08:22:37,active,43,open,96,2018-01-24 19:00:00,5
+Pittsburgh Self-Inquiry Group,Pittsburgh-Self-Inquiry-Group,Pittsburgh,40.44,-79.95,New Age & Spirituality,2016-07-24 19:58:33,active,194,open,36,2018-01-17 19:00:00,8
+Women's Holistic Wellness,womens-holistic-Wellness-in-Pittsburgh,Bridgeville,40.36,-80.11,Health & Wellbeing,2012-08-30 10:28:47,active,540,open,302,2018-01-15 19:00:00,1
+The Pittsburgh Alternative Relationship Group,The-Pittsburgh-Alternative-Relationship-Group,Pittsburgh,40.45,-79.98,Career & Business,2010-08-14 11:51:45,active,663,approval,284,2018-01-10 20:00:00,6
+ONA Pittsburgh,ONA-Pittsburgh,Pittsburgh,40.45,-79.98,Tech,2012-04-13 16:27:22,active,94,open,16,2017-12-27 19:30:00,10
+GlobalPittsburgh: a group for globally-minded people,GlobalPittsburghCONNECT,Pittsburgh,40.45,-79.99,Language & Ethnic Identity,2013-01-17 14:04:42,active,1066,open,164,2018-01-20 19:00:00,5
+Pgh Dev UX,PGH-DEV-UX,Pittsburgh,40.46,-80.03,Tech,2015-11-03 15:03:36,active,376,open,7,2018-01-24 12:00:00,12
+Pittsburgh Bowling Social Mixer,Pittsburgh-Bowling-Social-Mixer,North Versailles,40.39,-79.83,Socializing,2012-10-11 17:17:42,active,378,open,52,2018-01-17 20:00:00,3
+Reading Between the Wines - Eastern Suburbs,Reading-Between-the-Wines-Eastern-Suburbs,Pittsburgh,40.47,-79.95,Socializing,2016-04-11 10:38:36,active,1160,open,27,2018-01-25 20:00:00,4
+Northland Library's Cookbook Club,Northland-Librarys-Cookbook-Club,Pittsburgh,40.47,-79.95,Food & Drink,2017-12-28 15:36:12,active,29,open,1,2018-01-08 19:30:00,5
+Pittsburgh Office 365 User Group,Pittsburgh-Office-365-User-Group,Pittsburgh,40.47,-79.95,Tech,2017-08-07 20:08:02,active,59,open,2,2018-01-17 13:30:00,8
+Pittsburgh Team Handball,Pittsburgh-Team-Handball,Pittsburgh,40.47,-79.95,Sports & Recreation,2017-10-24 16:18:55,active,60,open,9,2018-01-21 20:30:00,1
+Queens Lounge,Queens-Lounge,Pittsburgh,40.47,-79.95,Socializing,2018-01-09 13:19:37,active,20,open,2,2018-01-21 00:00:00,5
+Monroeville Christian Women's Fellowship,Monroeville-Christian-Womens-Fellowship,Pittsburgh,40.47,-79.95,Religion & Beliefs,2017-01-07 17:17:22,active,26,open,12,2018-01-19 20:30:00,8
+The Woman's Happiness Project,The-Womans-Happiness-Project,Pittsburgh,40.47,-79.95,Career & Business,2016-10-22 10:19:34,active,50,approval,12,2018-01-07 13:00:00,7
+Pittsburgh Comic Art & Illustration,Pittsburgh-Meet-n-Draw,Pittsburgh,40.47,-79.95,Arts & Culture,2016-09-25 10:40:22,active,171,open,55,2018-01-24 20:00:00,3
+Pittsburgh ADULT COLORING Meetup,Pittsburgh-ADULT-COLORING-Meetup,Pittsburgh,40.47,-79.95,Hobbies & Crafts,2017-08-27 10:52:39,active,105,open,6,2018-01-07 13:00:00,6
+Unitarian Universalists of Greater Pittsburgh,UUPittsburgh,Pittsburgh,40.47,-80.02,Religion & Beliefs,2015-08-26 12:32:46,active,464,open,232,2018-01-23 13:00:00,1
+Skate Pittsburgh - Three Rivers Inline Club (TRIC),Pittsburgh-Three-Rivers-Inline-Club,Pittsburgh,40.47,-79.92,Outdoors & Adventure,2011-02-28 16:26:33,active,671,open,977,2018-01-26 22:30:00,4
+Pittsburgh's Active & Fun Just about 50 & more!,Pittsburghs-Active-Fun-Just-about-50-and-more,Pittsburgh,40.5,-79.91,Community & Environment,2011-11-18 22:09:49,active,674,approval,521,2018-01-20 20:00:00,4
+GASP (Gaming Association of Southwestern PA),GASP_gamers,Pittsburgh,40.55,-80.04,Games,2013-11-25 15:54:31,active,476,open,81,2018-01-20 11:00:00,14
+MOMS Club of Allison Park/Glenshaw,MOMS-Club-of-Allison-Park-Glenshaw,Allison Park,40.57,-79.97,Parents & Family,2013-04-13 16:09:17,active,29,approval,603,2018-01-15 11:00:00,6
+Life Begins at 40 (Women),Lifebeginsgroup,Coraopolis,40.51,-80.18,Socializing,2013-02-22 10:09:55,active,676,approval,294,2018-01-16 06:30:00,6
+AK Valley Metaphysics Group,AKValleyMetaphysicalGroup,New Kensington,40.58,-79.72,New Age & Spirituality,2014-12-03 20:59:21,active,300,open,215,2018-01-25 19:30:00,1
+PA Spyder Ryders,PASpyderRyders,New Stanton,40.22,-79.61,Cars & Motorcycles,2014-10-29 08:32:41,active,356,approval,101,2017-11-04 18:00:00,34
+Pittsburgh Travel Club,Pittsburgh-Travel-Club,Valencia,40.7,-79.92,Outdoors & Adventure,2012-11-29 17:10:07,active,852,open,47,2018-01-24 20:00:00,6
+Laurel Highlands Vegan Society,Laurel-Highlands-Vegan-Meetup,Ligonier,40.22,-79.22,Food & Drink,2018-01-04 14:49:54,active,35,open,2,2018-01-23 13:00:00,5
+Steel City Gamers,Steel-City-Gamers,Pittsburgh,40.4,-79.97,Games,2011-12-14 14:25:17,active,688,open,1625,2018-01-25 18:00:00,0
+Network of Business Owners and Related Professionals,Network-of-Business-Owners-and-Related-Professionals,Pittsburgh,40.36,-80.06,Career & Business,2015-11-21 17:53:44,active,1021,open,30,2018-01-08 13:00:00,5
+Let's Dance! Pittsburgh,Pittsburgh-Dancers-Meetup-Group,Pittsburgh,40.4,-80.04,Dancing,2010-10-07 20:04:49,active,3236,open,1134,2018-01-26 23:00:00,4
+The Personal Development Meetup Group,Ken-Wilber,Pittsburgh,40.43,-79.95,New Age & Spirituality,2003-09-11 20:09:06,active,1012,open,2189,2018-01-26 12:00:00,1
+Pittsburgh Integrative Mental Health and Wellness,Pittsburgh-Integrative-Mental-Health-and-Wellness,Pittsburgh,40.44,-79.95,Health & Wellbeing,2015-09-12 19:56:36,active,416,open,97,2018-01-22 18:45:00,4
+Pittsburgh Womens Travel Club,PittsburghWomensTravelClub,Pittsburgh,40.45,-79.98,Socializing,2011-01-12 14:53:16,active,1110,open,63,2018-01-24 20:00:00,6
+American Marketing Association- Pittsburgh Chapter,AMAPittsburgh,Pittsburgh,40.45,-79.99,Career & Business,2017-08-02 17:33:35,active,204,open,17,2018-01-18 12:30:00,1
+Bailamos! Zumba with Candace,candacepgh,Pittsburgh,40.44,-80.07,Dancing,2016-04-25 13:20:55,active,88,open,126,2018-01-24 19:00:00,2
+Lesbians Who Tech Pittsburgh,Lesbians-Who-Tech-Pittsburgh,Pittsburgh,40.47,-79.95,LGBT,2016-04-21 14:50:41,active,96,approval,8,2017-10-24 19:00:00,4
+Northland Library After Hours Board Gaming,Northland-Library-After-Hours-Board-Gaming,Pittsburgh,40.47,-79.95,Games,2017-12-28 10:23:15,active,45,open,1,2018-01-19 19:30:00,6
+Pittsburgh Pop Punk,Pittsburgh-Pop-Punk,Pittsburgh,40.47,-79.95,Music,2017-09-16 01:15:03,active,95,open,4,2018-01-20 20:00:00,6
+Pittsburgh Social Singles,Pittsburgh-professionals,Pittsburgh,40.47,-79.95,Career & Business,2012-12-19 14:12:19,active,1558,open,133,2017-12-16 08:30:00,3
+"""Oh how I love to Sing!"" Singing Classes and Concerts",Oh-how-I-love-to-Sing-a-variety-of-Singing-opportunities,Pittsburgh,40.47,-79.95,Music,2017-09-30 11:15:46,active,144,approval,0,,0
+Saturday Adventure Meetup,First-Saturday-Adventure-Meetup,Pittsburgh,40.47,-79.95,Outdoors & Adventure,2017-08-27 14:43:12,active,314,open,4,2018-01-06 12:00:00,6
+Pittsburgh Area Nudists,Pittsburgh-Area-Nudists,Pittsburgh,40.47,-79.95,Lifestyle,2017-05-14 14:02:18,active,46,approval,34,2018-01-24 20:00:00,1
+Pittsburgh Bowling Meetup,Pittsburgh-Bowling-Meetup,Pittsburgh,40.47,-79.95,Sports & Recreation,2017-04-06 09:49:04,active,129,open,76,2018-01-25 21:30:00,3
+"Big Data (Next Gen Hadoop) Ingest & Transform, Pittsburgh",Big-Data-Ingest-Pittsburgh,Pittsburgh,40.47,-79.95,Tech,2016-07-05 23:39:31,active,323,open,74,2017-11-16 12:00:00,6
+Pittsburgh Jungian Psychology Meetup,Pittsburgh-Jungian-Psychology-Meetup,Pittsburgh,40.47,-79.95,New Age & Spirituality,2016-06-07 18:53:31,active,63,open,26,2018-01-13 20:00:00,2
+"Golden Thread Camp, OTO",goldenthreadoto,Pittsburgh,40.5,-80.07,New Age & Spirituality,2014-04-07 20:02:13,active,99,approval,277,2018-01-25 21:00:00,2
+Pittsburgh Beach Volleyball,Pittsburgh-Beach-Volleyball,Pittsburgh,40.55,-80.04,Sports & Recreation,2010-04-24 21:09:20,active,1318,open,659,2018-01-26 20:30:00,7
+Cranberry Twp Greeting Cards Meetup,Cranberry-Twp-Greeting-Cards-Meetup,Cranberry Twp,40.71,-80.11,Hobbies & Crafts,2016-07-28 09:46:42,active,102,open,16,2018-01-20 15:00:00,5
+Butler Philosophy Club,Butler-Philosophy-Club,Butler,40.86,-79.9,Education & Learning,2015-02-12 18:04:26,active,167,open,150,2018-01-22 19:00:00,2
+The Butler Knitting Meetup Group,knitting-868,Butler,40.86,-79.9,Hobbies & Crafts,2005-12-03 23:53:50,active,186,open,291,2018-01-17 20:00:00,5
+Middlestream Mindfulness Group,Middlestream-Mindfulness-Group,Ligonier,40.22,-79.22,Health & Wellbeing,2015-06-20 08:53:36,active,163,open,89,2018-01-23 20:00:00,3
+Morgantown Mindfulness,Morgantown-Mindfulness,Morgantown,39.63,-79.96,Health & Wellbeing,2017-07-23 12:14:26,active,94,open,4,2018-01-22 20:30:00,3
+Pittsburgh FileMaker Developers (and users),Pittsburgh-FileMaker,Pittsburgh,40.38,-80.04,Tech,2011-08-05 19:21:06,active,78,open,64,2017-12-20 19:00:00,4
+"Dance and  Fitness  @ Improvement thru Movement, South Hills",Improvement-thru-movement,Pittsburgh,40.36,-80.06,Dancing,2010-12-10 22:14:07,active,274,open,3552,2018-01-25 19:30:00,1
+"Kundalini Awakening Meditation - Pittsburgh, PA. (SiddhYog)",meetup-group-cTODpPDj,Pittsburgh,40.36,-80.06,New Age & Spirituality,2017-11-28 19:13:46,active,48,open,6,2018-01-21 10:00:00,2
+The Libertarian Party of Pittsburgh Meetup Group,libertarian-304,Pittsburgh,40.44,-79.95,Movements & Politics,2006-08-13 02:07:16,active,442,open,178,2018-01-17 20:00:00,9
+SWPA Adult Autism Meetup & Social Group,swpa-autism-social-support,Pittsburgh,40.45,-79.99,Support,2007-06-03 22:41:18,active,175,approval,216,2018-01-14 17:50:00,3
+The Pittsburgh Black Hat Society,The-Pittsburgh-Black-Hat-Society,Pittsburgh,40.45,-79.99,New Age & Spirituality,2009-08-06 10:53:46,active,223,approval,548,2018-01-14 15:00:00,4
+Shadyside Beer Runners,Shadyside-Beer-Runners,Pittsburgh,40.45,-79.93,Fitness,2017-03-28 17:52:15,active,606,open,44,2018-01-25 20:00:00,2
+SPORTSNUTS of Pittsburgh Sports League & Social Club,SPORTSNUTS,Pittsburgh,40.44,-80.07,Sports & Recreation,2009-09-26 15:59:10,active,2012,open,258,2018-01-22 19:30:00,3
+SWPA Backpackers,swpabackpackers,Pittsburgh,40.45,-80.06,Outdoors & Adventure,2009-02-20 08:16:09,active,62,approval,177,2018-01-15 20:00:00,4
+Pittsburgh Trivia Meetup and Other Fun Events!,Pittsburgh-Trivia-Meetup-with-Fast-Fingers-Trivia,Pittsburgh,40.47,-79.95,Games,2016-02-25 19:24:10,active,811,open,660,2018-01-24 21:00:00,1
+Pittsburgh Hypnosis Meetup,Pittsburgh-Hypnosis-Meetup,Pittsburgh,40.47,-79.95,New Age & Spirituality,2017-11-17 10:51:57,active,50,open,1,2018-01-25 20:00:00,6
+PGH Homies,PGH-Homies,Pittsburgh,40.47,-79.95,Parents & Family,2017-09-10 16:26:46,active,168,open,745,2018-01-27 07:00:00,0
+Oh Dilly Dilly! - I Want To Buy My First Home🏡 But How?!?,Oh-Dilly-Dilly-I-Want-To-Buy-My-First-Home-But-How,Pittsburgh,40.47,-79.95,Career & Business,2018-01-08 13:21:59,active,10,open,0,,0
+Meditation In Motion Pittsburgh,Meditation-In-Motion-Pittsburgh,Pittsburgh,40.47,-79.95,Fitness,2017-09-27 14:33:51,active,237,open,18,2018-01-23 19:00:00,1
+Rebirth Visionary Team,rebirthvision,Pittsburgh,40.47,-79.95,Religion & Beliefs,2018-01-17 10:11:47,active,13,open,0,,0
+WPCA Jazz Workshop,meetup-group-GsLziJHX,Pittsburgh,40.47,-79.95,Music,2017-09-14 17:35:19,active,113,open,12,2018-01-24 20:00:00,6
+Trans Unity,transunity,Pittsburgh,40.47,-79.95,LGBT,2015-07-07 21:52:36,active,348,open,334,2018-01-22 19:00:00,1
+Pittsburgh Professional Networking Meetup,Pittsburgh-Professional-Networking-Meetup,Pittsburgh,40.47,-79.95,Career & Business,2017-08-08 00:00:15,active,50,open,3,2017-10-25 17:30:00,3
+"Pittsburgh Wing Tsun™ Study Group, SP",Pittsburghwingtsunsp,Pittsburgh,40.47,-79.95,Sports & Recreation,2017-02-17 02:15:45,active,49,open,53,2018-01-21 20:00:00,3
+PittsburghREIA.com,PittsburghREIA-com,Pittsburgh,40.47,-80.02,Career & Business,2013-12-18 12:35:04,active,413,open,66,2018-01-16 20:00:00,4
+In Gear Pittsburgh,In-Gear-Pittsburgh,Pittsburgh,40.47,-80.02,Outdoors & Adventure,2015-10-22 16:26:48,active,1150,open,205,2018-01-01 11:45:00,2
+Pittsburgh Google for Nonprofits User Group,PG4NPUG,Pittsburgh,40.47,-79.92,Tech,2015-11-02 13:01:17,active,213,open,21,2017-12-13 18:00:00,11
+TechShop Pittsburgh,TechShopPittsburgh,Pittsburgh,40.47,-79.92,Tech,2013-03-27 13:56:50,active,663,open,251,2018-01-17 19:00:00,0
+Pittsburgh Real Estate Investor Network,Pittsburgh-Real-Estate-Investor-Network,Pittsburgh,40.47,-79.92,Career & Business,2013-02-27 19:27:55,active,695,open,40,2018-01-16 20:00:00,4
+pittsburgh south 912,pittsburghsouth912-com,Canonsburg,40.27,-80.15,Movements & Politics,2009-09-09 08:07:27,active,204,open,99,2018-01-09 19:30:00,3
+Pittsburgh Spa Lovers Meet & Treat Group,PittsburghSpaLoversNetwork,Pittsburgh,40.5,-79.91,Health & Wellbeing,2009-06-28 10:48:18,active,1426,open,87,2018-01-25 20:00:00,1
+BNI Western PA Circle of Gold Chapter,BNI-Western-PA-Circle-of-Gold-Chapter,Monroeville,40.43,-79.76,Career & Business,2017-08-19 17:56:27,active,31,open,23,2018-01-24 12:00:00,2
+Landlord Association of Westmoreland County,lawc-meetup-com,Irwin,40.33,-79.72,Career & Business,2012-08-16 22:44:49,active,214,open,180,2018-01-11 19:00:00,3
+BNI Western PA Westmoreland County,BNI-Western-PA-Westmoreland,Irwin,40.33,-79.72,Career & Business,2017-08-19 16:09:41,active,37,open,23,2018-01-23 08:00:00,3
+Southwestern PA Drum Circle,Southwestern-PA-Drum-Circle,Houston,40.24,-80.22,Music,2012-04-13 16:48:30,active,210,open,74,2018-01-26 20:00:00,4
+Clinton Community Game Night,Clinton-Game-Night-Meetup,Clinton,40.52,-80.35,Games,2018-01-15 10:39:07,active,12,open,0,,0
+Laurel Highlands British Car Club,Laurel-Highlands-British-Car-Club,Greensburg,40.3,-79.54,Cars & Motorcycles,2017-07-29 10:51:01,active,31,open,6,2018-01-04 20:00:00,4
+Westmoreland Business Links,Westmoreland-Business-Links,Greensburg,40.3,-79.54,Career & Business,2017-01-14 12:39:32,active,87,open,16,2018-01-22 20:00:00,4
+Pittsburgh Ski and Snowboarding,Pittsburgh-Ski,Cranberry Twp,40.71,-80.11,Outdoors & Adventure,2016-12-18 19:29:14,active,146,open,8,2018-01-20 14:00:00,3
+Monaca/Beaver County Game Meetup,Monaca-Board-Game-Meetup,Monaca,40.67,-80.29,Games,2017-10-16 01:55:57,active,21,open,2,2018-01-26 19:00:00,4
+Spiritual growth,Spiritual-growth-Crecimiento-Spiritual,Pittsburgh,40.37,-80.02,New Age & Spirituality,2016-01-31 13:36:51,active,209,open,88,2018-01-20 14:00:00,3
+The South Pittsburgh A Course In Miracles Meetup,acim-295,Pittsburgh,40.4,-80.04,New Age & Spirituality,2008-03-12 10:40:20,active,304,open,242,2018-01-20 11:15:00,1
+The Non-Native Pittsburgher Women's Social Meetup,Non-NativePittWomen,Pittsburgh,40.43,-79.97,Socializing,2008-02-20 17:43:06,active,132,approval,269,2017-12-02 13:00:00,15
+The Squirrel Hill Writers' Group,The-Squirrel-Hill-Writers-Group,Pittsburgh,40.43,-79.92,Writing,2014-01-29 15:46:57,active,18,approval,198,2018-01-22 19:00:00,3
+CocoaHeads Pittsburgh,CocoaHeads-Pittsburgh,Pittsburgh,40.44,-79.95,Tech,2013-01-03 15:56:31,active,148,open,76,2018-01-11 20:00:00,2
+Foodies' Hub,food_dine_drinks_meetpeople,Pittsburgh,40.44,-79.95,Food & Drink,2017-08-22 23:07:16,active,295,open,2,2017-11-04 18:30:00,11
+Pittsburgh Basketball Group,pittsburghbasketballgroup,Pittsburgh,40.45,-79.98,Sports & Recreation,2012-02-15 14:12:26,active,1241,open,83,2018-01-17 20:00:00,3
+Mon Valley Area  Knitting Meetup,Mon-Valley-Area-Knitting-Meetup,Duquesne,40.37,-79.85,Hobbies & Crafts,2017-10-11 20:36:30,active,17,open,13,2018-01-24 20:00:00,2
+Figure Drawing Meetup,meetup-group-NrwytCzO,Pittsburgh,40.47,-79.95,Arts & Culture,2018-01-13 10:23:47,active,49,open,2,2018-01-25 11:00:00,2
+Pittsburgh Connections,Pittsburgh-Connections,Pittsburgh,40.47,-79.95,Health & Wellbeing,2017-10-08 09:51:01,active,78,open,5,2018-01-10 20:15:00,3
+Pittsburgh LGBTQ Professionals Meetup,Pittsburgh-Gay-Professionals-Meetup,Pittsburgh,40.47,-79.95,LGBT,2018-01-16 13:28:17,active,36,open,0,,0
+Bagels & Bytes,Bagels-Bytes,Pittsburgh,40.47,-79.95,Tech,2015-06-03 12:27:49,active,199,approval,46,2018-01-16 09:00:00,2
+ASCEND Pittsburgh Meetup,meetup-group-pHMiaYBJ,Pittsburgh,40.47,-79.95,Outdoors & Adventure,2017-04-12 21:02:07,active,632,open,230,2018-01-24 20:30:00,2
+Pittsburgh Contra Dance,Pittsburgh-Contra-Dance,Pittsburgh,40.47,-79.95,Dancing,2014-07-28 23:32:51,active,660,open,166,2018-01-20 20:30:00,1
+West Coast Swing in Pittsburgh!,West-Coast-Swing-Lessons-Meetup,Pittsburgh,40.47,-79.95,Dancing,2016-10-18 13:53:15,active,207,open,69,2018-01-23 21:15:00,2
+Young Black Professionals in Pittsburgh Meetup,Young-Black-Professionals-in-Pittsburgh-Meetup,Pittsburgh,40.47,-79.95,Career & Business,2016-08-17 22:54:39,active,268,approval,41,2017-12-16 22:00:00,5
+Pittsburgh Epilepsy Meetup,Pittsburgh-Epilepsy-Meetup,Pittsburgh,40.47,-79.95,Support,2016-08-10 14:26:25,active,44,open,16,2017-12-16 13:00:00,1
+Pittsburgh Inklings,Pittsburgh-Inklings,Pittsburgh,40.47,-79.95,Writing,2016-05-27 10:14:56,active,88,open,16,2017-11-29 19:00:00,6
+Performance Bicycle Great Ride Series: Pittsburgh,Performance-Bicycle-Great-Ride-Series-Pittsburgh,Pittsburgh,40.47,-79.92,Outdoors & Adventure,2014-04-04 21:10:14,active,1408,open,361,2018-01-24 20:30:00,3
+Pittsburgh Young Survival Coalition Face 2 Face Networking,Pittsburgh-Young-Survival-Coalition-Face-2-Face-Networking,Pittsburgh,40.47,-79.92,Support,2014-03-19 14:45:39,active,51,approval,42,2017-11-02 19:00:00,3
+The Millvale House's Meetup Group Page,TheMillvaleHouse,Pittsburgh,40.5,-79.98,New Age & Spirituality,2017-10-25 09:30:21,active,47,approval,15,2018-01-22 20:00:00,3
+Vintage Wine Meetup Group,Vintage-Wine-Meetup-Group,Canonsburg,40.27,-80.15,Food & Drink,2016-06-28 14:35:22,active,256,open,8,2017-10-03 18:00:00,9
+Southwest Business Women in The Network,Southwest-Business-Women-in-The-Network,Canonsburg,40.27,-80.15,Career & Business,2017-04-01 12:59:24,active,91,open,69,2018-01-18 09:30:00,1
+Oils Inspire Life,Oils-Inspire-Life,Canonsburg,40.27,-80.15,Health & Wellbeing,2016-09-29 14:04:15,active,165,open,44,2018-01-23 20:00:00,2
+Pittsburgh Grief Support Meetup,Pittsburgh-Grief-Support-Meetup,Pittsburgh,40.5,-79.91,Support,2014-09-15 16:37:14,active,283,open,28,2018-01-01 18:00:00,2
+Sport Bike Alliance,TheSBA,Pittsburgh,40.5,-80.07,Cars & Motorcycles,2014-01-25 14:37:48,grace,210,approval,116,2018-01-10 08:00:00,3
+Cybersecurity 4 Every1,Cybersecurity-4-Every1,Glenshaw,40.52,-79.95,Tech,2018-01-16 10:14:52,active,9,open,1,2018-01-24 19:00:00,3
+Yoga on the Rock,Yoga-on-the-Rock,Oakdale,40.39,-80.2,Health & Wellbeing,2017-03-08 16:10:09,active,138,approval,76,2017-09-19 18:00:00,2
+Mon Valley Writers Group,Mon-Valley-Writers-Group,Charleroi,40.13,-79.92,Writing,2017-03-08 16:09:07,active,76,open,9,2017-11-26 19:00:00,3
+Sewickley Area Social Group,SocialSewickley,Sewickley,40.55,-80.15,Socializing,2018-01-07 13:32:38,active,43,open,3,2018-01-22 22:00:00,1
+Real Estate for Starters,Real-Estate-for-Starters,Murrysville,40.45,-79.68,Career & Business,2017-10-10 10:50:40,active,27,open,6,2018-01-25 16:00:00,1
+Three Rivers Electric Vehicle Association,Three-Rivers-Electric-Vehicle-Association,Murrysville,40.45,-79.68,Cars & Motorcycles,2013-04-24 00:10:22,active,40,open,63,2018-01-20 18:00:00,4
+"Pittsburgh International Food, Languages and Cultures Group",Pittsburgh-International,Wexford,40.62,-80.06,Language & Ethnic Identity,2007-02-13 18:25:05,active,639,approval,239,2017-07-26 17:00:00,3
+Let's Start a Career in Real Estate,Lets-Talk-About-Starting-a-Career-in-Real-Estate,Greensburg,40.3,-79.54,Career & Business,2017-10-25 13:22:07,active,25,open,2,2018-01-23 13:00:00,3
+Cranberry Twp Empty Nesters Meetup,Cranberry-Twp-Empty-Nesters-Meetup,Cranberry Twp,40.71,-80.11,Socializing,2017-07-15 16:44:16,active,47,open,6,2018-01-12 12:00:00,3
+Butler County Indie Authors Club,Butler-County-Indie-Authors-Club,Cranberry Twp,40.71,-80.11,Education & Learning,2017-12-11 15:48:37,active,21,open,1,2018-01-13 14:00:00,6
+Fayette County Singles Meetup,Fayette-County-Singles-Meetup,Smock,39.99,-79.78,Dancing,2017-12-22 04:58:54,active,47,approval,1,2018-01-06 19:00:00,3
+Butler ARS Self-Defense Meetup,Butler-ARS-Self-Defense-Meetup,Butler,40.86,-79.9,Sports & Recreation,2018-01-09 11:46:45,active,12,open,0,,0
+STEUBENVILLE for LIBERTY,steubenville4liberty,Steubenville,40.37,-80.71,Movements & Politics,2007-09-29 02:28:40,active,116,open,251,2018-01-09 19:30:00,3
+Connect to Your Intuition and Spirit Guides,Connect-to-Your-Intuition-and-Spirit-Guides,New Castle,40.99,-80.34,New Age & Spirituality,2012-09-30 14:29:37,active,710,open,297,2018-01-25 10:00:00,1
+North Central West Virginia Just Do Something Group,Morgantown-Just-Do-Something-Group,Morgantown,39.64,-79.95,Parents & Family,2011-04-13 18:44:44,active,524,open,1097,2018-01-24 19:15:00,1
+Pittsburgh Travel Club - On the Road Again!,traveladventures-com,Pittsburgh,40.4,-79.97,Outdoors & Adventure,2011-12-02 03:14:16,active,1068,open,26,2017-12-31 20:00:00,7
+The Founding Moms' Exchange: Pittsburgh!,FoundingMoms-Pittsburgh,Pittsburgh,40.38,-80.04,Career & Business,2010-12-09 13:08:17,active,130,open,84,2018-01-05 11:00:00,1
+The Authors' Zone-Book Production Meetup,Book-Production-Meetup,Pittsburgh,40.4,-80.02,Writing,2015-07-08 14:14:45,active,257,open,46,2018-01-23 09:00:00,1
+Pittsburgh Gaming @ LFG,Pittsburgh-Gaming,Pittsburgh,40.4,-80.02,Games,2017-05-22 13:36:40,active,226,open,40,2018-01-24 20:00:00,2
+Pittsburgh 3D Printing Meetup,Pittsburgh-3D-Printing-Meetup,Pittsburgh,40.36,-80.06,Tech,2016-03-07 21:48:20,active,265,open,20,2018-01-02 19:00:00,1
+Pittsburgh Caregiver and Senior Connection,caregiverconnection,Pittsburgh,40.38,-80.07,Support,2010-11-17 21:59:26,active,240,open,249,2017-11-10 10:00:00,0
+Pittsburgh Life Hackers Meetup,Pittsburgh-Life-Hackers-Meetup,Pittsburgh,40.43,-79.92,Hobbies & Crafts,2015-03-10 20:41:32,active,1211,open,78,2017-12-07 20:00:00,16
+Pittsburgh Desi,Pittsburgh-Desi,Pittsburgh,40.44,-79.95,Socializing,2010-12-26 14:43:45,active,1246,open,285,2017-12-08 20:00:00,2
+Hadoop Users Group Pittsburgh,HUG-Pittsburgh,Pittsburgh,40.44,-79.95,Tech,2009-09-27 21:28:34,active,724,open,58,2017-04-18 21:00:00,1
+Pittsburgh Transmission Meditation,Pittsburgh-Transmission-Meditation,Pittsburgh,40.44,-79.95,New Age & Spirituality,2009-11-14 14:22:20,active,504,open,441,2018-01-22 20:00:00,1
+Pittsburgh Tantra,PittsburghTantra,Pittsburgh,40.43,-80.05,New Age & Spirituality,2016-01-20 12:05:38,active,296,open,13,2018-01-13 14:00:00,5
+Bicycling Pittsburgh,bicyclingpgh,Pittsburgh,40.45,-79.99,Fitness,2008-03-13 19:10:45,active,2737,open,925,2017-11-17 19:45:00,16
+Pittsburgh Informatica User Group,Pittsburgh-Informatica-User-Group,Pittsburgh,40.45,-79.99,Tech,2015-10-05 23:50:13,active,327,open,6,2017-11-02 12:00:00,25
+Dale Carnegie Training in Pittsburgh,Dale-Carnegie-Training-Pittsburgh,Pittsburgh,40.45,-79.99,Career & Business,2016-11-12 16:13:32,active,108,approval,26,2018-01-25 19:00:00,1
+Western PA Kayaking,Western-PA-Kayaking,Pittsburgh,40.45,-79.99,Outdoors & Adventure,2014-03-10 09:10:20,active,2296,open,95,2017-09-23 12:00:00,4
+The Sketchbook Society of Southwestern Pennsylvania,sketchbook-swpa,Pittsburgh,40.45,-79.99,Arts & Culture,2013-12-29 17:00:34,active,232,open,76,2017-12-03 14:00:00,8
+Pittsburgh Polymer Clay Meetup,Pittsburgh-Polymer-Clay-Meetup,Pittsburgh,40.43,-79.89,Hobbies & Crafts,2015-03-15 13:11:08,active,113,open,36,2018-01-21 11:00:00,2
+"Tai Chi, Qigong and Meditation by Standing Crane, LLC",Tai-Chi-Qigong-and-Meditation-by-Standing-Crane-LLC,Pittsburgh,40.43,-79.89,Health & Wellbeing,2017-02-21 06:36:18,active,108,approval,89,2018-01-24 20:00:00,2
+Pittsburgh Magui Bagua Study Group,Pittsburgh-Magui-Bagua-Study-Group,Pittsburgh,40.44,-80.07,Fitness,2014-02-04 18:07:46,active,59,open,181,2018-01-21 12:30:00,2
+Pittsburgh Attachment Parenting Community,Pittsburgh-Attachment-Parenting,Pittsburgh,40.45,-79.91,Parents & Family,2008-07-25 20:59:49,active,303,approval,1354,2017-11-16 11:00:00,5
+Pittsburgh JavaScript,Pittsburgh-JavaScript,Pittsburgh,40.45,-79.91,Tech,2013-04-01 14:14:43,active,744,open,29,2017-06-06 19:00:00,29
+Gymnosophy Pittsburgh,Gymnosophy-Pittsburgh,Pittsburgh,40.45,-79.91,Lifestyle,2013-09-15 03:48:09,active,121,open,48,2018-01-20 21:00:00,2
+Pittsburgh Cross Country Skiers (sponsored by PACCSA),Pittsburgh-Cross-Country-Skiers-sponsored-by-PACCSA,Pittsburgh,40.47,-79.96,Outdoors & Adventure,2014-09-07 22:58:36,active,243,open,34,2018-01-13 11:00:00,1
+Alternative musicians and enthusiasts,Alternative-musicians-and-enthusiasts,North Versailles,40.39,-79.83,Music,2017-09-18 20:06:35,active,42,open,1,2017-10-06 17:35:00,2
+Pittsburgh Chinese Language and Culture Meetup,Pittsburgh-Chinese-Language-and-Culture-Meetup,Pittsburgh,40.47,-79.95,Language & Ethnic Identity,2016-02-12 14:29:50,active,342,open,162,2018-01-20 16:00:00,2
+"YA RISE - Radically Inclusive, Spiritually Enriching",YA-RISE-Radically-Inclusive-Spiritually-Enriching,Pittsburgh,40.47,-79.95,New Age & Spirituality,2018-01-05 19:16:24,active,29,open,0,,0
+Pittsburgh Ex-Jehovah's Witnesses Meetup,Pittsburgh-Ex-Jehovahs-Witnesses-Meetup,Pittsburgh,40.47,-79.95,Religion & Beliefs,2017-12-03 23:47:22,active,8,open,0,,0
+Pittsburgh Weekday Wiffle Ball,Pittsburgh-Weekday-Wiffle-Ball,Pittsburgh,40.47,-79.95,Sports & Recreation,2017-07-19 07:09:48,active,50,open,1,2017-08-10 18:30:00,1
+BNI Western PA Allegheny Valley Chapter,BNI-Western-PA-Allegheny-Valley-Chapter,Pittsburgh,40.47,-79.95,Career & Business,2017-09-04 08:37:59,active,34,open,21,2018-01-26 09:15:00,1
+PCY - Pittsburgh's Curious Youth,PCY-Pittsburghs-Curious-Youth-18-28,Pittsburgh,40.47,-79.95,Games,2017-08-03 14:04:10,active,47,approval,9,2018-01-11 19:00:00,2
+Young Adult Book Club,meetup-group-PkMOSGwd,Pittsburgh,40.47,-79.95,Book Clubs,2017-12-06 21:59:23,active,50,open,1,2017-12-17 13:00:00,2
+Women's Conscious Evolution - As Within So Without,Conscious-Evolution-As-Within-So-Without,Pittsburgh,40.47,-79.95,New Age & Spirituality,2017-03-11 21:19:23,active,253,open,8,2017-11-04 15:00:00,9
+Greater Pittsburgh Square and Modern Pattern Dance Group,Greater-Pittsburgh-Square-and-Modern-Pattern-Dance-Group,Pittsburgh,40.47,-79.95,Dancing,2015-08-16 19:36:39,active,543,open,349,2018-01-24 20:00:00,1
+Drops of JOY Wellness Classes,Drops_of_Joy,Pittsburgh,40.47,-79.95,Health & Wellbeing,2015-02-20 18:51:04,active,477,open,85,2018-01-12 18:30:00,2
+Pittsburgh Real Estate Alliances,Pittsburgh-Real-Estate-Alliances,Pittsburgh,40.47,-79.95,Career & Business,2017-09-22 11:17:09,active,50,open,1,2017-10-06 18:00:00,1
+Steel City Cosplay Meetup,Steel-City-Cosplay-Meetup,Pittsburgh,40.47,-79.95,Sci-Fi & Fantasy,2017-06-28 23:11:32,active,81,open,5,2017-11-16 19:00:00,2
+"Next Gen Native Hadoop Big Data Apex Users Group, Pittsburgh",Apex-Users-Group-Pittsburgh,Pittsburgh,40.47,-79.95,Tech,2016-07-06 01:45:00,active,135,open,75,2017-11-16 12:00:00,3
+East End Entrepreneurs ~ Successful Women Collaborating!,East-End-Entrepreneurs-Women-Collaborating-for-Success,Pittsburgh,40.47,-79.95,Career & Business,2017-09-27 15:49:52,active,34,open,7,2018-01-05 11:30:00,4
+Pittsburgh Energy Technology Meet Up,Pittsburgh-Energy-Technology-Meet-Up,Pittsburgh,40.47,-79.95,Career & Business,2017-04-14 12:45:57,active,41,open,1,2017-04-18 18:00:00,1
+Pittsburgh Aerial Arts & Acro Balance,Pittsburgh-Aerial-Arts-Acro-Balance,Pittsburgh,40.47,-79.95,Fitness,2016-05-25 14:44:24,active,104,open,55,2018-01-23 19:30:00,2
+L3 Leadership,L3Leadership,Pittsburgh,40.47,-80.02,Career & Business,2015-06-26 07:57:18,active,50,open,30,2018-01-20 09:30:00,2
+Unique Pittsburgh,Unique-Pittsburgh,Pittsburgh,40.47,-80.02,Socializing,2017-03-20 10:44:47,active,213,open,13,2018-01-06 19:00:00,2
+Single Introverts of Pittsburgh,Introverts-of-Pittsburgh,Pittsburgh,40.47,-80.02,Socializing,2015-04-06 15:20:22,active,941,open,30,2017-12-16 08:30:00,3
+Pittsburgh Essential Oils and Holistic Living Meetup,Pittsburgh-Essential-Oils-and-Holistic-Living-Meetup,Pittsburgh,40.5,-80.07,Health & Wellbeing,2016-02-02 13:06:34,active,97,open,6,2016-06-12 15:00:00,1
+Greater Pittsburgh Celiac & Gluten Free Living  Meetup Group,Greater-Pittsburgh-Celiac-Meetup-Group,Pittsburgh,40.5,-80.07,Food & Drink,2010-02-09 16:36:10,active,445,open,126,2018-01-03 10:00:00,2
+Pittsburgh Preppers,Prepper-Friends,Pittsburgh,40.52,-80.04,Community & Environment,2016-08-02 23:45:19,active,54,approval,11,2017-12-10 17:00:00,5
+Sports Monster FC Pittsburgh,sportsmonsterfcpittsburgh,Monroeville,40.43,-79.76,Sports & Recreation,2012-04-30 12:24:24,active,814,open,138,2017-10-20 16:30:00,4
+East Suburban Spiritual Connection,EastSuburbanSpiritualConnection,Monroeville,40.43,-79.76,Health & Wellbeing,2014-01-16 22:26:07,active,89,open,23,2018-01-10 20:00:00,3
+Habitat for Humanity Allegheny Valley,Habitat-for-Humanity-Allegheny-Valley,Oakmont,40.52,-79.83,Community & Environment,2017-08-04 19:51:32,active,74,open,10,2017-11-04 21:00:00,1
+WomanSpeak Pittsburgh,WomanSpeak-Pittsburgh,Pittsburgh,40.55,-80.04,Career & Business,2018-01-02 22:19:17,active,16,open,1,2018-01-24 12:00:00,1
+ACRE of Pittsburgh,ACRE-of-Pittsburgh,Pittsburgh,40.55,-80.04,Career & Business,2013-11-11 14:28:40,active,345,approval,59,2018-01-09 20:00:00,5
+Pittsburgh Survivors Walk and Talk,Pittsburgh-Survivors-Walk-and-Talk,Pittsburgh,40.48,-79.75,Fitness,2017-10-29 16:06:47,active,66,open,2,2017-12-02 11:30:00,15
+Ohio River W.H.E.E.L. Meeting,Ohio-River-W-H-E-E-L-Meeting,Coraopolis,40.51,-80.18,New Age & Spirituality,2017-10-16 21:10:51,active,40,open,38,2018-01-20 14:30:00,2
+912Murrysville,912Murrysville,Murrysville,40.45,-79.68,Movements & Politics,2011-08-16 21:30:05,active,144,open,76,2018-01-18 20:00:00,3
+Half Fast Social Cycling in the Burg,Half-Fast-Social-Cycling-in-the-Burg,Washington,40.18,-80.25,Outdoors & Adventure,2015-03-24 01:25:49,active,125,open,63,2017-12-16 09:00:00,0
+WSBA - Washington County,WSBA-Washington-County,Washington,40.18,-80.25,Career & Business,2010-05-28 10:47:16,active,115,open,83,2018-01-25 18:30:00,2
+Let's Start a Real Estate Career,Get-Started-in-Real-Estate-Career,Wexford,40.62,-80.06,Career & Business,2017-11-01 10:29:25,active,16,open,5,2018-01-25 16:00:00,2
+Mommy's Time Out,meetup-group-OImDyaWa,Wexford,40.62,-80.06,Parents & Family,2018-01-23 21:32:22,active,6,open,1,2018-01-24 10:30:00,1
+Jeannette/Greensburg Small Breed Dogs Meetup,Jeannette-Greensburg-Small-Breed-Dogs-Meetup,Jeannette,40.33,-79.61,Pets & Animals,2017-06-02 09:11:40,active,33,open,1,2017-06-17 13:00:00,0
+Western Pa Phalcon PHP User Group,Western-Pa-Phalcon-PHP,Greensburg,40.3,-79.54,Tech,2016-11-11 16:31:57,active,12,open,8,2017-10-26 18:00:00,3
+Mars Health & Wellness,Mars-Health-Wellness-Meetup,Mars,40.7,-80.07,Health & Wellbeing,2017-05-02 09:37:52,active,77,open,27,2018-01-02 18:45:00,2
+"Cupid's Chase 2018- Butler, PA",Cupids-Chase-2018-Butler-PA,Butler,40.86,-79.9,Fitness,2017-08-25 09:44:05,active,42,open,0,,0
+Butler Personal Development for Business Success Meetup,Butler-Personal-Development-for-Business-Success-Meetup,Butler,40.86,-79.9,Career & Business,2017-08-01 12:25:54,active,43,open,6,2018-01-17 19:00:00,1
+Women's Small Business Association - Butler County,WSBA-Butler-County,Butler,40.86,-79.9,Career & Business,2009-09-16 08:09:51,active,98,open,107,2018-01-25 18:30:00,2
+Northern Pittsburgh Area Networking Group,Northern-Pittsburgh-Area-Networking-Group,Butler,40.86,-79.9,Career & Business,2017-01-15 08:37:26,active,37,approval,23,2018-01-11 13:30:00,2
+Ohio Valley Vegetarian / Vegan Meetup,WheelingVeg,Wheeling,40.07,-80.69,Food & Drink,2009-07-13 21:41:52,active,320,open,191,2017-12-17 14:00:00,11
+Ohio Valley Outdoor Enthusiasts,Ohio-Valley-Outdoor-Enthusiasts,Wheeling,40.07,-80.69,Outdoors & Adventure,2016-09-22 22:58:15,active,50,open,10,2018-01-26 18:00:00,3
+"Follow Me (Indiana, PA)",Follow-Me,Indiana,40.62,-79.16,Socializing,2016-11-18 13:49:21,active,106,approval,74,2018-01-16 20:00:00,1
+Build Guild Morgantown,build-guild-morgantown,Morgantown,39.63,-79.96,Tech,2017-07-14 12:54:52,active,63,open,13,2018-01-08 19:00:00,1
+TJ Sweet,TJ-Sweet,Pittsburgh,40.35,-79.98,Socializing,2017-03-14 17:15:42,active,15,approval,2,2017-07-15 13:30:00,6
+All Things Aquatic_Pittsburgh Divers Meetup,All-Things-Aquatic_Pittsburgh-Divers-Meetup,Pittsburgh,40.37,-80.02,Outdoors & Adventure,2014-12-10 13:30:29,active,165,open,16,2017-04-08 07:00:00,2
+Pittsburgh CUBA Meetup,Pittsburgh-CUBA-Meetup,Pittsburgh,40.4,-79.97,Movements & Politics,2016-04-01 16:19:38,active,74,open,20,2017-12-04 18:30:00,6
+Pittsburgh Environmentalists 12.0,Pittsburgh-Environmentalists-12-0,Pittsburgh,40.4,-79.97,Community & Environment,2013-07-08 10:47:00,active,732,open,54,2017-10-11 18:00:00,1
+Fat Positive Pittsburgh,Fat-Positive-Pittsburgh,Pittsburgh,40.4,-79.97,Support,2016-02-16 15:46:48,active,126,open,11,2017-10-09 19:00:00,5
+Events at Work Hard Pittsburgh,Events-at-Work-Hard-Pittsburgh,Pittsburgh,40.4,-79.97,Career & Business,2013-05-03 08:36:43,active,582,open,43,2017-01-18 18:00:00,7
+PGH Crowd-Funding,PGH-Crowd-Funding,Pittsburgh,40.4,-79.97,Career & Business,2012-07-20 12:05:13,active,131,open,12,2015-07-24 18:30:00,11
+PittMesh Working Group,pittmeshworkinggroup,Pittsburgh,40.4,-79.97,Tech,2015-10-10 20:13:37,active,163,open,50,2017-02-03 16:15:00,3
+node.pgh,Pittsburgh-Node-js,Pittsburgh,40.4,-79.97,Tech,2012-01-26 22:11:46,active,585,open,29,2017-05-09 19:00:00,35
+Pittsburgh Live Music MeetUp,Pittsburgh-Live-Music,Pittsburgh,40.4,-79.97,Parents & Family,2010-01-17 18:41:42,active,1160,approval,521,2017-12-15 21:00:00,8
+South Hills Area 20's & 30's 😊,South-Hills-Area-20s-30s,South Park,40.3,-80.0,Socializing,2017-01-09 21:37:21,active,267,approval,44,2017-12-16 20:30:00,1
+Pittsburgh Yoga Moms,Pittsburgh-Yoga-Moms,Pittsburgh,40.38,-80.04,Parents & Family,2016-04-26 09:41:07,active,161,open,78,2017-12-04 11:30:00,2
+The Foodie Dinner Club,The-Foodie-Dinner-Club,Pittsburgh,40.38,-80.04,Food & Drink,2015-09-27 06:29:24,active,159,approval,9,2017-09-01 08:00:00,1
+Pittsburgh Stand Up Paddle Boarding Meetup,Pittsburgh-Stand-Up-Paddle-Boarding-Meetup,Pittsburgh,40.38,-80.04,Sports & Recreation,2017-06-29 12:33:39,active,50,open,2,2017-08-30 18:30:00,5
+Sacred Chant at Sunnyhill,Sacred-Chant-at-Sunnyhill,Pittsburgh,40.38,-80.04,New Age & Spirituality,2015-10-26 16:14:56,active,47,open,8,2017-06-02 19:00:00,1
+Pints and Purls around Pittsburgh,Pints-and-Purls-around-Pittsburgh,Bethel Park,40.32,-80.04,Hobbies & Crafts,2013-08-30 19:16:10,active,310,open,96,2017-11-16 19:30:00,4
+Native Americans,Native-American-People,Bethel Park,40.32,-80.04,Language & Ethnic Identity,2017-12-07 21:00:46,active,2,approval,2,2018-01-12 20:00:00,1
+DG Training Solutions Professional Development Meetup,DG-Training-Solutions-Professional-Development-Meetup,Bethel Park,40.32,-80.04,Career & Business,2016-09-16 12:47:59,active,41,open,12,2017-11-03 09:00:00,2
+Pittsburgh Martial Arts,Pittsburgh-Martial-Arts,Pittsburgh,40.4,-80.02,Sports & Recreation,2016-03-14 12:55:02,active,57,approval,1,2016-04-02 14:00:00,6
+BBW & SSBBW Pittsburgh,BBW-SSBBW-Pride,Pittsburgh,40.36,-80.06,Socializing,2018-01-20 23:17:08,active,12,open,0,,0
+Christians United in the Battle,Christians-United-in-the-battle,Pittsburgh,40.36,-80.06,Religion & Beliefs,2017-04-23 13:50:53,active,22,open,6,2017-09-22 18:00:00,2
+Pittsburgh Azure Meetup,Pittsburgh-Azure-Meetup,Pittsburgh,40.4,-80.04,Tech,2016-03-07 16:26:45,active,288,open,15,2017-12-21 18:00:00,4
+Pool Paddle Fitness,Pool-Paddle-Fitness,Pittsburgh,40.4,-80.04,Outdoors & Adventure,2017-07-16 23:45:49,active,105,open,5,2017-08-05 11:00:00,1
+The Pittsburgh Scuba Meetup Group,pgh-scuba,Pittsburgh,40.4,-80.04,Outdoors & Adventure,2008-11-21 11:26:59,active,381,open,30,2017-03-20 18:30:00,3
+Burgh Adults,Burgh-Adults,Pittsburgh,40.4,-80.04,Socializing,2012-04-03 12:00:30,active,5259,open,876,2017-12-25 17:30:00,8
+Project Managers Pittsburgh,Pittsburgh-projectmanagers,Pittsburgh,40.42,-79.98,Parents & Family,2015-08-04 15:48:24,active,8,open,2,2016-02-25 19:00:00,2
+Steel City Skeptics,Steel-City-Skeptics,Pittsburgh,40.42,-79.98,Religion & Beliefs,2009-01-05 09:12:11,active,1257,approval,449,2017-12-17 18:00:00,19
+Zouk Pittsburgh,Zouk-Pittsburgh,Pittsburgh,40.42,-79.98,Dancing,2015-07-20 14:56:39,active,99,open,5,2017-03-26 19:00:00,2
+Southside movie group!,Southside-movie-group,Pittsburgh,40.42,-79.98,Movies & Film,2017-07-12 19:12:12,active,74,approval,13,2017-12-15 20:30:00,5
+Sports Monster Pittsburgh Softball Meetup,Sports-Monster-Pittsburgh-Softball-Meetup,Pittsburgh,40.42,-79.98,Sports & Recreation,2015-03-09 16:41:55,active,327,open,37,2017-11-04 09:00:00,1
+"Pittsburgh SEO, SEM & PPC",SEMPO-Pittsburgh,Pittsburgh,40.42,-79.98,Tech,2009-11-24 16:31:15,active,230,open,19,2016-07-14 18:00:00,6
+Pittsburgh Area Forex,Pittsburgh-Area-Forex,Pittsburgh,40.42,-79.98,Career & Business,2014-05-18 19:23:05,active,63,open,44,2018-01-04 21:00:00,1
+Southside Geeks/Nerds Unite!,Southside-Geeks-Nerds-Unite,Pittsburgh,40.42,-79.98,Games,2017-05-20 11:48:51,active,85,approval,26,2017-10-05 18:00:00,3
+Downtown Pittsburgh Investor's Business Daily Meetup,Downtown-Pittsburgh-Investors-Business-Daily-Meetup,Pittsburgh,40.42,-79.98,Career & Business,2015-11-16 13:31:42,active,133,open,14,2017-11-14 21:00:00,5
+Pittsburgh Information Technology Meetup,Pittsburgh-Information-Technology-Meetup,Pittsburgh,40.42,-79.98,Tech,2014-01-12 17:17:49,active,765,open,46,2018-01-24 20:00:00,1
+Meteor Pittsburgh,Meteor-Pittsburgh,Pittsburgh,40.42,-79.98,Tech,2013-12-02 13:59:14,active,162,open,6,2015-06-25 18:30:00,12
+Sounds of Pittsburgh Chorus,Sounds-of-Pittsburgh-Chorus,Pittsburgh,40.38,-80.07,Music,2015-09-03 07:36:25,active,46,open,120,2018-01-22 20:00:00,1
+Pittsburgh Parents of an Only Child,Pittsburgh-Parents-of-an-Only-Child,Pittsburgh,40.38,-80.07,Parents & Family,2017-06-14 15:53:12,active,4,approval,0,,0
+Pittsburgh Bicycle Touring Meetup,Pittsburgh-Loaded-Bicycle-Touring-Meetup,Pittsburgh,40.38,-80.07,Sports & Recreation,2014-11-28 12:11:28,active,50,open,24,2017-08-06 07:00:00,3
+Northside Coding Club,Northside-Coding-Club,Pittsburgh,40.43,-79.95,Tech,2017-09-01 14:25:58,active,22,open,8,2017-10-30 18:00:00,1
+Young Stroke Survivors in Pittsburgh,Young-stroke-survivors-in-Pittsburgh,Pittsburgh,40.43,-79.95,Socializing,2012-11-10 21:28:40,active,25,approval,27,2013-11-23 12:00:00,1
+Mount Washington Community Cleanup,Mount-Washington-Community-Cleanup,Pittsburgh,40.43,-79.95,Community & Environment,2014-03-18 15:14:50,active,4,open,0,,0
+Pittsburgh Scottish Country Dance Meetup Group,PittsburghSCDS,Pittsburgh,40.43,-79.95,Dancing,2011-08-21 21:29:10,active,188,open,192,2016-05-16 19:00:00,2
+REGENT SQUARE ADVANCED WOMEN'S SPIRITUALLY AWAKE GROUP,Pittsburgh-North-Hills-Advanced-Womens-Awakening-Meetup,Pittsburgh,40.44,-79.96,New Age & Spirituality,2015-01-26 11:12:15,active,68,open,0,,0
+East End Lesbians Social Group,East-End-Lesbians-Wine-Apps-Happy-Hour,Pittsburgh,40.44,-79.96,LGBT,2017-03-19 13:40:30,active,122,approval,6,2017-10-10 18:45:00,2
+"Tai Chi,Qigong, Health and  Wellness, and Taoism",pittsburghtaichi,Pittsburgh,40.43,-79.92,Health & Wellbeing,2009-02-24 16:43:45,active,376,open,29,2017-06-08 18:30:00,2
+Parkinson's: Get Up and Move!!!,parkinsons-wpa,Pittsburgh,40.43,-79.92,Support,2010-12-20 16:07:50,active,39,approval,313,2018-01-12 14:00:00,1
+Storyburgh Meetup Group,storyburgh,Pittsburgh,40.43,-79.92,Writing,2016-03-14 15:16:08,active,41,open,4,2017-12-07 18:00:00,4
+Squirrel Hill Business Network,Squirrel-Hill-Business-Network,Pittsburgh,40.43,-79.92,Career & Business,2013-03-15 23:19:57,active,168,open,5,2017-03-25 10:00:00,3
+Pittsburgh PostgreSQL User's Group,Pittsburgh-PostgreSQL-Users-Group,Pittsburgh,40.43,-79.92,Tech,2015-10-25 18:50:58,active,85,open,8,2016-09-14 19:00:00,11
+Pittsburgh Netball Club,Pittsburgh-Netball-Club,Pittsburgh,40.43,-79.92,Sports & Recreation,2017-10-15 16:29:59,active,12,open,2,2017-11-18 12:00:00,2
+Pittsburgh European Soccer Meetup,Pittsburgh-European-Soccer-Meetup,Pittsburgh,40.43,-79.92,Sports & Recreation,2015-08-02 17:35:46,active,252,open,13,2016-08-14 11:00:00,2
+Pittsburgh Ultimate Frisbee Meetup Group,FUNULTIMATEPITTSBURGH,Pittsburgh,40.43,-79.92,Sports & Recreation,2008-08-07 09:44:26,active,1097,open,752,2017-10-28 11:00:00,4
+Twenty Something In The City,Twenty-Something-In-The-City,Pittsburgh,40.43,-79.92,Socializing,2010-03-23 12:30:09,active,2152,open,719,2017-09-10 17:00:00,1
+The FoodBurgh Meetup,foodburgh,Pittsburgh,40.43,-79.92,Socializing,2010-01-19 09:05:54,active,470,open,38,2012-09-05 18:00:00,0
+Pittsburgh Dorothy Dunnett Reading Group,Pittsburgh-Dorothy-Dunnett-Reading-Group,Pittsburgh,40.43,-79.92,Book Clubs,2015-02-28 20:27:04,active,139,open,19,2017-11-11 12:00:00,6
+Single In The City-Greater Pittsburgh,Single-In-The-City-Greater-Pittsburgh,Pittsburgh,40.43,-79.92,Singles,2015-01-29 12:26:05,active,464,open,14,2017-06-29 17:30:00,3
+PghQA (Pittsburgh Software Quality),PghQA-Pittsburgh-Software-Quality,Pittsburgh,40.43,-79.92,Tech,2015-01-28 00:13:07,active,284,open,14,2017-11-08 20:00:00,4
+"Arts, Crafts & Global Cultures",Arts-Crafts-Global-Cultures,Pittsburgh,40.43,-79.92,Fashion & Beauty,2017-04-20 11:47:16,active,540,open,11,2017-10-19 17:00:00,1
+Financial Advisors Of The Greater Pittsburgh Area,Financial-Advisors-Of-The-Greater-Pittsburgg-Area,Pittsburgh,40.43,-79.92,Career & Business,2017-03-27 14:17:55,active,8,open,0,,0
+The Pittsburgh Wine Meetup Group,wine-306,Pittsburgh,40.43,-79.92,Food & Drink,2006-11-16 10:29:40,active,924,open,68,2015-10-19 18:00:00,1
+Pittsburgh Entrepreneur Business Strategy Workshop,pghentrepreneurs,Pittsburgh,40.43,-79.92,Career & Business,2017-02-07 12:53:23,active,62,approval,3,2017-02-26 15:00:00,5
+Pittsburgh Women in Big Data,Pittsburgh-Women-in-Big-Data,Pittsburgh,40.43,-79.92,Tech,2017-01-31 17:21:11,active,87,open,2,2017-03-15 12:30:00,2
+Pittsburgh Tourettes Support Network,Pittsburgh-Tourettes-Support-Network,Pittsburgh,40.43,-79.92,Support,2012-02-22 17:14:00,active,28,open,9,2017-06-08 18:30:00,1
+Backpacking Western PA,Backpacking-central-pa,Pittsburgh,40.43,-79.92,Outdoors & Adventure,2016-11-05 19:57:50,active,1199,open,7,2017-10-28 10:00:00,6
+Non-duality Pittsburgh,Non-duality-Pittsburgh,Pittsburgh,40.43,-79.92,New Age & Spirituality,2011-10-24 20:57:31,active,65,open,68,2017-12-14 20:00:00,1
+Pittsburgh Big Data Meetups,Pittsburgh-Big-Data-Meetups,Pittsburgh,40.43,-79.92,Tech,2015-03-04 09:55:47,active,603,open,10,2016-03-22 19:00:00,49
+Pittsburgh Area Singles Group,Pittsburgh-Area-Singles-Group,Pittsburgh,40.43,-79.92,Singles,2011-04-15 14:52:33,active,1748,open,67,2017-06-29 17:30:00,5
+Pittsburgh PHP Developers Group,Pittsburgh-PHP-Developers-Group,Pittsburgh,40.43,-79.92,Tech,2009-05-24 11:20:41,active,322,open,40,2015-08-01 08:30:00,1
+Overcome ADHD/ADD Pittsburgh Support Group Network,OvercomeADHDADDpittsburghsupportgroupnetwork,Pittsburgh,40.43,-79.92,Support,2011-02-08 01:54:03,active,184,open,40,2017-06-08 18:30:00,1
+Pittsburgh 'A Course in Miracles' Study Group,Pittsburgh-A-Course-in-Miracles-Study-Group,Pittsburgh,40.43,-79.92,New Age & Spirituality,2013-11-10 20:46:30,active,152,open,87,2017-06-10 10:00:00,2
+User Experience Designers Pittsburgh,UXPittsburgh,Pittsburgh,40.44,-80.01,Tech,2013-05-16 15:53:47,active,702,open,19,2017-11-09 09:00:00,21
+The Pittsburgh Garden Experiment!,PittsburghGardenExperiment,Pittsburgh,40.44,-79.95,Community & Environment,2008-11-23 20:44:01,active,1888,open,230,2017-12-16 12:00:00,1
+Getting Things Done Pittsburgh Productivity Group,gtdpgh,Pittsburgh,40.44,-79.95,Education & Learning,2016-02-01 20:50:35,active,45,open,5,2017-03-16 18:30:00,3
+Better Choices = Better Life.,Better-Choices-Better-Life,Pittsburgh,40.44,-79.95,Health & Wellbeing,2013-02-04 15:51:39,active,48,open,14,2017-02-04 15:30:00,1
+Pittsburgh Groovy Programming,Pittsburgh-Groovy-Programming,Pittsburgh,40.44,-79.95,Tech,2015-08-10 14:50:57,active,215,open,8,2017-07-27 19:00:00,3
+Ask-an-Aspie,ask-an-aspie,Pittsburgh,40.44,-79.95,Support,2012-09-09 17:49:42,active,37,approval,6,2013-03-23 14:30:00,2
+Pittsburgh Hardware Startup Meetup,PghHWStartups,Pittsburgh,40.44,-79.95,Tech,2013-03-23 13:20:47,active,631,open,16,2016-05-17 17:30:00,17
+"Indigo Children, Parents, and Individuals",pittsburghindigo,Pittsburgh,40.44,-79.95,New Age & Spirituality,2010-01-04 17:23:56,active,192,open,31,2017-06-08 18:30:00,6
+Pittsburgh Young Entrepreneurs,Pittsburghyoungentrepreneurs,Pittsburgh,40.44,-79.95,Career & Business,2009-11-04 23:16:47,active,1302,open,65,2017-06-08 18:30:00,4
+PittsburghTennisLeague.com | Pittsburgh Tennis League,Pittsburgh-Tennis-League,Pittsburgh,40.44,-79.95,Sports & Recreation,2012-04-03 15:08:27,active,1026,open,67,2017-11-07 15:00:00,4
+Jewish Pittsburgh,Jewish-Pittsburgh,Pittsburgh,40.44,-79.95,Religion & Beliefs,2017-03-18 20:56:02,active,23,approval,6,2018-01-26 18:30:00,1
+ACM Pittsburgh,ACM-Pittsburgh,Pittsburgh,40.44,-79.95,Tech,2014-11-04 14:54:04,active,479,open,16,2017-10-24 19:00:00,44
+Pittsburgh Writers Meetup,pittsburgh-writers-meetup,Pittsburgh,40.44,-79.95,Writing,2014-09-24 21:29:42,active,99,open,2,2014-11-13 19:00:00,3
+The Pittsburgh Social Freedom Project,Social-Freedom-Project,Pittsburgh,40.44,-79.95,Health & Wellbeing,2014-08-09 17:21:35,active,390,open,23,2017-01-27 22:00:00,2
+Carnegie Mellon University's Heinz Finance Club,Carnegie-Mellon-Heinz-Finance-Club-Speaker-Series,Pittsburgh,40.44,-79.95,Career & Business,2017-02-08 23:49:17,active,40,open,1,2017-02-17 13:00:00,1
+The Encounter Group,people,Pittsburgh,40.44,-79.95,Education & Learning,2012-03-20 18:35:05,active,74,open,22,2014-04-11 11:00:00,1
+Explore Pittsburgh!,Explore-Pittsburgh,Pittsburgh,40.44,-79.95,Socializing,2014-04-09 14:06:35,active,3515,approval,154,2017-12-19 20:00:00,37
+Steel City Curb & Trail Society - Walking / Hiking Group,SteelCityCurbAndTrailSociety,Pittsburgh,40.44,-79.95,Outdoors & Adventure,2010-01-02 22:51:31,active,1707,approval,93,2017-10-07 11:00:00,1
+Pittsburgh Drone Masters,Pittsburgh-Drone-Masters,Pittsburgh,40.44,-79.95,Career & Business,2014-01-08 14:11:26,active,360,open,21,2017-12-22 19:00:00,7
+Pittsburgh Indoor and Outdoor Volleyball,Pittsburgh-Sports-and-Recreation-Meetup,Pittsburgh,40.44,-79.95,Sports & Recreation,2016-06-14 17:07:44,active,275,open,39,2017-08-28 18:45:00,8
+EdTech PGH,Ed-Tech-PGH,Pittsburgh,40.44,-79.95,Tech,2013-10-31 13:38:46,active,378,approval,14,2016-06-29 18:00:00,26
+OpenStack Pittsburgh,openstack-pittsburgh,Pittsburgh,40.44,-79.95,Tech,2013-10-17 20:11:28,active,132,approval,11,2016-02-24 19:30:00,8
+Bailamos! Pittsburgh Salsa Lesson Meetup,bailamos,Pittsburgh,40.43,-80.05,Dancing,2016-03-13 19:54:06,active,93,open,25,2016-09-06 19:00:00,1
+Pittsburgh Offroad Excursions,offroading,Pittsburgh,40.43,-80.05,Cars & Motorcycles,2017-05-16 11:40:39,active,18,open,0,,0
+PITTROTORcross,PITTROTORcross,Pittsburgh,40.43,-80.05,Hobbies & Crafts,2015-01-16 16:01:56,active,121,approval,16,2017-07-22 10:00:00,1
+Try New Tech,trynewtech,Pittsburgh,40.43,-80.05,Tech,2014-01-31 18:19:13,active,133,open,3,2014-06-18 18:30:00,29
+Pittsburgh Wellness Group,PittsburghWellnessGroup,Bridgeville,40.36,-80.11,Health & Wellbeing,2015-10-07 13:58:33,active,1167,open,179,2017-12-05 19:45:00,1
+Pittsburgh Kombucha Meetup,Pittsburgh-Kombucha-Meetup,Bridgeville,40.36,-80.11,Food & Drink,2015-02-19 00:27:24,active,116,open,4,2016-01-10 15:00:00,2
+"Mindset, Meals and Movement Meet up",Minset-Meals-and-Movement-Meet-up,Bridgeville,40.36,-80.11,Health & Wellbeing,2017-09-22 09:23:59,active,50,open,9,2018-01-24 19:30:00,1
+Pittsburgh Kickball Club,pittsburghkickballclub,Pittsburgh,40.45,-79.98,Sports & Recreation,2013-01-02 11:38:58,active,1543,open,55,2017-12-03 17:00:00,1
+Pittsburgh Cassandra Users,Pittsburgh-Cassandra-Users,Pittsburgh,40.45,-79.98,Tech,2013-06-27 15:20:52,active,60,open,3,2015-10-13 17:30:00,4
+Drupal Pittsburgh,Drupal-Pittsburgh,Pittsburgh,40.45,-79.98,Tech,2013-06-20 11:37:58,active,122,open,31,2017-09-22 08:00:00,1
+Pittsburgh Women Veterans Meetup (Women Warriors United),Pittsburgh-Women-Veterans-Meetup-Women-Warriors-United,Pittsburgh,40.45,-79.98,Health & Wellbeing,2016-01-18 11:45:00,active,24,open,0,,0
+Pittsburgh Flag Football Club,pittsburghflagfootballclub,Pittsburgh,40.45,-79.98,Sports & Recreation,2013-05-02 14:20:16,active,440,open,27,2017-10-20 16:30:00,4
+Magical Moms Of Multiples of Southwestern PA,Magical-Moms-Of-Multiples-of-Southwestern-PA,Pittsburgh,40.45,-79.98,Parents & Family,2017-07-12 02:56:54,active,9,approval,0,,0
+Pittsburgh Red Hat User Group,Pittsburgh-Red-Hat-User-Group,Pittsburgh,40.45,-79.98,Tech,2015-01-21 10:05:00,active,119,approval,8,2017-12-05 17:30:00,22
+Running for Brews Pittsburgh - 5K Beer Running Club,Running-for-Brews-Pittsburgh-5K-Beer-Running-Club,Pittsburgh,40.45,-79.98,Fitness,2017-03-14 22:12:59,active,143,open,22,2017-12-26 19:00:00,1
+Pittsburgh Major Taylor Cycling Club,Pittsburgh-Major-Taylor-Cycling-Club,Pittsburgh,40.45,-79.98,Sports & Recreation,2014-08-02 13:41:24,active,433,open,72,2017-09-13 18:00:00,2
+Docker Pittsburgh,Docker-Pittsburgh,Pittsburgh,40.45,-79.98,Tech,2014-02-07 15:24:26,active,294,open,7,2016-02-18 20:00:00,22
+Pittsburgh Hindi/Urdu/Hindustani Language Meetup,Pittsburgh-Hindi-Urdu-Hindustani-Language-Meetup,Pittsburgh,40.45,-79.99,Language & Ethnic Identity,2016-04-09 20:51:00,active,81,open,3,2016-11-18 19:00:00,1
+Pittsburgh Saturday night Beginners Billiards.,Pittsburgh-Beginner-Billiards,Pittsburgh,40.45,-79.99,Games,2013-07-15 15:16:58,active,128,open,3,2016-04-02 20:00:00,1
+PGH Women's Wired Network,PGH-Womens-Wired-Network,Pittsburgh,40.45,-79.99,Tech,2016-03-08 22:46:59,active,434,open,13,2017-11-08 18:30:00,10
+The Pittsburgh Large/Giant Breed Dog Meetup Group,largedog-22,Pittsburgh,40.45,-79.99,Pets & Animals,2007-05-30 15:34:49,active,910,open,428,2017-10-15 11:00:00,4
+Discover YOU: Your Hunt for Lasting Happiness,discoveryou,Pittsburgh,40.45,-79.99,New Age & Spirituality,2010-11-20 16:07:04,active,162,open,43,2017-02-04 15:30:00,1
+Integrative Medicine Professionals,Integrated-Medicine-Professionals,Pittsburgh,40.45,-79.99,Health & Wellbeing,2013-05-30 10:13:24,active,310,open,62,2017-01-07 11:00:00,3
+Ancient Order Hibernians Division 4 North Hills Pittsburgh,Ancient-Order-Hibernians-Division-4-North-Hills-Pittsburgh,Pittsburgh,40.45,-79.99,Language & Ethnic Identity,2013-03-27 20:31:13,active,25,open,8,2017-11-11 20:00:00,1
+Pittsburgh Food Bloggers,pghfoodies,Pittsburgh,40.45,-79.99,Tech,2010-09-26 12:51:12,active,27,approval,5,2011-11-19 18:00:00,0
+The Pittsburgh Beer Meetup,pittsburgh-beer,Pittsburgh,40.45,-79.99,Food & Drink,2008-12-09 21:42:40,active,1689,open,175,2015-06-14 14:00:00,21
+Pittsburgh Area Fine Art Photographers,Pittsburgh-Area-Fine-Art-Photographers,Pittsburgh,40.45,-79.99,Photography,2010-10-17 20:33:55,active,676,open,87,2017-09-22 18:00:00,1
+The Pittsburgh Witches Ball,Pittsburgh-Witches-Ball,Pittsburgh,40.45,-79.99,New Age & Spirituality,2010-07-30 10:26:43,active,673,open,167,2017-11-04 18:00:00,21
+Ron Paul for President 2012 - Pittsburgh,RonPaul2012PGH,Pittsburgh,40.45,-79.99,Movements & Politics,2007-05-20 15:16:18,active,293,open,1299,2018-01-25 20:30:00,1
+Health 2.0 Pittsburgh,Health20-Pittsburgh,Pittsburgh,40.45,-79.99,Tech,2013-01-09 12:44:37,active,742,open,28,2017-02-22 17:00:00,12
+Pittsburgh Dining N' At,pittsburgh-dining-nat,Pittsburgh,40.45,-79.99,Career & Business,2007-05-18 08:06:58,active,3429,open,796,2017-12-25 17:30:00,9
+Pittsburgh Historic Preservation Meetup,Pittsburgh-Historic-Preservation-Meetup,Pittsburgh,40.45,-79.99,Arts & Culture,2015-08-28 23:33:28,active,580,open,95,2017-12-01 20:30:00,2
+Pittsburgh Coed Adult Recreational Sports Meetup,Pittsburgh-Coed-Adult-Recreational-Sports-Meetup,Pittsburgh,40.45,-79.99,Sports & Recreation,2015-08-27 11:31:02,active,927,open,24,2018-01-18 20:00:00,1
+Big Data Developers in Pittsburgh,Big-Data-Developers-in-Pittsburgh,Pittsburgh,40.45,-79.99,Tech,2012-10-26 11:15:37,active,625,open,16,2017-11-01 18:00:00,17
+Pittsburgh Business Intelligence Group,pittsburghbigroup,Pittsburgh,40.45,-79.99,Career & Business,2010-02-22 18:58:41,active,112,open,7,2016-07-14 18:00:00,12
+Stop to Smell the Roses,Stop-to-Smell-the-Roses,Pittsburgh,40.45,-79.99,Health & Wellbeing,2017-08-02 22:11:20,active,173,open,12,2017-11-12 09:00:00,1
+Break For Ultimate - Downtown Pittsburgh,Break-For-Ultimate-Downtown-Pittsburgh,Pittsburgh,40.45,-79.99,Sports & Recreation,2015-04-15 13:17:25,active,83,open,13,2017-10-04 12:00:00,3
+pghrb - Pittsburgh's Ruby User Group,pittsburgh-ruby,Pittsburgh,40.45,-79.99,Tech,2012-08-27 16:38:16,active,439,open,36,2014-12-04 19:30:00,15
+The Pittsburgh Pug Meetup Group,Pittsburghpugs,Pittsburgh,40.45,-79.99,Pets & Animals,2003-02-03 20:38:48,active,819,open,203,2017-12-02 13:00:00,5
+Ansible Pittsburgh,Ansible-Pittsburgh,Pittsburgh,40.45,-79.99,Tech,2015-02-13 16:07:50,active,87,open,3,2015-07-13 18:30:00,1
+Pittsburgh Dog Outings Meetup,Pittsburgh-Dog-Outings-Meetup,Pittsburgh,40.45,-79.99,Pets & Animals,2017-05-06 12:05:59,active,649,open,9,2017-09-03 10:00:00,7
+Pittsburgh Backgammon Meetup,Pittsburgh-Backgammon-Meetup,Pittsburgh,40.45,-79.99,Games,2015-01-23 07:59:50,active,239,open,82,2017-12-06 19:30:00,2
+The Campaign for Liberty: Pittsburgh,ronpaul-1834,Pittsburgh,40.45,-79.99,Movements & Politics,2008-02-23 21:53:05,active,295,open,1062,2018-01-25 20:00:00,1
+iphone ipad Android Mobile App Developers Pittsburgh Meetup,iPhone-iPad-Android-Mobile-App-Developers-Pittsburgh-Meetu,Pittsburgh,40.45,-79.99,Tech,2009-08-07 18:47:15,active,403,approval,23,2016-03-30 19:00:00,11
+Pittsburgh Food Lovers -Dinner-Wine-Fun-Way2Wellness,Pittsburgh-Way2Wellness,Pittsburgh,40.45,-79.99,Food & Drink,2014-04-17 06:34:15,active,2423,open,10,2017-10-28 12:00:00,4
+Pittsburgh Now,Pittsburgh-Now,Pittsburgh,40.45,-79.99,New Age & Spirituality,2009-08-04 06:04:56,active,625,open,70,2017-02-04 15:30:00,1
+ngPittsburgh,Angular-js-Pittsburgh,Pittsburgh,40.45,-79.99,Tech,2014-02-24 13:46:02,active,906,open,25,2017-08-22 18:00:00,23
+OWASP Pittsburgh Chapter,OWASP-Pittsburgh-Chapter,Pittsburgh,40.45,-79.99,Tech,2014-02-24 08:17:16,active,263,open,8,2016-09-15 11:30:00,34
+Twitch/Youtube Pittsburgh,pittsburgh-twitch-streaming-group,Pittsburgh,40.45,-79.99,Games,2015-05-26 19:03:45,active,205,open,53,2016-07-28 19:00:00,1
+Facebook Developer and Marketers Group,Facebook-Developer-and-Marketers-Group,Pittsburgh,40.45,-79.99,Tech,2012-07-23 17:58:57,active,54,open,1,2012-10-23 19:00:00,5
+Pittsburgh Women Blogger MeetUp,Pittsburgh-Women-Blogger-MeetUp,Pittsburgh,40.45,-79.99,Tech,2013-11-21 11:30:32,active,80,open,3,2017-09-09 08:30:00,1
+BPDteam412 🙃 Pitt Borderline Support,BPD-team412,Pittsburgh,40.45,-79.99,Support,2016-05-20 16:50:52,active,92,open,44,2017-12-26 05:00:00,1
+Rotary Club of Bethel Park,Rotary-Club-of-Bethel-Park,Venetia,40.27,-80.06,Community & Environment,2016-02-06 21:05:08,active,16,open,94,2018-01-24 13:15:00,1
+Pittsburgh Area Sports and Exotic Cars Meetup,Pittsburgh-Area-Sports-and-Exotic-Cars-Meetup,Venetia,40.27,-80.06,Cars & Motorcycles,2015-11-30 21:48:31,active,18,approval,2,2016-06-04 19:00:00,1
+Jazzercise Parking Lot PARTY CLASS!!!,Jazzercise-Parking-Lot-PARTY-CLASS,Venetia,40.27,-80.06,Fitness,2017-09-11 07:48:18,active,47,open,1,2017-09-23 09:15:00,4
+Pittsburgh Machine Learners,Pittsburgh-Machine-Learners,Pittsburgh,40.45,-79.95,Tech,2016-11-16 13:06:58,active,478,open,21,2017-12-21 18:00:00,11
+Alex Deacon Team   First Time Home Buyer's Workshop Meetup,Alex-Deacon-Team-First-Time-Home-Buyers-Workshop-Meetup,Carnegie,40.41,-80.09,Career & Business,2016-04-29 16:35:17,active,18,open,0,,0
+"Entrepreneur, Start up and Small Business Monthly Q and A",Entrepreneur-Start-up-and-Small-Business-Monthly-Q-and-A,Carnegie,40.41,-80.09,Career & Business,2015-12-18 20:33:55,active,548,open,9,2017-09-30 10:00:00,1
+Pittsburgh Women's Investment Meetup,Pittsburgh-Womens-Investment-Meetup,Carnegie,40.41,-80.09,Career & Business,2015-03-03 12:36:15,active,140,open,3,2015-07-22 19:00:00,5
+Pittsburgh Ukrainian Language Meetup,Pittsburgh-Ukrainian-Language-Meetup,Carnegie,40.41,-80.09,Language & Ethnic Identity,2015-02-14 15:56:52,active,50,open,9,2017-02-04 14:00:00,1
+Good Grief,meetup-group-AWGWPmHT,Carnegie,40.41,-80.09,New Age & Spirituality,2016-09-06 16:32:48,active,128,open,4,2017-10-17 17:30:00,2
+Foreign Language Enthusiasts of Pittsburgh,foreignlanguages,Pittsburgh,40.43,-79.89,Language & Ethnic Identity,2010-06-14 08:46:36,active,532,open,318,2016-03-06 13:00:00,1
+Access Mob Pittsburgh,Access-Mob-Pittsburgh,Pittsburgh,40.45,-79.93,Community & Environment,2016-01-01 12:52:37,active,78,open,51,2017-10-21 09:30:00,1
+Coffee Shop Group,PGH-Coffee,Pittsburgh,40.45,-79.93,Food & Drink,2008-12-03 12:57:42,active,3884,open,320,2017-08-30 17:30:00,16
+M Club | Motivation Club | Pittsburgh,M-Club-Motivation-Club-Pittsburgh,Pittsburgh,40.45,-79.93,Health & Wellbeing,2017-10-11 10:22:09,active,31,open,1,2017-10-19 18:00:00,7
+Phoenix Institute Pittsburgh Meetup,Phoenix-Institute-Pittsburgh-Meetup,Pittsburgh,40.45,-79.93,New Age & Spirituality,2016-08-21 07:28:16,active,46,open,34,2017-12-11 19:00:00,2
+Pittsburgh Heartfulness Meditation,Heartfulness-Pittsburgh,Pittsburgh,40.45,-79.93,Health & Wellbeing,2013-11-19 11:14:45,active,108,approval,26,2018-01-14 12:00:00,1
+S.M.A.R.T.  Social Meetup for Aspies and Related Types,autism-social-group,Pittsburgh,40.45,-79.93,Support,2011-02-08 00:10:26,active,57,approval,25,2013-03-24 15:00:00,5
+Cloud Genius Pittsburgh,cloudgenius-pittsburgh,Pittsburgh,40.44,-80.07,Tech,2016-01-29 15:50:17,active,37,open,2,2016-10-12 18:00:00,2
+Daisy's Dogs Training Troupe,Daisys-Dogs-Training-Troupe,Pittsburgh,40.44,-80.07,Pets & Animals,2017-08-11 21:46:36,active,41,open,2,2017-09-02 15:00:00,3
+DIY Natural Health Meetup,DIY-Natural-Health-Meetup,Pittsburgh,40.44,-80.07,Health & Wellbeing,2014-05-07 00:25:13,active,185,open,61,2016-11-23 16:00:00,1
+Pittsburgh Artisans and Makers Meetup,Pittsburgh-Artisans-and-Makers-Meetup,Pittsburgh,40.45,-79.91,Hobbies & Crafts,2016-04-12 20:06:35,active,149,open,7,2016-08-25 19:00:00,5
+People Helping People,PeopleHelpingPeoplePitt,Pittsburgh,40.45,-79.91,Community & Environment,2010-05-10 16:19:20,active,1825,open,208,2017-07-10 17:00:00,1
+Pittsburgh Patent Meetup,Pittsburgh-Patent-Meetup,Pittsburgh,40.45,-79.91,Tech,2015-10-07 12:36:32,active,33,open,1,2016-02-03 11:00:00,5
+"Pittsburgh Stoics : Living the ""Good Life"" in the 'Burgh",Pittsburgh-Stoics-Reading-Group,Pittsburgh,40.45,-79.91,Education & Learning,2012-12-27 14:35:07,active,29,approval,24,2015-06-22 19:00:00,2
+BRown Empowered Women - BREW,Brown-empowered-women,Pittsburgh,40.45,-79.91,Career & Business,2015-11-05 13:16:16,active,216,approval,22,2018-01-15 20:00:00,1
+Vocal Confluence,vocalconfluence,Pittsburgh,40.45,-79.91,Music,2012-01-17 15:26:24,active,282,open,64,2017-12-09 15:00:00,8
+Streghe and Stregoni of Pittsburgh,Streghe-and-Stregoni-of-Pittsburgh,Pittsburgh,40.45,-79.91,Language & Ethnic Identity,2011-10-27 11:01:09,active,42,approval,31,2017-12-02 19:00:00,6
+Pittsburgh .NET User Group (PGHDOTNET),pghdotnet,Pittsburgh,40.46,-80.03,Tech,2012-08-14 06:48:24,active,857,open,85,2017-12-21 18:00:00,12
+The Pittsburgh Astrology Group,The-Pittsburgh-Astrology-Group,Pittsburgh,40.45,-80.06,New Age & Spirituality,2018-01-09 00:29:13,active,10,open,0,,0
+Steel City Historical Fencing,SteelCityHistoricalFencing,Pittsburgh,40.47,-79.96,Sports & Recreation,2017-11-07 22:03:55,active,14,open,31,2018-01-25 21:00:00,1
+Broken Plow Western Martial Arts & Pittsburgh Sword Fighters,brokenplowwesternmartialarts,Pittsburgh,40.47,-79.96,Sports & Recreation,2014-01-12 01:42:01,active,347,open,219,2017-08-03 18:00:00,1
+North Versailles And Surrounding Gay Male Social,North-Versailles-And-Surrounding-Gay-Male-Social,North Versailles,40.39,-79.83,LGBT,2018-01-22 16:09:55,active,6,open,0,,0
+Boxing meetup for beginners and professionals alike,Boxing-meetup-for-beginners-and-professionals-alike,North Versailles,40.39,-79.83,Fitness,2017-09-22 19:58:48,active,50,open,1,2017-10-14 13:00:00,6
+Little Boston Rails to Trails Bicycling Meetup,Little-Boston-Rails-to-Trails-Bicycling-Meetup,Elizabeth,40.27,-79.86,Outdoors & Adventure,2016-03-12 10:41:34,active,48,open,0,,0
+Pittsburgh BarkHappy Dog Meetup,Pittsburgh-BarkHappy-Dog-Meetup,Pittsburgh,40.47,-79.95,Pets & Animals,2016-04-18 15:20:26,active,211,open,20,2017-07-29 17:00:00,11
+Proof Through the Night  (a nonpartisan voter ed movement),america,Pittsburgh,40.47,-79.95,Movements & Politics,2013-09-11 09:46:43,active,31,open,8,2016-01-30 09:30:00,1
+Girlfriends Pray Pittsburgh PA – Breakfast Book Club (BBC),Girlfriends-Pray-Pittsburgh-PA-Breakfast-Book-Club-BBC,Pittsburgh,40.47,-79.95,Religion & Beliefs,2016-04-04 15:47:24,active,58,approval,5,2016-11-12 10:00:00,1
+The Pittsburgh Czech Language Meetup Group,czech-pittsburgh,Pittsburgh,40.47,-79.95,Language & Ethnic Identity,2004-03-22 13:49:10,active,258,open,111,2017-12-17 15:00:00,3
+Pittsburgh Mountain bike mostly north and east.,Northeast-Pittsburgh-MTB-Group,Pittsburgh,40.47,-79.95,Outdoors & Adventure,2016-03-13 11:49:16,active,14,approval,49,2017-11-23 10:30:00,1
+ReactPgh,ReactPgh,Pittsburgh,40.47,-79.95,Tech,2016-02-24 15:00:28,active,631,open,15,2017-12-13 19:00:00,31
+Pittsburgh Autodesk Fusion360 Study Group Meetup,Pittsburgh-Autodesk-Fusion360-Study-Group-Meetup,Pittsburgh,40.47,-79.95,Career & Business,2016-02-11 16:56:11,active,61,open,11,2016-06-10 18:00:00,3
+Effective Altruism Pittsburgh,Effective-Altruism-Pittsburgh,Pittsburgh,40.47,-79.95,Community & Environment,2016-02-07 10:05:12,active,60,open,1,2016-02-25 19:00:00,2
+Pittsburgh Outdoors Meetup,Pittsburgh-Outdoors-Meetup,Pittsburgh,40.47,-79.95,Outdoors & Adventure,2016-02-03 17:51:19,active,171,open,0,,0
+Holistic Living with Essential OIls,Holistic-Living-with-Essential-OIls,Pittsburgh,40.47,-79.95,Health & Wellbeing,2016-01-25 20:53:26,active,88,open,1,2016-02-06 14:00:00,4
+"TOC, DDMRP, and Lean Manufacturing for Pittsburgh",TOC-DDMRP-and-Lean-Manufacturing-for-Pittsburgh,Pittsburgh,40.47,-79.95,Career & Business,2018-01-23 14:51:54,active,5,open,0,,0
+Lawyers,PittsburghPersonalInjuryLawyer,Pittsburgh,40.47,-79.95,Career & Business,2017-11-15 14:34:10,active,9,open,0,,0
+Magento Pittsburgh,Magento-Pittsburgh,Pittsburgh,40.47,-79.95,Tech,2016-01-22 16:54:00,active,17,open,2,2016-05-26 19:00:00,1
+Pittsburgh Language Educator Coffee,Pittsburgh-Language-Educator-Coffee,Pittsburgh,40.47,-79.95,Education & Learning,2016-01-18 13:00:25,active,138,open,5,2016-10-27 18:30:00,4
+K-pop Dance Group,K-pop-Dance-Group,Pittsburgh,40.47,-79.95,Dancing,2016-01-17 04:04:55,active,13,approval,23,2017-11-19 13:00:00,3
+Pittsburgh Country Music Meetup,meetup-group-rngwpwxE,Pittsburgh,40.47,-79.95,Music,2018-01-10 19:07:53,active,21,open,1,2018-01-12 19:00:00,0
+Pittsburgh ABODO Meetup,Pittsburgh-ABODO-Meetup,Pittsburgh,40.47,-79.95,Singles,2016-01-12 12:56:35,active,1,approval,1,2016-01-29 18:00:00,1
+Pittsburgh Technology Innovation Group,Pittsburgh-Technology-Innovation-Group,Pittsburgh,40.47,-79.95,Tech,2016-01-11 17:17:03,active,693,open,9,2017-06-07 17:00:00,22
+Pittsburgh Ultra Runners Training Group,Pittsburgh-Ultra-Runners-Training-Group,Pittsburgh,40.47,-79.95,Outdoors & Adventure,2018-01-01 20:34:36,active,6,open,0,,0
+Pittsburgh CISSP Study Group,PghCISSP,Pittsburgh,40.47,-79.95,Education & Learning,2015-12-12 09:43:21,active,37,open,11,2017-05-21 19:00:00,1
+Pittsburgh TRIRIGA Users Group,Pittsburgh-TRIRIGA-Users-Group,Pittsburgh,40.47,-79.95,Tech,2017-12-30 15:58:11,active,6,approval,0,,0
+Pittsburgh Startup: Idea to IPO,Pittsburgh-Startup-Idea-to-IPO,Pittsburgh,40.47,-79.95,Tech,2016-01-01 00:51:24,active,324,open,5,2016-04-14 17:00:00,21
+Pittsburgh Unreal Engine 4 Meetup,Pittsburgh-Unreal-Engine-4-Meetup,Pittsburgh,40.47,-79.95,Tech,2015-12-24 15:30:25,active,50,open,9,2017-10-28 14:00:00,2
+Bitcoin 101 Education Class  Pittsburgh,Bitcoin101ClassPittsburgh,Pittsburgh,40.47,-79.95,Tech,2017-12-12 21:49:21,active,92,open,0,,0
+Shinrin-Yoku (Pittsburgh Forest Bathers),Shinrin-Yoku-Pittsburgh-Forest-Bathers,Pittsburgh,40.47,-79.95,Health & Wellbeing,2017-12-06 11:50:14,active,84,open,0,,0
+Gurdjieff Teaching,Gurdjieff-Teaching,Pittsburgh,40.47,-79.95,New Age & Spirituality,2015-12-13 12:04:51,active,73,open,28,2017-07-25 18:30:00,4
+The Ubiquitous Voice Pittsburgh Meetup,uvs-pitt,Pittsburgh,40.47,-79.95,Tech,2017-11-20 16:15:59,active,29,open,0,,0
+Hemp for Health: CBD Oil - Let's talk!,Hemp-for-Health-CBD-Oil-Lets-talk,Pittsburgh,40.47,-79.95,Health & Wellbeing,2017-11-20 09:46:31,active,8,open,0,,0
+Pittsburgh Modern And Traditional Brush Painting Class,Pittsburgh-Mordern-And-Traditional-BrushPainting,Pittsburgh,40.47,-79.95,Arts & Culture,2017-11-17 16:50:00,active,15,open,0,,0
+Pittsburgh Dating and Relationships Meetup,meetup-group-BKDrtgDI,Pittsburgh,40.47,-79.95,Singles,2015-11-24 18:09:14,active,76,open,23,2017-09-15 17:00:00,1
+Pittsburgh Test Automation,Pittsburgh-Test-Automation,Pittsburgh,40.47,-79.95,Tech,2017-11-15 20:37:48,active,27,open,0,,0
+Pittsburgh Skeptics in the Pub Meetup,Pittsburgh-Skeptics-in-the-Pub-Meetup,Pittsburgh,40.47,-79.95,Education & Learning,2017-11-15 17:44:00,active,50,open,0,,0
+Startup Grind Pittsburgh,Startup-Grind-Pittsburgh,Pittsburgh,40.47,-79.95,Tech,2017-11-10 04:00:13,active,108,open,1,2017-11-30 14:00:00,2
+Pittsburgh Outdoor Painters,Pittsburgh-Outdoor-Painters,Pittsburgh,40.47,-79.95,Arts & Culture,2010-08-02 11:21:08,active,1591,open,230,2017-10-29 14:00:00,4
+Uber Engineering Events-Pittsburgh,Uber-Engineering-Events-Pittsburgh,Pittsburgh,40.47,-79.95,Tech,2017-11-02 14:54:02,active,94,open,0,,0
+Pittsburgh WWI History Meetup,Pittsburgh-WWI-History-Meetup,Pittsburgh,40.47,-79.95,Education & Learning,2017-11-02 10:48:21,active,23,open,2,2017-11-11 11:00:00,4
+Pittsburgh JavaFX Users,Pittsburgh-JavaFX-Users,Pittsburgh,40.47,-79.95,Tech,2015-11-06 12:32:02,active,42,open,2,2016-02-29 19:00:00,7
+WPCA Ukulele Meetup,WPCA-Ukulele-Meetup,Pittsburgh,40.47,-79.95,Music,2017-10-31 16:13:51,active,18,open,2,2017-12-16 13:00:00,1
+Young Entrepreneur's Society of Pittsburgh (YESpgh),YESpgh,Pittsburgh,40.47,-79.95,Career & Business,2017-10-29 13:31:51,active,81,open,0,,0
+Live it up Pittsburgh,Live-it-up-Pittsburgh,Pittsburgh,40.47,-79.95,Socializing,2017-10-23 11:23:51,active,237,open,3,2018-01-12 10:00:00,2
+Pittsburgh IAM User Group,PittsburghIAM,Pittsburgh,40.47,-79.95,Tech,2016-01-25 15:03:15,active,30,approval,1,2016-04-12 15:00:00,8
+Pittsburgh Day Traders Meetup,Pittsburgh-Day-Traders-Meetup,Pittsburgh,40.47,-79.95,Career & Business,2017-10-17 12:41:25,active,31,open,1,2017-11-06 19:00:00,3
+Movimento 5 stelle Pittsburgh,Movimento-5-stelle-Pittsburgh,Pittsburgh,40.47,-79.95,Education & Learning,2017-10-19 08:22:39,active,16,open,0,,0
+Pittsburgh Heart Attack Survivors,Pittsburgh-Heart-Attack-Survivors,Pittsburgh,40.47,-79.95,Support,2015-10-26 15:22:00,active,9,open,0,,0
+Psychonaut Pittsburgh,Pittsburgh-Shamanism-Meetup,Pittsburgh,40.47,-79.95,New Age & Spirituality,2015-09-08 15:46:13,active,487,open,8,2016-09-25 12:00:00,9
+Pittsburgh Home Buying 101,Pittsburgh-Home-Buying-101,Pittsburgh,40.47,-79.95,Career & Business,2017-10-01 12:17:48,active,27,open,2,2017-11-08 19:00:00,2
+Pittsburgh Robotics Meetup,Pittsburgh-Robotics-Meetup,Pittsburgh,40.47,-79.95,Tech,2018-01-11 12:07:05,active,38,open,0,,0
+Isa-Burgh Healthy Happy Hour,Isa-Burgh-Healthy-Happy-Hour,Pittsburgh,40.47,-79.95,Health & Wellbeing,2017-09-25 20:38:22,active,46,open,4,2017-11-29 19:00:00,2
+Pittsburgh Chapter American Singles Golf,Pittsburgh-Singles-Golf,Pittsburgh,40.47,-79.95,Sports & Recreation,2017-09-25 11:51:33,active,20,open,0,,0
+Pittsburgh Salesforce Developer Group,Pittsburgh-Salesforce-Developer-User-Group,Pittsburgh,40.47,-79.95,Tech,2013-01-03 13:29:03,active,360,approval,35,2017-12-20 15:00:00,22
+Pittsburgh Dads Group,PittsburghDadsGroup,Pittsburgh,40.47,-79.95,Parents & Family,2017-11-02 13:46:31,active,30,approval,7,2018-01-14 17:00:00,2
+Oily Goodness - Health and Wellness with Essential Oils,Pittsburgh-Area-Essential-Oils,Pittsburgh,40.47,-79.95,Health & Wellbeing,2017-09-19 23:25:10,active,80,open,18,2018-01-24 19:15:00,1
+Freedom-Obsessed Female Entrepreneurs of Pittsburgh!,Freedom-Obsessed-Female-Entrepreneurs-of-Pittsburgh,Pittsburgh,40.47,-79.95,Career & Business,2017-09-20 07:21:08,active,105,open,1,2017-10-17 18:30:00,3
+Pittsburgh Italian Food Meetup,Pittsburgh-Italian-Food-Meetup,Pittsburgh,40.47,-79.95,Food & Drink,2017-09-19 14:25:33,active,218,open,1,2017-10-15 15:00:00,3
+Pittsburgh Effective Altruism Meetup,Pittsburgh-Effective-Altruism-Meetup,Pittsburgh,40.47,-79.95,Education & Learning,2017-09-18 16:08:57,active,30,open,2,2017-10-22 12:00:00,1
+Energized & Stress-Free Small Business Women,Energized-Stress-Free-Small-Business-Women,Pittsburgh,40.47,-79.95,Career & Business,2017-10-23 18:56:34,active,25,open,3,2018-01-24 20:00:00,1
+Steel City Marines,Steel-City-Marines,Pittsburgh,40.47,-79.95,Fitness,2017-09-12 17:37:18,active,3,approval,0,,0
+Pittsburgh Cyber Security Meetup,Pittsburgh-Cyber-Security-Meetup,Pittsburgh,40.47,-79.95,Tech,2017-09-12 10:05:17,active,59,approval,0,,0
+Real Deal Real Estate,Real-Deal-Real-Estate,Pittsburgh,40.47,-79.95,Career & Business,2017-09-11 16:37:53,active,69,open,1,2017-09-16 13:00:00,1
+Pittsburgh War on Debt (Debt Elimination),Pittsburgh-War-on-Debt,Pittsburgh,40.47,-79.95,Career & Business,2017-09-11 00:59:42,active,2,open,1,2017-09-21 17:00:00,1
+Pittsburgh Multifamily Apartment Investors,Pittsburgh-Multifamily-Apartment-Investors,Pittsburgh,40.47,-79.95,Career & Business,2017-09-07 18:15:30,active,50,open,2,2017-10-06 18:00:00,3
+Bad Ass Networking Entrepreneurs,Bad-Ass-Networking-Entrepreneurs,Pittsburgh,40.47,-79.95,Career & Business,2017-09-04 13:20:16,active,215,open,3,2017-09-19 08:30:00,6
+BNI Western PA South Hills,BNI-Western-PA-Bridge-to-Success-Chapter,Pittsburgh,40.47,-79.95,Career & Business,2017-09-04 09:25:06,active,51,open,21,2018-01-23 12:00:00,1
+Pittsburgh Leadership Meetup,Pittsburgh-Leadership-Meetup,Pittsburgh,40.47,-79.95,Career & Business,2017-08-30 06:42:45,active,50,open,2,2017-09-14 07:30:00,3
+American Red Cross Ride for the Red - Steel Town Trail Ride,American-Red-Cross-Ride-for-the-Red-Steel-Town-Trail-Ride,Pittsburgh,40.47,-79.95,Community & Environment,2015-06-08 14:03:47,active,237,open,5,2017-10-07 07:00:00,3
+BNI Western PA North Shore Forming,BNI-Western-PA-North-Shore-Forming,Pittsburgh,40.47,-79.95,Career & Business,2017-08-22 10:06:16,active,28,open,2,2017-09-19 11:00:00,4
+Pittsburgh Water Sports Meetup,Pittsburgh-Water-Sports-Meetup,Pittsburgh,40.47,-79.95,Outdoors & Adventure,2017-08-21 22:18:14,active,11,open,0,,0
+BNI Western PA Airport Chapter,meetup-group-OvINbtoE,Pittsburgh,40.47,-79.95,Career & Business,2017-08-20 15:52:31,active,43,open,23,2018-01-23 08:00:00,1
+Pittsburgh Product Engagement Meetup,Pittsburgh-Product-Engagement-Meetup,Pittsburgh,40.47,-79.95,Tech,2015-06-04 09:12:54,active,205,open,7,2016-04-27 18:00:00,14
+Pittsburgh Welsh Culture Meetup,Pittsburgh-Welsh-Culture-Meetup,Pittsburgh,40.47,-79.95,Language & Ethnic Identity,2015-05-25 11:09:22,active,216,open,71,2017-12-03 13:00:00,6
+Pittsburgh Cryptocurrency Investment Network,Pittsburgh-Cryptocurrency-Investments,Pittsburgh,40.47,-79.95,Tech,2017-08-10 20:41:02,active,69,open,0,,0
+Spiralis Concept in the Park,Spiralis-Concept-in-the-Park,Pittsburgh,40.47,-79.95,Health & Wellbeing,2015-05-10 00:28:20,active,15,open,0,,0
+The Pittsburgh Web Design Meetup Group,pittsburghwebdesign,Pittsburgh,40.47,-79.95,Tech,2003-05-09 07:07:16,active,1024,open,134,2016-09-20 18:00:00,10
+Pittsburgh Free Range Christians,Pittsburgh-Free-Range-Christians,Pittsburgh,40.47,-79.95,Religion & Beliefs,2015-05-02 19:06:37,active,297,open,9,2017-05-20 12:30:00,1
+Pittsburgh Online Business Meetup,Pittsburgh-Online-Business-Meetup,Pittsburgh,40.47,-79.95,Career & Business,2017-08-03 16:28:10,active,58,open,2,2017-08-23 18:00:00,3
+Arista Networks Pittsburgh Meetup,Arista-Networks-Pittsburgh-Meetup,Pittsburgh,40.47,-79.95,Tech,2015-04-30 12:28:59,active,76,open,10,2016-10-06 16:30:00,8
+Pittsburgh English as a Second Language Bible Study,Pittsburgh-English-as-a-Second-Language-Bible-Study,Pittsburgh,40.47,-79.95,Language & Ethnic Identity,2017-08-02 16:36:22,active,17,open,0,,0
+Dynatrace Pittsburgh User Group,Dynatrace-Pittsburgh-User-Group,Pittsburgh,40.47,-79.95,Tech,2015-05-01 14:35:53,active,43,open,3,2017-10-17 15:00:00,12
+Bellydance with Shanna,Bellydance-101-with-Shanna,Pittsburgh,40.47,-79.95,Dancing,2015-04-08 05:55:21,active,335,open,110,2017-12-19 19:00:00,1
+Random Adventures in Monroeville,Random-Adventures-in-Monroeville,Pittsburgh,40.47,-79.95,Socializing,2017-07-24 19:20:11,active,43,approval,1,2017-08-05 18:00:00,4
+Pittsburgh Tea Meetup,Pittsburgh-Tea-Meetup,Pittsburgh,40.47,-79.95,Food & Drink,2017-07-23 14:13:37,active,93,open,4,2017-11-17 19:30:00,3
+Events at Revv Oakland,Events-at-Revv-Oakland,Pittsburgh,40.47,-79.95,Career & Business,2015-04-01 21:48:14,active,24,open,0,,0
+Pittsburgh Young Professionals,Pittsburgh-Young-Professionals,Pittsburgh,40.47,-79.95,Socializing,2015-03-11 16:03:41,active,1515,open,103,2017-12-07 18:30:00,1
+Mindfulness and Oriental Wisdom and Languages,Mindfulness-and-Oriental-Wisdom-and-Languages,Pittsburgh,40.47,-79.95,Language & Ethnic Identity,2015-08-16 10:21:30,active,28,open,7,2016-08-03 19:00:00,1
+Electronics Knitting Circle,Electronics-Knitting-Circle,Pittsburgh,40.47,-79.95,Hobbies & Crafts,2017-07-07 11:34:25,active,50,open,2,2017-09-07 18:00:00,1
+U.S. Air Force FREE EVENT!,U-S-Air-Force-FREE-EVENT,Pittsburgh,40.47,-79.95,Outdoors & Adventure,2017-06-20 13:28:14,active,48,open,1,2017-06-21 10:00:00,2
+Couples Without Kids,meetup-group-alnbsFui,Pittsburgh,40.47,-79.95,Socializing,2017-07-03 16:10:22,active,319,open,2,2017-10-21 14:00:00,22
+Pittsburgh Jewelry Artists & Designers Meetup,Pittsburgh-Jewelry-Artists-Designers-Meetup,Pittsburgh,40.47,-79.95,Hobbies & Crafts,2017-06-22 09:55:47,active,20,approval,2,2018-01-12 11:00:00,0
+ILOVEBTS,ILOVEBTS,Pittsburgh,40.47,-79.95,Language & Ethnic Identity,2017-06-17 16:49:35,active,16,open,0,,0
+Pittsburgh Creative Entrepreneurs,Pittsburgh-Creative-Entrepreuers,Pittsburgh,40.47,-79.95,Career & Business,2017-06-09 10:00:36,active,297,open,2,2017-11-14 19:30:00,13
+Ethereum Pittsburgh,Pittsburgh-Virtual-Currency-Meetup,Pittsburgh,40.47,-79.95,Tech,2017-06-12 16:31:28,active,43,approval,1,2017-08-05 15:00:00,8
+Wix Pittsburgh,Wix-Pittsburgh,Pittsburgh,40.47,-79.95,Career & Business,2017-06-09 16:50:43,active,135,open,3,2017-11-14 19:30:00,6
+Boss Lady Grind - Pittsburgh,Boss-Lady-Grind-Pittsburgh,Pittsburgh,40.47,-79.95,Career & Business,2017-06-04 12:30:11,active,64,approval,5,2017-11-17 19:00:00,3
+The PittsBurger Club,The-PittsBurger-Club,Pittsburgh,40.47,-79.95,Food & Drink,2017-06-03 11:00:08,active,54,open,0,,0
+Bike for Good,Bike-for-Good,Pittsburgh,40.47,-79.95,Outdoors & Adventure,2017-05-27 14:40:16,active,163,open,8,2017-11-18 09:00:00,2
+Pittsburgh Self-Improvement Meetup,meetup-group-JltbAwDc,Pittsburgh,40.47,-79.95,Health & Wellbeing,2017-05-22 20:21:20,active,697,open,8,2017-11-14 10:00:00,1
+The Game Room: The South Hills Table Top Group,The-Game-Room-The-South-Hills-Table-Top-Group,Pittsburgh,40.47,-79.95,Games,2017-05-22 11:50:03,active,50,open,16,2018-01-17 19:00:00,1
+Gay Soccer League,Gay-Soccer-League,Pittsburgh,40.47,-79.95,LGBT,2017-05-20 18:48:46,active,45,open,0,,0
+The Pittsburgh Quickbooks Meetup,quickbooks-67,Pittsburgh,40.47,-79.95,Career & Business,2008-05-18 12:16:42,active,37,open,1,2008-07-21 18:00:00,3
+Artists Artisans Makers Craftsmen,ARTISTS-ARTISANS-MAKERS-CRAFTSMEN,Pittsburgh,40.47,-79.95,Arts & Culture,2017-04-27 22:12:54,active,146,open,1,2017-06-13 19:00:00,13
+Twitch Pittsburgh (#PoweredByTwitch),Twitch-Pittsburgh,Pittsburgh,40.47,-79.95,Games,2017-04-13 22:17:08,active,249,open,5,2017-08-27 13:00:00,9
+Temple Fit,Temple-Fit,Pittsburgh,40.47,-79.95,Fitness,2017-04-05 18:37:46,active,50,open,40,2018-01-26 18:00:00,1
+South Hills Church Startup,South-Hills-Church-Startup,Pittsburgh,40.47,-79.95,Religion & Beliefs,2017-09-04 17:13:01,active,16,open,1,2017-09-10 17:30:00,3
+Home Buyers Happy Hour,First-Time-Home-Buyers-Happy-Hour,Pittsburgh,40.47,-79.95,Socializing,2017-04-04 10:26:29,active,50,open,2,2017-10-24 18:00:00,1
+Pittsburgh Enterprise Architecture Forum,Pittsburgh-Enterprise-Architecture-Forum,Pittsburgh,40.47,-79.95,Tech,2017-04-01 18:38:09,active,20,open,0,,0
+The Pittsburgh Small Biz Network Group,Pittsburgh-Small-Business,Pittsburgh,40.47,-79.95,Career & Business,2006-12-28 11:06:40,active,316,approval,37,2013-07-10 18:30:00,4
+Pittsburgh Cloudera User Group,Pittsburgh-Cloudera-User-Group,Pittsburgh,40.47,-79.95,Tech,2017-03-28 16:47:49,active,111,open,3,2017-10-19 17:30:00,18
+Pittsburgh Real Estate Entrepreneurs,Pittsburgh-Real-Estate-Entrepreneurs,Pittsburgh,40.47,-79.95,Career & Business,2017-03-19 09:46:38,active,51,open,0,,0
+Pittsburgh Pride Families Meetup,Pittsburgh-Pride-Families-Meetup,Pittsburgh,40.47,-79.95,LGBT,2017-08-04 18:36:19,active,12,approval,2,2017-09-10 22:30:00,1
+Pittsburgh Scratch Educators Meetup,ScratchEd-Pittsburgh,Pittsburgh,40.47,-79.95,Education & Learning,2017-03-13 10:06:27,active,17,open,1,2017-05-13 10:00:00,5
+CISSP Study Group,CISSPstudy,Pittsburgh,40.47,-79.95,Tech,2017-03-08 08:39:09,active,18,open,0,,0
+Pittsburgh IBM Watson Users Group,Pittsburgh-IBM-Watson-Users-Group,Pittsburgh,40.47,-79.95,Tech,2017-03-04 15:58:43,active,49,open,0,,0
+The Western PA Gay/Bi Men's Bookclub,WesternPA-Gay-Mens-Bookclub,Pittsburgh,40.47,-79.95,Book Clubs,2017-02-26 10:56:25,active,50,approval,7,2017-12-03 14:00:00,3
+Pittsburgh Risk Management Meetup,Pittsburgh-Risk-Management-Meetup,Pittsburgh,40.47,-79.95,Career & Business,2017-02-23 18:55:40,active,17,open,1,2017-03-01 20:00:00,1
+Pennsylvania Narcolepsy Support Groups,Pennsylvania-Narcolepsy-Support-Groups,Pittsburgh,40.47,-79.95,Support,2017-02-19 18:22:11,active,18,open,0,,0
+UX Happy Hour in Pgh!,UX-Happy-Hour-in-Pgh,Pittsburgh,40.47,-79.95,Tech,2017-02-14 19:36:52,active,532,open,7,2017-11-09 19:00:00,28
+Animal Issues & Animal Rights Pittsburgh & surrounding...,Animal-Issues-Animal-Rights-Pittsburgh-surrounding,Pittsburgh,40.47,-79.95,Pets & Animals,2017-02-08 16:52:52,active,222,open,7,2017-09-26 17:30:00,3
+Pittsburgh Christian Travelers,Faith-Based-Travel,Pittsburgh,40.47,-79.95,Religion & Beliefs,2017-02-07 11:29:51,active,106,open,2,2017-06-30 10:00:00,1
+Western PA Cult Films Meetup,Western-PA-Cult-Films-Meetup,Pittsburgh,40.47,-79.95,Movies & Film,2017-01-31 04:47:12,active,423,open,9,2017-10-19 18:30:00,5
+Scrum Pittsburgh Daytime Meetup,Scrum-Pittsburgh-Daytime-Meetup,Pittsburgh,40.47,-79.95,Tech,2017-01-29 16:12:56,active,48,approval,5,2017-08-01 14:30:00,3
+Pittsburgh Motion & Design Meetup,Pittsburgh-Motion-Design-Meetup,Pittsburgh,40.47,-79.95,Tech,2017-01-27 23:53:46,active,74,open,2,2017-08-10 17:30:00,7
+Pittsburgh Business Referral Partners,Pittsburgh-Business-Referal-Partners,Pittsburgh,40.47,-79.95,Career & Business,2017-01-26 16:35:44,active,50,open,1,2017-02-02 08:00:00,6
+Pittsburgh Vertica Analytic Database Meetup,Pittsburgh-Vertica-Analytic-Database-Meetup,Pittsburgh,40.47,-79.95,Tech,2017-01-24 08:48:56,active,70,open,1,2017-05-02 17:30:00,5
+Google Developer Group (GDG) Pittsburgh,gdg-pitt,Pittsburgh,40.47,-79.95,Tech,2017-01-24 09:29:22,active,377,open,3,2017-09-30 10:00:00,50
+Our Family Dinner - Pittsburgh,Our-Family-Dinner-Pittsburgh,Pittsburgh,40.47,-79.95,Socializing,2017-01-16 16:44:49,active,244,open,0,,0
+Group Genie  (a nonprofit creativity team & action network),GroupGenie,Pittsburgh,40.47,-79.95,Community & Environment,2014-06-22 17:21:25,active,39,open,0,,0
+Pgh Biz Services Network,Pgh-Biz-Service-Network,Pittsburgh,40.47,-79.95,Career & Business,2009-08-26 14:33:16,active,1,approval,0,,0
+Pittsburgh Beauty Industry Meetup,Pittsburgh-Beauty-Industry-Meetup,Pittsburgh,40.47,-79.95,Fashion & Beauty,2017-01-12 00:01:28,active,197,open,11,2018-01-08 13:00:00,1
+SteelTown Who,SteelTown-Who,Pittsburgh,40.47,-79.95,Sci-Fi & Fantasy,2016-12-11 21:26:49,active,35,open,0,,0
+Network & Social - Pittsburgh Networking Events,Network-Social-Pittsburgh-Networking-Events,Pittsburgh,40.47,-79.95,Career & Business,2016-12-06 21:57:04,active,149,open,0,,0
+New Moon Gathering for Women,New-Moon-Gathering-for-Women,Pittsburgh,40.47,-79.95,Health & Wellbeing,2016-12-02 09:28:05,active,319,open,8,2017-08-20 18:30:00,1
+Explorer Chicks of Pittsburgh,Explorer-Chicks-of-Pittsburgh,Pittsburgh,40.47,-79.95,Outdoors & Adventure,2016-12-01 14:17:59,active,655,open,16,2018-01-11 10:00:00,1
+The Pittsburgh Whole Food Nutrition Meetup,wholefoods,Pittsburgh,40.47,-79.95,Food & Drink,2008-02-07 17:53:07,active,1955,open,134,2017-07-26 17:00:00,1
+Western Pennsylvania Benedict Option,Western-Pennsylvania-Benedict-Option,Pittsburgh,40.47,-79.95,Movements & Politics,2016-11-14 19:49:59,active,125,open,5,2017-12-01 20:00:00,1
+Pittsburgh Acting Meetup,Pittsburgh-Acting-Meetup,Pittsburgh,40.47,-79.95,Arts & Culture,2016-11-13 12:22:56,active,122,open,2,2017-01-15 17:30:00,4
+Pittsburgh Antipsychiatry Meetup,Pittsburgh-Antipsychiatry-Meetup,Pittsburgh,40.47,-79.95,Movements & Politics,2016-11-08 11:00:40,active,12,approval,1,2016-11-18 19:30:00,1
+Airport Java Development Meetup,Airport-Java-Development-Meetup,Pittsburgh,40.47,-79.95,Tech,2016-10-30 20:48:21,active,27,open,1,2016-12-01 19:30:00,9
+Pittsburgh Small Business Meetup,Pittsburgh-Small-Business-Meetup,Pittsburgh,40.47,-79.95,Career & Business,2016-11-04 11:34:50,active,652,open,4,2017-05-03 17:30:00,6
+Pittsburgh Video Game Developers,Pittsburgh-Game-Dev,Pittsburgh,40.47,-79.95,Tech,2016-11-02 01:51:52,active,60,approval,14,2018-01-10 20:30:00,0
+Pittsburgh Rideshare Meetup,Pittsburgh-Rideshare-Meetup,Pittsburgh,40.47,-79.95,Career & Business,2016-10-29 09:04:50,active,6,open,0,,0
+Lets show you a way of LIFE where the Grass truly is Greener,Lets-show-you-a-way-of-LIFE-where-the-Grass-truly-is-Greener,Pittsburgh,40.47,-79.95,Health & Wellbeing,2016-10-24 09:24:32,active,60,open,2,2016-11-17 19:30:00,4
+Pittsburgh Meetup for those affected by eating disorders,Pittsburgh-Meetup-for-those-affected-by-eating-disorders,Pittsburgh,40.47,-79.95,Support,2016-10-20 08:53:16,active,8,approval,1,2016-11-07 19:30:00,2
+Massage Therapists of Pittsburgh,Pittsburgh-Massage-Therapy-Meetup,Pittsburgh,40.47,-79.95,Health & Wellbeing,2016-10-19 11:29:37,active,201,open,11,2017-12-27 19:30:00,5
+Accept and Transform Meetup,Accept-and-Transform-Meetup,Pittsburgh,40.47,-79.95,Health & Wellbeing,2018-01-26 20:42:16,active,1,open,0,,0
+SHPE - WPA Professional Chapter,SHPE-WPA-Professional-Chapter,Pittsburgh,40.47,-79.95,Career & Business,2016-10-08 15:39:10,active,24,open,3,2017-02-06 19:30:00,1
+Pittsburgh #learntocode Group,Pittsburgh-learntocode,Pittsburgh,40.47,-79.95,Tech,2016-10-06 16:36:34,active,145,open,0,,0
+Pittsburgh Cyber Security for Control Systems,Pittsburgh-Cyber-Security-for-Control-Systems,Pittsburgh,40.47,-79.95,Tech,2016-09-30 18:04:04,active,46,open,0,,0
+"South Western PA Camping , Canoeing , Kayaking & B",South-Western-PA-Camping-Canoeing-Kayaking-Backpacking,Pittsburgh,40.47,-79.95,Outdoors & Adventure,2016-09-26 11:52:35,active,1163,open,7,2017-06-03 10:00:00,1
+5-2-1-0 Speaker Series,5210speakerseries,Pittsburgh,40.47,-79.95,Parents & Family,2016-09-19 10:38:24,active,40,approval,6,2017-09-14 17:30:00,3
+"Pittsburgh DevOps, Cloud, & Continuous Delivery Meetup",Pittsburgh-DevOps-Cloud-Continuous-Delivery-Meetup,Pittsburgh,40.47,-79.95,Tech,2016-08-28 20:26:07,active,137,open,1,2016-10-27 19:00:00,20
+Pittsburgh Amazon Alexa Meetup,Pittsburgh-Amazon-Alexa-Meetup,Pittsburgh,40.47,-79.95,Tech,2016-08-18 09:56:24,active,129,open,2,2016-12-13 19:30:00,25
+Pittsburgh Disney Enthusiasts,Pittsburgh-Disney-Enthusiasts,Pittsburgh,40.47,-79.95,Movies & Film,2016-08-18 08:26:55,active,44,open,1,2016-08-18 20:30:00,2
+South Hills Geek Connection,South-Hills-Geek-Connection,Pittsburgh,40.47,-79.95,Games,2016-08-12 05:07:35,active,50,open,24,2017-06-04 11:30:00,1
+"Pittsburgh's Runners, Racers and Chasers",Pittsburghs-Runners-Racers-and-Chasers,Pittsburgh,40.47,-79.95,Fitness,2016-08-05 15:25:39,active,196,open,38,2017-10-08 09:00:00,5
+{Beers && Debuggers},Beers-Debuggers,Pittsburgh,40.47,-79.95,Tech,2016-08-03 11:58:16,active,79,open,1,2016-08-16 18:00:00,21
+Pittsburgh Lawyers Meetup,Pittsburgh-Lawyers-Meetup,Pittsburgh,40.47,-79.95,Career & Business,2016-07-29 16:15:41,active,18,open,0,,0
+Pittsburgh Continental Philosophy Reading Group,Pittsburgh-Continental-Philosophy-Reading-Group,Pittsburgh,40.47,-79.95,Education & Learning,2016-08-01 09:14:13,active,179,open,53,2018-01-23 21:00:00,1
+"Pittsburgh ""Four Hour Workweek"" Online Entrepreneur's Meetup",Pittsburgh-Four-Hour-Workweek-Online-Entrepreneurs-Meetup,Pittsburgh,40.47,-79.95,Career & Business,2017-11-20 23:48:05,active,50,open,2,2017-12-05 20:30:00,16
+Love Our Children,Love-Our-Children,Pittsburgh,40.47,-79.95,Movements & Politics,2016-07-12 12:28:05,active,7,open,0,,0
+The Pittsburgh Entrepreneur Meetup Group,pittsburghentrepreneur,Pittsburgh,40.47,-79.95,Career & Business,2003-02-27 15:02:05,active,2427,open,179,2016-10-25 18:00:00,22
+"Chronic Fatigue CFS / ME, Fibro, Auto Immune, Pain Group",Pittsburgh-CFS-ME-Meetup,Pittsburgh,40.47,-79.95,Support,2016-07-07 14:21:23,active,138,open,6,2017-08-27 14:00:00,2
+Grapenuts: Pittsburgh Wine Tasting Group,grapenuts,Pittsburgh,40.47,-79.95,Food & Drink,2009-04-16 08:45:17,active,1921,open,115,2015-02-25 19:00:00,45
+Predix Builders of Pittsburgh,Predix-Builders-of-Pittsburgh,Pittsburgh,40.47,-79.95,Tech,2016-07-04 02:07:22,active,31,open,2,2016-10-05 21:00:00,2
+Greater Pittsburgh Datacenter and Cloud Architecture Forum,Greater-Pittsburgh-Datacenter-and-Cloud-Architecture-Forum,Pittsburgh,40.47,-79.95,Tech,2016-06-16 19:25:05,active,63,open,0,,0
+Atrial Fibrillation in Pittsburgh - Support Meetup,Atrial-Fibrillation-in-Pittsburgh-Support-Meetup,Pittsburgh,40.47,-79.95,Health & Wellbeing,2016-06-14 16:18:27,active,4,open,0,,0
+Want to Sell a Business? Pittsburgh,Want-to-Sell-a-Business-Pittsburgh,Pittsburgh,40.47,-79.95,Career & Business,2017-10-21 13:52:58,active,37,open,14,2018-01-24 15:00:00,1
+"Apartment Investor Mastery (AIM) Pittsburgh, PA",Apartment-Investor-Mastery-AIM-Pittsburgh-PA,Pittsburgh,40.47,-79.95,Career & Business,2016-05-03 17:38:03,active,150,open,1,2017-03-01 20:00:00,5
+Grid Emergency (America Mobilizes),GridEmergency,Pittsburgh,40.47,-79.95,Community & Environment,2016-05-01 13:22:36,active,67,open,2,2017-03-29 19:00:00,4
+Steel City Revit User Group,Steel-City-Revit-User-Group,Pittsburgh,40.47,-80.02,Career & Business,2013-05-06 15:52:04,active,123,approval,27,2017-05-18 18:00:00,9
+"Run, Jump, Lift, Throw - Functional Fitness Meetup",RunJump,Pittsburgh,40.47,-80.02,Fitness,2013-05-25 21:40:06,active,1473,open,136,2017-10-17 18:30:00,10
+Peaceburgh,Peaceburgh,Pittsburgh,40.47,-80.02,New Age & Spirituality,2016-01-02 17:38:20,active,392,open,18,2017-09-30 20:00:00,2
+Friends of the Vine - Pittsburgh,Friends-of-the-Vine-Pittsburgh,Pittsburgh,40.47,-80.02,Food & Drink,2013-03-10 10:03:12,active,1067,open,103,2017-11-17 18:30:00,7
+Pittsburgh PMI,Pittsburgh-PMI,Pittsburgh,40.47,-80.02,Tech,2012-12-31 17:31:08,active,50,open,1,2013-01-16 18:30:00,2
+Pittsburgh Offroad Cyclists Meetup Group - Mountain Biking,PORCMTB,Pittsburgh,40.47,-80.02,Outdoors & Adventure,2008-10-31 20:14:44,active,867,open,677,2018-01-21 13:00:00,1
+Pittsburgh's Other Beer Meetup,Pittsburghs-Other-Beer-Meetup,Pittsburgh,40.47,-80.02,Food & Drink,2015-04-15 22:10:51,active,1304,approval,21,2016-11-30 19:00:00,9
+Oil In Love with Young Living Essential Oils Meetup,Oil-In-Love-with-Young-Living-Essential-Oils-Meetup,Pittsburgh,40.47,-80.02,Health & Wellbeing,2015-02-03 17:40:02,active,116,open,1,2015-02-15 14:00:00,7
+Reactive Systems Developers Group,Reactive,Pittsburgh,40.47,-80.02,Tech,2011-12-20 13:48:30,active,64,open,4,2013-05-15 18:00:00,7
+Mon Valley Trailblazers Volkssport Meetup,Mon-Valley-Trailblazers-Volkssport-Meetup,Lawrence,40.3,-80.13,Outdoors & Adventure,2017-09-05 14:15:02,active,69,open,9,2018-01-08 18:30:00,1
+Frick Park Lawn Bowling Group,Frick-Park-Lawn-Bowling-Group,Pittsburgh,40.46,-79.9,Outdoors & Adventure,2010-03-16 10:57:50,active,63,open,170,2017-03-30 19:00:00,1
+#UnstuckPgh - free weekly lessons taught by entrepreneurs,unstuckmondaymeetup,Pittsburgh,40.46,-79.9,Career & Business,2015-01-05 14:37:33,active,1506,open,164,2017-09-18 07:45:00,6
+Pittsburgh Area Accessibility Meetup,Pittsburgh-Area-Accessibility-Meetup,Pittsburgh,40.47,-79.92,Tech,2013-07-08 19:30:42,active,257,open,32,2017-05-20 12:30:00,1
+Pittsburgh Metalheads \m/,Pittsburgh-Metalheads,Pittsburgh,40.47,-79.92,Music,2013-06-13 19:29:22,active,210,open,98,2017-11-21 20:00:00,1
+Magical Unicorns of Pittsburgh,Magical-Unicorns-of-Pittsburgh,Pittsburgh,40.47,-79.92,Tech,2016-02-05 09:03:15,active,44,open,0,,0
+Pittsburgh Cloud Natives,Pittsburgh-Cloud-Natives,Pittsburgh,40.47,-79.92,Tech,2016-01-08 14:27:19,active,188,open,2,2017-02-23 19:30:00,30
+The Pittsburgh Customer Success Meetup,The-Pittsburgh-Customer-Success-Meetup,Pittsburgh,40.47,-79.92,Tech,2017-11-05 20:12:35,active,12,open,0,,0
+Pittsburgh MongoDB User Group,Pittsburgh-MongoDB-User-Group,Pittsburgh,40.47,-79.92,Tech,2013-02-25 17:41:03,active,185,open,13,2017-06-20 08:00:00,1
+Unstructured Play Pittsburgh,Pittsburgh-Playgroup,Pittsburgh,40.47,-79.92,Parents & Family,2017-08-14 19:48:39,active,5,approval,1,2017-08-20 11:00:00,1
+TurnON Pittsburgh,TurnON-Pittsburgh,Pittsburgh,40.47,-79.92,Education & Learning,2012-10-19 17:10:53,active,291,open,119,2016-03-25 20:00:00,4
+Digital Analytics Days,Pittsburgh-Analytics-Meetup,Pittsburgh,40.47,-79.92,Tech,2015-02-08 20:42:03,active,373,open,4,2016-03-30 18:00:00,33
+Steel City Virtual Reality Enthusiasts,Steel-City-Virtual-Reality-Enthusiasts,Pittsburgh,40.47,-79.92,Tech,2015-01-25 17:47:23,active,50,open,0,,0
+InfoDevPgh,InfoDevPgh,Pittsburgh,40.47,-79.92,Tech,2015-01-14 21:50:17,active,24,open,0,,0
+Curvy Girls Fitness Group,Curvy-Girls-Fitness-Group,Pittsburgh,40.47,-79.92,Health & Wellbeing,2014-07-12 11:24:49,active,183,approval,133,2017-04-16 10:00:00,1
+Pittsburgh VR Creators Meetup,PGH-VR,Pittsburgh,40.47,-79.92,Tech,2016-11-28 15:47:36,active,85,open,4,2017-10-24 18:30:00,7
+"Pittsburgh AutoDesk Inventor & CAD/CAM, study group",Pittsburgh-PA-CAD-CAM-Manufacturing-Meetup,Pittsburgh,40.47,-79.92,Tech,2014-04-21 10:37:30,active,131,open,10,2015-06-16 19:00:00,12
+Pittsburgh Health Analytics Meetup Group,Health-Analytics-Group,Pittsburgh,40.47,-79.92,Tech,2016-11-27 17:13:48,active,133,approval,4,2017-08-24 17:30:00,13
+Pittsburgh Recruiters,Pittsburgh-Recruiters-Meetup,Pittsburgh,40.47,-79.92,Career & Business,2014-03-04 10:53:40,active,108,open,2,2016-01-28 18:30:00,25
+I Stand With Standing Rock,I-Stand-With-Standing-Rock,Pittsburgh,40.47,-79.92,Movements & Politics,2016-10-17 11:34:19,active,196,open,21,2017-04-23 15:00:00,1
+Pittsburgh Internet Marketing & SEO Group,pittsburgh-seo-group,Pittsburgh,40.47,-79.92,Tech,2008-01-23 11:43:01,active,796,open,31,2016-07-14 18:00:00,37
+Pittsburgh Jazz Fan  Meetup Group,Pittsburgh-Jazz-Fan-Meetup-Group,Pittsburgh,40.47,-79.92,Socializing,2009-06-23 05:16:21,active,1415,open,199,2017-08-19 16:30:00,14
+Pittsburgh Weight Loss Meetup - & Have Fun Doing It,Pittsburgh-Weight-Loss-Meetup-have-FUN-doing-it,Pittsburgh,40.47,-79.92,Fitness,2016-08-02 17:16:59,active,563,open,14,2018-01-13 10:00:00,1
+Pittsburgh Healthy Moms First,Pittsburgh-Healthy-Moms-First,Pittsburgh,40.47,-79.92,Health & Wellbeing,2016-07-12 15:39:03,active,51,open,3,2017-01-28 15:00:00,4
+Pittsburgh NonFiction Round Table,Pittsburgh-NonFiction-Round-Table,Pittsburgh,40.47,-79.92,Book Clubs,2013-12-19 21:19:28,active,806,open,37,2017-12-15 20:00:00,5
+Internet of Things Pittsburgh (#iotpgh),iotpgh,Pittsburgh,40.47,-79.92,Tech,2013-09-14 14:40:53,active,904,open,11,2017-06-27 11:00:00,24
+Pittsburgh Natural Health Meetup,Pittsburgh-Natural-Health-Meetup,Pittsburgh,40.47,-79.92,Health & Wellbeing,2016-05-17 20:00:51,active,50,open,5,2016-10-08 16:00:00,1
+American Preppers Network - Pittsburgh PA,PGH-Preppers,Pittsburgh,40.47,-79.92,Community & Environment,2011-01-20 17:54:49,active,372,open,66,2016-12-11 13:00:00,3
+Pittsburgh Real Estate Investors,Pittsburgh-Real-Estate-Investors,McKeesport,40.33,-79.81,Career & Business,2012-09-18 16:21:12,active,1189,open,53,2017-12-14 19:30:00,23
+Pittsburgh moms,Pittsburgh-moms-meetup,Pittsburgh,40.48,-80.02,Parents & Family,2015-11-25 00:00:26,active,180,open,67,2017-02-21 19:30:00,1
+Garrison Mom support group,Garrison-Mom-support-group,Pittsburgh,40.48,-80.02,Parents & Family,2015-11-25 09:07:06,active,3,open,12,2016-07-24 20:00:00,1
+Freelance Pgh,Freelance-Pgh,Pittsburgh,40.48,-80.02,Career & Business,2016-09-23 15:37:05,active,96,open,1,2016-12-08 19:00:00,7
+Pittsburgh Dachshund Meetup Group,dachshund-488,Pittsburgh,40.5,-79.98,Pets & Animals,2008-09-15 11:14:52,active,399,open,228,2017-10-15 11:00:00,1
+Pittsburgh Dog Meetup Group,pittsburgh-dogs,Pittsburgh,40.5,-79.98,Pets & Animals,2006-08-10 12:42:14,active,2153,open,184,2017-09-13 19:00:00,5
+Pittsburgh Personal Safety,Pittsburgh-Personal-Safety,Canonsburg,40.27,-80.15,Health & Wellbeing,2017-10-27 13:33:52,active,16,open,1,2017-11-09 20:00:00,3
+Investor's Business Daily Pittsburgh Meetup,CanSlimPittsburgh,Canonsburg,40.27,-80.15,Career & Business,2010-07-22 12:07:04,active,128,open,79,2017-05-31 19:00:00,5
+"Photo and Memory Keepers - Organize, Digitize and Preserve",Photo-and-Memory-Keepers-Organize-Digitize-and-Preserve,Canonsburg,40.27,-80.15,Hobbies & Crafts,2017-10-02 09:43:21,active,25,open,11,2018-01-23 19:00:00,1
+Canonsburg Coffee Meetup,Canonsburg-Coffee-Meetup,Canonsburg,40.27,-80.15,Support,2017-07-11 11:56:51,active,50,open,1,2017-08-03 18:30:00,11
+South Hills Young Living Essential Oils      Meetup Group,South-Hills-Young-Living-Essential-Oils-Meetup,Canonsburg,40.27,-80.15,Health & Wellbeing,2015-03-27 14:43:58,active,184,open,12,2016-10-09 14:00:00,2
+Pittsburgh Oncology Massage Therapists,Pittsburgh-Oncology-Massage-Therapists,Canonsburg,40.27,-80.15,Health & Wellbeing,2017-01-30 22:47:39,active,15,open,0,,0
+Professional Women's Financial Resource Group,Professional-Womens-Financial-Resource-Group,Canonsburg,40.27,-80.15,Career & Business,2017-01-30 12:14:01,active,45,open,0,,0
+"McMurray and Cannonsburg, PA Travel Association",M-C_TravelAssociation,Canonsburg,40.27,-80.15,Outdoors & Adventure,2016-12-07 20:06:20,active,248,open,7,2017-06-30 10:00:00,1
+Oneness through Awareness,Oneness-through-Awareness,Canonsburg,40.27,-80.15,Health & Wellbeing,2011-10-27 12:22:20,active,220,open,99,2017-10-04 19:00:00,2
+Pittsburgh Family Yoga Meetup,Pittsburgh-Family-Yoga-Meetup,Pittsburgh,40.5,-79.91,Health & Wellbeing,2017-10-25 09:25:30,active,28,open,0,,0
+Pittsburgh Aromatherapy Meetup,meetup-group-fPUttFXI,Pittsburgh,40.5,-79.91,Health & Wellbeing,2017-10-02 10:37:21,active,23,approval,0,,0
+Womyn's Space,Womyns-Space,Pittsburgh,40.5,-79.91,Socializing,2017-09-10 14:39:37,active,50,open,1,2017-10-07 17:00:00,4
+Pittsburgh Silver Screen Dinner & Film Group,Luvmovies,Pittsburgh,40.5,-79.91,Socializing,2012-05-11 23:19:27,active,302,approval,215,2017-12-15 19:00:00,2
+CryptoCurrency - Digital Currency - Blockchain 101,CryptoCurrency-Digital-Currency-Blockchain-101,Pittsburgh,40.5,-79.91,Tech,2016-09-14 12:50:31,active,75,open,0,,0
+Pa. Craft Show Listings and Crafter Showcase,Craft-shows,Pittsburgh,40.5,-80.07,Career & Business,2008-11-19 17:37:43,active,280,open,48,2018-01-26 11:00:00,1
+Oneness Spirit Fair,OnenessSpiritFair,Pittsburgh,40.5,-80.07,New Age & Spirituality,2010-05-04 11:46:24,active,1263,open,166,2017-07-08 17:00:00,1
+Pittsburgh Mortgage Professionals Meetup,Pittsburgh-Mortgage-Professionals-Meetup,Pittsburgh,40.5,-80.07,Career & Business,2017-01-15 18:15:02,active,13,open,1,2017-02-10 17:30:00,3
+Pittsburgh Writers on Writing Meetup,Pittsburgh-Writers-on-Writing-Meetup,Pittsburgh,40.52,-80.04,Writing,2015-05-27 10:21:36,active,266,open,2,2016-09-15 18:00:00,1
+Monroeville Alternative Health & Wellness Providers Meetup,MonroevilleAlternative-Health-Wellness-Providers-Meetup,Monroeville,40.43,-79.76,Health & Wellbeing,2016-01-30 09:37:24,active,69,approval,4,2017-02-04 12:00:00,0
+ECKANKAR of Pittsburgh,eckankarofpa,Monroeville,40.43,-79.76,New Age & Spirituality,2010-09-02 17:38:33,active,138,open,384,2018-01-25 18:00:00,2
+Monroeville Classic Films Meetup,Monroeville-Classic-Films-Meetup,Monroeville,40.43,-79.76,Movies & Film,2017-08-30 11:31:12,active,126,open,23,2017-12-13 19:00:00,1
+Movie Trivia Games Meetup,Movie-Trivia-Games-Meetup,Monroeville,40.43,-79.76,Games,2015-02-01 18:16:16,active,337,open,3,2015-08-15 18:00:00,13
+Eastern Suburbs Social Group,The-Eastern-Suburbs-Social-Group,Monroeville,40.43,-79.76,Socializing,2011-11-28 13:10:22,active,394,approval,321,2017-12-27 19:00:00,1
+Essentials for the New Age,Essentials-for-the-New-Age,Monroeville,40.43,-79.76,Health & Wellbeing,2014-02-15 12:25:54,active,60,approval,48,2017-10-06 18:00:00,2
+East Suburbs Soul Inspiration,East-Suburbs-Soul-Inspiration,Monroeville,40.43,-79.76,New Age & Spirituality,2016-07-20 18:50:40,active,136,open,14,2017-08-26 16:00:00,4
+South Hills Meditation and Healing Meetup,South-Hills-Meditation-and-Healing-Meetup,Eighty Four,40.18,-80.09,New Age & Spirituality,2017-05-19 09:09:32,active,47,open,10,2018-01-26 19:00:00,1
+Eighty Four Meditation Meetup,Eighty-Four-Meditation-Meetup,Eighty Four,40.18,-80.09,New Age & Spirituality,2017-05-19 08:53:31,active,39,open,9,2018-01-26 19:00:00,1
+Pittsburgh Pizza Parade,Pittsburgh-Pizza-Parade,Pittsburgh,40.53,-79.88,Food & Drink,2012-09-01 23:07:42,active,1924,open,93,2017-10-10 17:30:00,7
+Mindful Irwin,Mindful-Irwin,Irwin,40.33,-79.72,Health & Wellbeing,2017-06-29 12:27:12,active,76,open,0,,0
+Allegheny City (North Side) and Pittsburgh History Meetup,Allegheny-City-North-Side-and-Pittsburgh-History-Meetup,Pittsburgh,40.55,-80.04,Arts & Culture,2016-03-22 09:30:46,active,149,approval,28,2017-11-12 13:00:00,5
+"Exercise , Paranormal Investigations, Camping , Swimming",Exercise-w-out-stress-Spend-the-winter-being-active-Meetup,Pittsburgh,40.55,-80.04,Fitness,2017-11-04 13:03:08,active,116,open,1,2017-11-15 12:00:00,1
+Pittsburgh Asian Dance Meetup,Pittsburgh-Asian-Dance-Meetup,Pittsburgh,40.55,-80.04,Language & Ethnic Identity,2017-11-03 22:07:17,active,50,open,4,2017-12-31 18:30:00,6
+Pittsburgh Bicycle-Ski meetup,Pittsburgh-Bicycle-Ski-meetup,Pittsburgh,40.55,-80.04,Outdoors & Adventure,2015-08-19 21:48:56,active,85,approval,123,2017-10-14 09:00:00,2
+Anchorpoint Counseling Ministry--North Hills,anchorpointcounselingministry,Pittsburgh,40.55,-80.04,Singles,2015-06-19 13:48:14,active,143,open,12,2017-03-07 18:30:00,2
+"Food, Fun & Friends",Food-Fun-n-Friends,Pittsburgh,40.55,-80.04,Socializing,2007-01-21 22:06:19,active,1415,approval,683,2017-12-03 12:00:00,1
+The Pittsburgh Raw Food Meetup Group,rawfood-196,Pittsburgh,40.55,-80.04,Food & Drink,2006-02-20 12:19:37,active,915,open,125,2017-11-18 19:30:00,1
+Millionaire MasterMind for Entrepreneurs,Millionaire-MasterMind-for-Entrepreneurs,Pittsburgh,40.55,-80.04,Career & Business,2017-03-15 20:14:39,active,141,open,15,2017-07-04 12:00:00,2
+North Hills Business Referral Network,North-Hills-Business-Referral-Network,Pittsburgh,40.55,-80.04,Career & Business,2014-03-22 07:08:09,active,149,open,14,2015-01-14 08:00:00,1
+45+ Fun Social Group,45-Fun-Social-Group,Pittsburgh,40.55,-80.04,Socializing,2016-10-07 19:49:26,active,579,open,4,2017-02-10 17:30:00,5
+Outdoor Tennis,OTennis,Pittsburgh,40.55,-80.04,Sports & Recreation,2012-01-25 23:22:03,active,307,approval,1125,2017-10-22 09:30:00,8
+Footsteps for Recovery from Eating Disorders,Footsteps-for-Recovery-from-Eating-Disorders,Pittsburgh,40.55,-80.04,Support,2016-06-07 20:55:10,active,56,open,13,2017-02-27 19:00:00,4
+The North Hills Board Games Meetup,boardgames-463,Pittsburgh,40.55,-80.04,Games,2007-08-11 09:45:02,active,664,open,168,2015-09-18 19:00:00,1
+"Holistic Yoga, Music and Wellness, Southwestern PA",Southwestern-PA-Holistic-Yoga-Music-and-Wellness-Workshops,Houston,40.24,-80.22,Health & Wellbeing,2013-02-20 10:28:11,active,773,open,331,2018-01-23 19:00:00,1
+Pittsburgh Indian Business Networking,Pittsburgh-Indian-Business-Networking,Pittsburgh,40.48,-79.75,Career & Business,2016-01-25 23:09:59,active,44,open,0,,0
+Pittsburgh French Bulldog Meetup,Pittsburgh-French-Bulldog-Meetup,Allison Park,40.57,-79.97,Pets & Animals,2016-02-14 07:48:04,active,131,open,18,2017-12-18 19:00:00,9
+BNI Western PA Coraopolis Forming Chapter,BNI-Western-PA-Coraopolis-Forming-Chapter,Coraopolis,40.51,-80.18,Career & Business,2017-08-25 09:39:43,active,22,open,1,2017-09-13 08:00:00,3
+Moon Township- Faith Alive- Meetup,Moon-Township-Faith-Alive-Meetup,Coraopolis,40.51,-80.18,Religion & Beliefs,2015-02-25 22:02:00,active,50,open,4,2017-03-24 18:30:00,1
+Zen Center of Pittsburgh - Deep Spring  Zen Temple Meetup,Zen-Center-of-Pittsburgh-Deep-Spring-Zen-Temple-Meetup,Sewickley,40.55,-80.15,Health & Wellbeing,2017-08-13 12:15:40,active,49,open,2,2017-09-03 08:00:00,2
+Tea and Inspiration,Tea-and-Inspiration,Sewickley,40.55,-80.15,Socializing,2017-01-25 19:25:01,active,308,open,12,2017-12-22 19:00:00,2
+pittsburgh Erlang Meetup,pittsburgh-Erlang-Meetup,Sewickley,40.55,-80.15,Tech,2014-03-12 19:01:31,active,11,open,0,,0
+Sportsbike Anonymous,Sportsbike-Anonymous,Murrysville,40.45,-79.68,Cars & Motorcycles,2017-04-27 09:00:51,active,37,open,5,2017-06-24 17:00:00,1
+Family Fun Group,meetup-group-SjsGRdyS,Murrysville,40.45,-79.68,Parents & Family,2017-04-08 21:43:19,active,142,open,8,2017-08-24 13:00:00,1
+Activity Based Support for Young Widows and Widowers Meetup,Activity-Based-Support-for-Young-Widows-and-Widowers-Meetup,Harrison City,40.38,-79.65,Support,2017-03-14 10:53:33,active,33,open,0,,0
+Mindfulness Meetup Pittsburgh South,Mindfulness-Meetup-Pittsburgh-South,Belle Vernon,40.12,-79.84,Health & Wellbeing,2017-10-24 11:10:10,active,76,open,0,,0
+Pittsburgh 9.12 Project,Glenn-Beck-s-We-Surround-Them-Viewing-Party,Wexford,40.62,-80.06,Movements & Politics,2009-02-20 09:36:02,active,931,open,728,2017-08-26 07:00:00,3
+Wexford's LOVEAFFAIR Meetup,Wexfords-LOVEAFFAIR-Meetup,Wexford,40.62,-80.06,Religion & Beliefs,2017-10-04 07:31:18,active,4,approval,1,2017-10-05 18:00:00,1
+Oily Goodness - Wexford Essential Oils,Oily-Goodness-Wexford-Essential-Oils,Wexford,40.62,-80.06,Health & Wellbeing,2017-09-20 21:50:14,active,10,open,0,,0
+Free Home Buyer Workshop - Avoid mistakes most buyers make,Free-Home-Buyer-Workshop-Avoid-mistakes-most-buyers-make,Wexford,40.62,-80.06,Career & Business,2017-09-14 12:38:05,active,5,open,1,2017-09-27 18:00:00,1
+Reading Between the Wines in Wexford,Reading-Between-the-Wines-in-Wexford,Wexford,40.62,-80.06,Book Clubs,2017-03-21 13:37:31,active,78,open,6,2017-12-20 18:00:00,5
+Wexford Healthy Weight Loss Group,Wexford-Healthy-Weight-Loss-Group,Wexford,40.62,-80.06,Health & Wellbeing,2016-07-14 14:35:12,active,100,open,15,2017-12-02 08:00:00,2
+Gibsonia Small Breed Dogs Meetup,Gibsonia-Small-Breed-Dogs-Meetup,Gibsonia,40.63,-79.95,Pets & Animals,2018-01-24 05:22:36,active,18,open,0,,0
+Stepmom Support,meetup-group-TloxnrjP,Gibsonia,40.63,-79.95,Support,2018-01-15 12:33:41,active,1,open,0,,0
+Blue House Academy of Metaphysics,Blue-House-Academy-of-Metaphysics,Gibsonia,40.63,-79.95,New Age & Spirituality,2017-10-14 09:34:39,active,52,open,1,2017-11-19 18:00:00,9
+Blue House Book Club,Blue-House-Book-Club,Gibsonia,40.63,-79.95,New Age & Spirituality,2017-09-16 12:36:50,active,5,approval,0,,0
+The Oily Society,The-Oily-Society,Gibsonia,40.63,-79.95,Health & Wellbeing,2017-03-30 17:01:37,active,80,open,13,2017-12-15 19:00:00,1
+Greater Harmony Chorus,Greater-Harmony-Chorus-Group-Women-Fun-Singing,Gibsonia,40.63,-79.95,Music,2014-02-20 06:28:24,active,35,open,200,2018-01-23 18:45:00,1
+"Constitutional Liberty, the Freedom of American citizenship",Constitutional-Liberty-the-Freedom-of-American-citizenship,Jeannette,40.33,-79.61,Movements & Politics,2012-07-04 17:20:57,active,18,open,13,2016-04-30 12:00:00,1
+Pittsburgh Area Creative Crafters,creativecrafts,New Kensington,40.58,-79.72,Hobbies & Crafts,2012-10-08 12:09:24,active,414,open,274,2018-01-05 18:00:00,0
+Pittsburgh Area Scrapbooking,PittsburghScrapbooking,New Kensington,40.58,-79.72,Hobbies & Crafts,2006-09-09 22:42:57,active,270,open,56,2017-05-09 16:00:00,1
+The Pittsburgh Jewelry Making Meetup Group,beading,New Kensington,40.58,-79.72,Hobbies & Crafts,2003-07-06 22:48:50,active,520,open,492,2018-01-25 15:00:00,1
+Delmont Dining and Other Fun Stuff,Delmont-Dining-and-Other-Fun-Stuff,Delmont,40.41,-79.57,Socializing,2016-07-30 15:47:15,active,103,open,51,2017-12-02 19:00:00,4
+Pantsuit Nation Of Pittsburgh,Pantsuit-Nation-Of-Pittsburgh,Baden,40.64,-80.2,Movements & Politics,2016-11-10 07:09:29,active,78,open,0,,0
+Essential Oil Lovers Of Pittsburgh,Essential-Oil-Lovers-Of-Pittsburgh,Baden,40.64,-80.2,Health & Wellbeing,2016-07-04 18:04:26,active,208,open,8,2016-12-24 16:00:00,1
+"Laurel Harmony Chorus Group: Women, Fun, Singing,",Laurel-Harmony-Chorus-Group-Women-Fun-Singing-Performing,Greensburg,40.3,-79.54,Music,2013-06-08 15:16:13,active,18,open,92,2018-01-25 19:00:00,1
+3D CG Artists and Animators Meetup (Greensburg),3D-CG-Artists-and-Animators-Meetup-Greensburg,Greensburg,40.3,-79.54,Movies & Film,2017-09-22 20:48:58,active,6,open,0,,0
+The Steel Turtles Walking Club,The-Steel-Turtles-Walking-Club,Greensburg,40.3,-79.54,Outdoors & Adventure,2017-09-06 11:46:31,active,72,approval,3,2018-01-08 17:30:00,1
+Young Adults group,Youngadultsgroup,Greensburg,40.3,-79.54,Religion & Beliefs,2012-07-15 09:37:47,active,289,open,110,2017-11-04 13:00:00,4
+Greensburg Walking and Running Meetup,Greensburg-Walking-and-Running-Meetup,Greensburg,40.3,-79.54,Fitness,2017-05-10 20:22:56,active,29,approval,4,2017-07-15 08:00:00,2
+Fighter Fitness,Fighter-Fitness,Greensburg,40.3,-79.54,Fitness,2017-04-27 16:24:06,active,119,open,11,2017-07-22 13:00:00,1
+Greensburg Cultural Meetup,Greensburg-Culture-Meetup,Greensburg,40.3,-79.54,Arts & Culture,2017-03-20 09:17:07,active,44,approval,5,2017-09-22 18:30:00,2
+Coffee Talks  for Women in Westmoreland County,Coffee-Talks-for-women-in-Westmoreland-County,Greensburg,40.3,-79.54,Socializing,2017-01-27 16:50:25,active,93,approval,31,2017-12-31 07:00:00,1
+Greensburg Young Adult Meetups,Greensburg-Young-Adult-Meetups,Greensburg,40.3,-79.54,Socializing,2017-01-10 07:54:15,active,13,approval,28,2017-12-31 07:00:00,1
+Greensburgers with questions about life faith & God,Greensburgers-with-questions-about-life-faith-God,Greensburg,40.3,-79.54,Religion & Beliefs,2016-12-26 19:17:46,active,38,open,4,2017-04-11 17:30:00,2
+Westmoreland Open Hack,Westmoreland-Open-Hack,Greensburg,40.3,-79.54,Tech,2014-02-23 23:07:33,active,43,approval,32,2015-11-23 19:00:00,7
+Westmoreland Production and Inventory Control Professionals,Westmoreland-Production-and-Inventory-Control-Professionals,Greensburg,40.3,-79.54,Career & Business,2016-10-13 15:41:26,active,13,approval,0,,0
+Women's Small Business Association - Westmoreland County,WSBA-Westmoreland-County,Greensburg,40.3,-79.54,Career & Business,2009-07-08 00:13:28,active,203,open,184,2018-01-25 17:30:00,2
+Moms@Play,momsatplay,Greensburg,40.3,-79.54,Parents & Family,2007-07-20 06:49:04,active,41,approval,4408,2017-11-17 09:30:00,6
+Lost My Job Over 50 Now What,Lost-My-Job-Over-50-Now-What,Aliquippa,40.6,-80.29,Career & Business,2017-08-13 16:13:21,active,32,open,0,,0
+Body & Soul: Lets get fit,Body-Soul-Lets-get-fit,Aliquippa,40.6,-80.29,Health & Wellbeing,2017-08-09 20:46:55,active,90,open,0,,0
+Western Pittsburgh Ensemble voices,Western-Pittsburgh-Ensemble-voices,Burgettstown,40.41,-80.43,Music,2017-10-26 13:06:57,active,18,approval,1,2017-11-16 19:00:00,1
+Jiu-Jitsu Training,Jiu-Jitsu-Training,Burgettstown,40.41,-80.43,Sports & Recreation,2017-09-21 15:31:45,active,16,open,1,2017-09-24 18:00:00,1
+Annual Charity BBQ,meetup-group-kNubMuax,Burgettstown,40.41,-80.43,Community & Environment,2017-07-06 13:21:59,active,6,open,1,2017-07-08 12:00:00,1
+Valencia Sports and Recreation Meetup,Valencia-Sports-and-Recreation-Meetup,Valencia,40.7,-79.92,Sports & Recreation,2017-09-12 10:43:33,active,1,open,0,,0
+Valencia UltraFooz Meetup,Valencia-UltraFooz-Meetup,Valencia,40.7,-79.92,Games,2017-08-29 10:49:20,active,20,open,3,2017-10-14 14:00:00,2
+Cranberry Area Small Business Networking,smbusinessnetworking,Cranberry Twp,40.71,-80.11,Outdoors & Adventure,2016-03-28 15:54:58,active,843,open,16,2017-11-22 17:45:00,1
+Addiction Support Group,Addiction-Support-Group,Cranberry Twp,40.71,-80.11,Support,2018-01-25 11:54:51,active,6,open,0,,0
+Emetophobia Group,Emetophobia-Group,Cranberry Twp,40.71,-80.11,Support,2018-01-24 22:03:14,active,2,open,0,,0
+The Pittsburgh MINI Cooper Meetup Group,motoringtheburgh,Cranberry Twp,40.71,-80.11,Cars & Motorcycles,2009-02-27 20:02:44,active,692,open,515,2017-12-03 13:00:00,13
+North Pittsburgh Entrepreneurs,North-Pittsburgh-Entrepreneurs,Cranberry Twp,40.71,-80.11,Career & Business,2017-12-15 22:15:38,active,39,open,1,2018-01-17 09:00:00,1
+Real Estate Agent 101,Real-Estate-Agent-101,Cranberry Twp,40.71,-80.11,Career & Business,2017-10-20 10:39:51,active,3,open,1,2017-11-11 12:00:00,1
+Cranberry Twp. Referral Group,businessnetwork-1001,Cranberry Twp,40.71,-80.11,Career & Business,2008-08-27 13:20:17,active,706,open,454,2017-08-09 11:00:00,1
+BNI Western PA Business Builders,BNI-Western-PA-Business-Builders,Cranberry Twp,40.71,-80.11,Career & Business,2017-08-18 07:02:44,active,45,open,23,2018-01-23 07:30:00,1
+"Z125s, Groms, and Ruckus Riders",Z125s-Groms-and-Ruckus-Riders,Cranberry Twp,40.71,-80.11,Cars & Motorcycles,2017-05-14 15:17:49,active,18,open,4,2017-09-20 16:00:00,1
+Pittsburgh Area Singles Group--North,Pittsburgh-Area-Singles-Group-North,Cranberry Twp,40.71,-80.11,Singles,2012-05-07 08:34:37,active,469,open,37,2017-06-29 16:30:00,3
+Pittsburgh Mass Mob,Pittsburgh-Mass-Mob,Cranberry Twp,40.71,-80.11,Religion & Beliefs,2014-06-08 14:37:48,active,353,open,32,2017-09-24 10:00:00,9
+Cranberry Twp Dining Out and Social Meetup,Cranberry-Twp-Dining-Out-and-Social-Meetup,Cranberry Twp,40.71,-80.11,Socializing,2016-07-06 15:26:13,grace,280,open,20,2017-12-13 17:30:00,11
+Fayette County Parents meetup,Smock-Moms-Meetup,Smock,39.99,-79.78,Parents & Family,2017-12-22 02:36:51,active,10,open,0,,0
+Connellsville Outdoors Meetup,Connellsville-Outdoors-Meetup,Connellsville,40.03,-79.59,Outdoors & Adventure,2016-08-02 17:15:11,active,49,open,0,,0
+Learn Swift Ohio Valley,Learn-Swift-Ohio-Valley,Weirton,40.42,-80.56,Tech,2017-11-27 12:39:32,active,6,open,0,,0
+Armored Up,Armored-Up,Weirton,40.42,-80.56,Religion & Beliefs,2016-09-22 17:13:04,active,8,approval,2,2017-10-15 14:00:00,1
+Beaver Tai Chi Meetup,Beaver-Tai-Chi-Meetup,Beaver,40.7,-80.36,Health & Wellbeing,2017-11-29 13:00:15,active,23,open,1,2017-12-09 10:30:00,2
+Beaver Active Dogs Meetup,Beaver-Active-Dogs-Meetup,Beaver,40.7,-80.36,Pets & Animals,2017-06-06 15:29:19,active,51,open,1,2017-06-13 17:00:00,5
+Beaver Hidden Gems,Beaver-Hidden-Gems,Beaver,40.7,-80.36,Food & Drink,2017-06-07 12:09:27,active,149,open,5,2017-10-25 17:00:00,6
+Beaver American Sign Language Meetup,Beaver-American-Sign-Language-Meetup,Beaver,40.7,-80.36,Support,2017-04-04 11:19:52,active,17,open,7,2017-09-10 13:00:00,6
+Beaver County LGBT Christians,Beaver-County-LGBT-Christians,Beaver,40.7,-80.36,LGBT,2014-09-06 17:18:29,active,1,approval,1,2014-09-24 18:00:00,1
+Beaver County Unitarian Universalist Community,Beaver-County-Unitarian-Universalist-Community,Beaver,40.7,-80.36,New Age & Spirituality,2017-03-01 19:32:45,active,39,open,7,2018-01-07 18:00:00,1
+Beaver County Real Estate Investors Association Meetup,Beaver-County-Real-Estate-Investors-Association-Meetup,Beaver,40.7,-80.36,Career & Business,2016-05-18 12:34:55,active,82,open,30,2018-01-16 19:00:00,1
+Women's Small Business Association - Beaver County,WSBA-Beaver-County,Beaver,40.7,-80.36,Career & Business,2009-07-12 21:48:51,active,119,open,112,2018-01-25 17:30:00,2
+Latrobe Healthy Weight Loss Meetup,Latrobe-Healthy-Weight-Loss-Meetup,Latrobe,40.31,-79.38,Health & Wellbeing,2017-08-14 15:42:00,active,43,open,1,2017-09-12 17:30:00,12
+Latrobe Healing Power of Music Meetup,Latrobe-Healing-Power-of-Music-Meetup,Latrobe,40.31,-79.38,New Age & Spirituality,2017-05-11 10:13:50,active,104,open,6,2017-09-19 18:00:00,10
+The Pittsburgh Artist Trading Cards Meetup Group,artisttradingcards-89,Butler,40.86,-79.9,Hobbies & Crafts,2004-01-16 20:21:47,active,86,open,97,2017-08-19 12:00:00,1
+"Who Me, Become a Real Estate Agent ??",meetup-group-dlFPMvrR,Butler,40.86,-79.9,Career & Business,2017-10-24 09:00:03,active,8,open,8,2018-01-18 14:00:00,1
+Agnostic and free thinking about religion,Agnostic-and-free-thinking-about-religion,Butler,40.86,-79.9,Religion & Beliefs,2016-08-03 21:23:01,active,94,open,2,2016-10-26 18:00:00,1
+Hot Yoga Butler,Hot-Yoga-Butler,Butler,40.86,-79.9,Health & Wellbeing,2016-07-04 18:24:33,active,148,open,46,2018-01-06 09:30:00,2
+WSBA - Fayette County,WSBA-Fayette,Uniontown,39.86,-79.76,Career & Business,2010-04-21 20:12:28,active,32,open,21,2015-07-20 17:00:00,1
+BNI Western PA Ultimate Chapter,BNI-Western-PA-Ultimate-Chapter,Uniontown,39.86,-79.76,Career & Business,2017-08-22 06:57:51,active,14,open,21,2018-01-23 07:00:00,1
+Tri-State (OH/WV/PA) ePaper Cutter Crafts Meetup,Tri-State-OH-WV-PA-ePaper-Cutter-Crafts-Meetup,Steubenville,40.38,-80.7,Hobbies & Crafts,2015-02-16 16:08:23,active,26,approval,32,2018-01-21 13:00:00,1
+EC Area Bloggers Group,EC-Area-Bloggers-Group,Ellwood City,40.86,-80.27,Tech,2017-09-26 12:17:22,active,3,open,0,,0
+Handmade Greeting Cards Meetup,Steubenville-Handmade-Meetup,Steubenville,40.37,-80.71,Hobbies & Crafts,2015-02-24 19:04:37,active,25,approval,32,2018-01-18 18:30:00,1
+Medical Cannabis Patient Support Group,meetup-group-goOMtDSy,Ligonier,40.22,-79.22,Health & Wellbeing,2017-09-30 08:55:46,active,11,open,3,2017-11-15 19:00:00,0
+Tri-State Patriots,Tri-State-Patriots,Wellsville,40.63,-80.67,Movements & Politics,2015-09-05 14:24:22,active,10,open,3,2015-10-17 17:00:00,3
+Pyles Elite -  Kangoo Jumps Meetup,Pyles-Elite-Kangoo-Jumps-Meetup,Wheeling,40.07,-80.69,Fitness,2017-11-17 15:23:51,active,1,open,0,,0
+Wheeling Investing Meetup,Wheeling-Investing-Meetup,Wheeling,40.07,-80.69,Career & Business,2017-09-27 20:47:32,active,8,open,0,,0
+Wheeling Naturism Meetup,Wheeling-Naturism-Meetup,Wheeling,40.07,-80.69,Lifestyle,2017-03-06 12:02:51,active,42,open,3,2017-09-07 18:00:00,2
+Ohio Valley Social Peeps!,Ohio-Valley-Social-Peeps,Wheeling,40.07,-80.69,Socializing,2016-09-19 11:51:05,active,307,open,29,2017-03-18 17:00:00,7
+Outdoor Adult Basketball League!,Beginner-Intermediate-Basketball-League,Robinson,40.41,-79.14,Sports & Recreation,2017-07-29 19:34:13,active,17,open,3,2017-09-17 11:00:00,1
+Ladies of Robinson Book Club,Ladies-of-Robinson-Book-Club,Robinson,40.41,-79.14,Book Clubs,2017-07-11 15:52:17,active,16,approval,1,2017-07-27 18:30:00,4
+Ohiopyle Events & activities Meetup,Ohiopyle-Events-activities-Meetup,Ohiopyle,39.83,-79.45,Fitness,2016-04-16 11:00:09,active,337,open,69,2017-10-19 17:00:00,4
+Holistic Health Enthusiasts,Holistic-Health-Enthusiasts,Indiana,40.62,-79.16,Health & Wellbeing,2017-11-04 19:53:44,active,50,open,1,2017-11-11 13:00:00,1
+Indiana MOVE,Indiana-MOVE-15701,Indiana,40.62,-79.16,Fitness,2017-07-08 19:20:25,grace,41,open,17,2017-08-26 08:00:00,1
+Indiana County Woodturners Association,Indiana-County-Woodturners-Association,Indiana,40.62,-79.16,Hobbies & Crafts,2014-11-08 10:02:27,active,50,open,30,2018-01-09 18:30:00,1
+Live TRUE Empowerment Life Coaching Group,Live-TRUE-Empowerment-Life-Coaching-Group,Indiana,40.62,-79.16,Health & Wellbeing,2017-03-16 18:30:50,active,28,approval,3,2017-10-28 17:00:00,1
+Embrace the Truth Circle,Embrace-the-Circle,Indiana,40.62,-79.16,New Age & Spirituality,2015-01-06 10:22:19,grace,50,open,21,2015-10-08 17:30:00,2
+Indiana PA Permaculture Guild,Indiana-PA-Permaculture-Guild,Indiana,40.62,-79.16,Community & Environment,2017-02-11 13:18:58,active,63,open,9,2017-10-08 13:00:00,2
+Indiana COPD/slow movers Group,Indiana-COPD-slow-movers-Group,Indiana,40.62,-79.16,Outdoors & Adventure,2016-10-21 14:10:16,active,11,approval,0,,0
+Oily Goodness - Health & Fitness with Essential Oils!,Oily-Goodness-Health-Fitness-with-Essential-Oils,New Castle,40.99,-80.34,Health & Wellbeing,2017-10-10 20:50:35,active,45,open,1,2017-10-18 17:15:00,1
+New Castle Stand Up Paddle Boarding Meetup,New-Castle-Stand-Up-Paddle-Boarding-Meetup,New Castle,40.99,-80.34,Sports & Recreation,2017-06-15 08:51:42,active,20,open,5,2017-08-13 14:00:00,1
+Open Door Hangout,Open-Door-Hangout,New Castle,40.99,-80.34,LGBT,2017-04-04 11:49:58,active,113,open,8,2018-01-13 16:00:00,1
+WVU Soccer pickup game,WVU-Soccer-pickup-game,Morgantown,39.64,-79.95,Sports & Recreation,2018-01-25 19:58:24,active,3,open,0,,0
+Beyond 45,Beyond-45,Morgantown,39.64,-79.95,Socializing,2016-01-18 17:41:48,active,45,approval,27,2017-09-06 18:00:00,3
+Morgantown Skeptics in the Pub,Morgantown-Skeptics-in-the-Pub,Morgantown,39.64,-79.95,Education & Learning,2013-01-28 16:22:07,active,10,open,75,2016-12-08 18:00:00,1
+Survivors Offering Support (SOS): Trauma Recovery Groups,Survivors-Offering-Support-SOS-Trauma-Recovery-Group,Morgantown,39.64,-79.95,Support,2014-02-02 10:11:58,active,19,open,1,2014-02-15 11:00:00,3
+WV/PA Autism Support Group,WV-PA-Autism-Support-Group,Morgantown,39.64,-79.95,Support,2014-02-09 16:49:15,active,23,open,1,2014-02-22 11:00:00,2
+Morgantown Writer's Accountability Meetup,Morgantown-Writers-Accountability-Meetup,Morgantown,39.63,-79.96,Writing,2017-10-27 22:18:29,active,23,open,2,2017-11-12 15:15:00,3
+Morgantown doTERRA Essential Oils,Morgantown-doTERRA-Essential-Oils,Morgantown,39.63,-79.96,Career & Business,2017-10-19 07:20:51,active,13,open,1,2017-10-21 12:00:00,1
+West Virginia Friends of Satan,West-Virginia-Friends-of-Satan,Morgantown,39.63,-79.96,Education & Learning,2017-09-08 15:27:18,grace,26,open,2,2017-11-25 16:00:00,1
+West Virginia Sierra Club,West-Virginia-Chapter-Sierra-Club,Morgantown,39.63,-79.96,Outdoors & Adventure,2015-11-18 18:25:09,active,136,approval,84,2017-11-18 10:00:00,0
+Morgantown Astronomy Meetup,Morgantown-Astronomy-Meetup,Morgantown,39.63,-79.96,Education & Learning,2015-05-06 07:58:57,active,49,open,0,,0
+"Monongahela Freethinkers: Atheism, Skepticism, Humanism",Morgantown-Atheists,Morgantown,39.63,-79.96,Religion & Beliefs,2013-06-05 00:10:07,active,306,open,74,2017-11-16 18:30:00,3
